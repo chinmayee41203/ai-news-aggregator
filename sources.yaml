@@ -1,0 +1,141 @@
+# Every news source the pipeline reads.
+# Adding a source = adding one entry. Fields:
+#   name     unique id
+#   type     rss | google_news | guardian | youtube
+#   section  tech | business | politics
+#   region   global | india
+# plus the type-specific field: url (rss), query + locale (google_news),
+# guardian_section (guardian), channels (youtube).
+
+# ---------------- TECH ----------------
+- name: nyt_tech
+  type: rss
+  section: tech
+  region: global
+  url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+
+- name: cnn_tech
+  type: google_news
+  section: tech
+  region: global
+  query: "site:cnn.com technology"
+  locale: us
+
+- name: guardian_tech
+  type: guardian
+  section: tech
+  region: global
+  guardian_section: technology
+
+- name: timesnow_tech
+  type: rss
+  section: tech
+  region: india
+  url: https://www.timesnownews.com/feeds/gns-en-technology-science.xml
+
+- name: toi_tech
+  type: google_news
+  section: tech
+  region: india
+  query: "site:timesofindia.indiatimes.com/technology"
+  locale: in
+
+- name: openai_news
+  type: rss
+  section: tech
+  region: global
+  url: https://openai.com/news/rss.xml
+
+- name: anthropic_news
+  type: rss
+  section: tech
+  region: global
+  url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+
+- name: anthropic_engineering
+  type: rss
+  section: tech
+  region: global
+  url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
+
+- name: anthropic_research
+  type: rss
+  section: tech
+  region: global
+  url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
+
+- name: ai_youtube
+  type: youtube
+  section: tech
+  region: global
+  channels:
+    UCn8ujwUInbJkBhffxqAPBVQ: Dave Ebbelaar
+    UCawZsQWqfGSbCI5yjkdVkTA: Matthew Berman
+    UCNJ1Ymd5yFuUPtn21xtRbbw: AI Explained
+    UCbfYPyITQ-7l4upoX8nvctg: Two Minute Papers
+
+# ---------------- BUSINESS ----------------
+- name: nyt_business
+  type: rss
+  section: business
+  region: global
+  url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+
+- name: cnn_business
+  type: google_news
+  section: business
+  region: global
+  query: "site:cnn.com business"
+  locale: us
+
+- name: guardian_business
+  type: guardian
+  section: business
+  region: global
+  guardian_section: business
+
+- name: timesnow_business
+  type: rss
+  section: business
+  region: india
+  url: https://www.timesnownews.com/feeds/gns-en-business-economy.xml
+
+- name: toi_business
+  type: rss
+  section: business
+  region: india
+  url: https://timesofindia.indiatimes.com/rssfeeds/1898055.cms
+
+# ---------------- POLITICS ----------------
+- name: nyt_politics
+  type: rss
+  section: politics
+  region: global
+  url: https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+
+- name: cnn_politics
+  type: google_news
+  section: politics
+  region: global
+  query: "site:cnn.com politics"
+  locale: us
+
+- name: guardian_politics
+  type: guardian
+  section: politics
+  region: global
+  guardian_section: politics
+
+- name: timesnow_politics
+  type: google_news
+  section: politics
+  region: india
+  query: "site:timesnownews.com politics"
+  locale: in
+
+- name: toi_politics
+  type: google_news
+  section: politics
+  region: india
+  query: "site:timesofindia.indiatimes.com politics"
+  locale: in
