@@ -6,6 +6,9 @@
 #   region   global | india
 # plus the type-specific field: url (rss), query + locale (google_news),
 # guardian_section (guardian), channels (youtube).
+# Optional:
+#   fetch_content: true   download the transcript / full text in Phase 3
+#                         (AI sources only — never for news publishers)
 
 # ---------------- TECH ----------------
 - name: nyt_tech
@@ -51,23 +54,27 @@
   section: tech
   region: global
   url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+  fetch_content: true
 
 - name: anthropic_engineering
   type: rss
   section: tech
   region: global
   url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_engineering.xml
+  fetch_content: true
 
 - name: anthropic_research
   type: rss
   section: tech
   region: global
   url: https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_research.xml
+  fetch_content: true
 
 - name: ai_youtube
   type: youtube
   section: tech
   region: global
+  fetch_content: true
   channels:
     UCn8ujwUInbJkBhffxqAPBVQ: Dave Ebbelaar
     UCawZsQWqfGSbCI5yjkdVkTA: Matthew Berman

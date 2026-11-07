@@ -49,10 +49,11 @@ def strip_html(text: str, max_len: int = 600) -> str:
 class BaseScraper(ABC):
     """Fetches items from one source and returns those newer than `hours_back`."""
 
-    def __init__(self, name: str, section: str, region: str, **options):
+    def __init__(self, name: str, section: str, region: str, fetch_content: bool = False, **options):
         self.name = name
         self.section = section
         self.region = region
+        self.fetch_content = fetch_content  # used by app/services/enrich.py
         self.options = options
 
     @abstractmethod

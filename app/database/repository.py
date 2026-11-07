@@ -1,6 +1,8 @@
 """All reads/writes to the database go through here."""
 
-from sqlalchemy import func, select
+from datetime import datetime, timedelta, timezone
+
+from sqlalchemy import func, select, update
 from sqlalchemy.dialects.postgresql import insert
 
 from app.database.connection import get_session
@@ -29,6 +31,49 @@ def save_articles(articles: list[ScrapedArticle]) -> tuple[int, int, int]:
     with get_session() as session:
         inserted = len(session.execute(stmt).all())
     return inserted, len(rows) - inserted, len(articles) - len(rows)
+
+
+def _cutoff(hours: int) -> datetime:
+    return datetime.now(timezone.utc) - timedelta(hours=hours)
+
+
+def get_recent_articles(hours: int) -> list[Article]:
+    """Articles published in the last `hours`, newest first."""
+    stmt = (
+        select(Article)
+        .where(Article.published_at >= _cutoff(hours))
+        .order_by(Article.published_at.desc())
+    )
+    with get_session() as session:
+        return list(session.scalars(stmt))
+
+
+def mark_content_skipped(eligible_sources: list[str]) -> int:
+    """Pending rows from sources we never download (news publishers) -> 'skipped'."""
+    stmt = (
+        update(Article)
+        .where(Article.content_status == "pending", Article.source.not_in(eligible_sources))
+        .values(content_status="skipped")
+    )
+    with get_session() as session:
+        return session.execute(stmt).rowcount
+
+
+def get_pending_content(eligible_sources: list[str], hours: int) -> list[Article]:
+    """Recent rows from AI sources that still need a transcript / full text."""
+    stmt = select(Article).where(
+        Article.content_status == "pending",
+        Article.source.in_(eligible_sources),
+        Article.published_at >= _cutoff(hours),
+    )
+    with get_session() as session:
+        return list(session.scalars(stmt))
+
+
+def set_content(article_id: int, content: str | None, status: str) -> None:
+    stmt = update(Article).where(Article.id == article_id).values(content=content, content_status=status)
+    with get_session() as session:
+        session.execute(stmt)
 
 
 def count_articles_by_section() -> dict[tuple[str, str], int]:
