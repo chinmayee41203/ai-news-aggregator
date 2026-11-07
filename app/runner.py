@@ -1,7 +1,7 @@
-"""Runs every source in sources.yaml and collects recent articles.
+"""Runs every source in sources.yaml, collects recent articles and saves them.
 
-Phase 1 checkpoint:  uv run python -m app.runner --dry-run
-(Saving to the database is added in Phase 2.)
+Save to the database:   uv run python -m app.runner
+Only print (no DB):     uv run python -m app.runner --dry-run
 """
 
 import argparse
@@ -74,16 +74,26 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Collect recent news from all sources.")
     parser.add_argument("--hours", type=int, default=HOURS_BACK, help="look back this many hours")
     parser.add_argument("--show", type=int, default=5, help="headlines to print per group")
-    parser.add_argument(
-        "--dry-run",
-        action="store_true",
-        help="only print results (the database is added in Phase 2, so this is the only mode for now)",
-    )
+    parser.add_argument("--dry-run", action="store_true", help="only print results, don't save")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
     articles, report = run_scrapers(args.hours)
     print_summary(articles, report, args.show)
+
+    if args.dry_run:
+        return
+
+    # Imported here so --dry-run works even when the database is not running.
+    from app.database.create_tables import create_tables
+    from app.database.repository import count_articles_by_section, save_articles
+
+    create_tables()
+    inserted, already, dupes = save_articles(articles)
+    print(f"\nSaved: {inserted} new, {already} already in the database, {dupes} duplicates across feeds")
+    print("Stored per section/region:")
+    for (section, region), n in sorted(count_articles_by_section().items()):
+        print(f"  {section:<9} {region:<7} {n}")
 
 
 if __name__ == "__main__":
