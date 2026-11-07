@@ -5,9 +5,10 @@ Steps, in order:
 1. drop junk pages (e.g. CNN stock-quote pages)
 2. Google News items only: Gemini labels each with its real section
    (tech / business / politics / none) — their section otherwise only comes
-   from the search query. "none" items are dropped. Direct feeds keep their
-   feed's section. If Gemini is unavailable, Google News items are left out
-   for this run rather than risk the wrong section.
+   from the search query. "none" items are dropped. Labels are saved in the
+   database, so only new items are sent to Gemini. Direct feeds keep their
+   feed's section. If Gemini is unavailable, unlabeled Google News items are
+   left out for this run rather than risk the wrong section.
 3. merge near-identical headlines within a section (same story, several outlets)
 
 Checkpoint:  uv run python -m app.services.filter
@@ -61,6 +62,8 @@ class FilterResult:
     off_topic: int = 0  # Gemini said "none" (or skipped the item)
     moved: int = 0  # Gemini put it in a different section
     unclassified: int = 0  # Gemini unavailable -> left out
+    reused_labels: int = 0  # labeled in an earlier run, no Gemini call needed
+    new_labels: int = 0  # labeled by Gemini in this run
     merged: int = 0
 
 
@@ -70,8 +73,19 @@ def _default_classifier(items: list[tuple[int, str, str]]) -> dict[int, str]:
     return classify_sections(items)
 
 
-def filter_articles(articles: list, classify: Classifier = _default_classifier) -> FilterResult:
-    """`articles`: objects with id, title, description, section, source, published_at."""
+def _save_labels(labels: dict[int, str]) -> None:
+    from app.database.repository import save_section_labels
+
+    save_section_labels(labels)
+
+
+def filter_articles(
+    articles: list,
+    classify: Classifier = _default_classifier,
+    save_labels: Callable[[dict[int, str]], None] = _save_labels,
+) -> FilterResult:
+    """`articles`: objects with id, title, description, section, source,
+    published_at and section_label (Gemini's saved label, or None)."""
     untrusted = {s["name"] for s in load_sources() if s["type"] == "google_news"}
     result = FilterResult()
     by_section: dict[str, list] = defaultdict(list)
@@ -86,23 +100,30 @@ def filter_articles(articles: list, classify: Classifier = _default_classifier) 
         else:
             by_section[a.section].append(a)
 
-    if to_classify:
-        try:
-            labels = classify([(a.id, a.title, a.description or "") for a in to_classify])
-        except Exception as exc:
-            log.warning("Section classifier failed, leaving out %d Google News items: %s", len(to_classify), exc)
-            result.unclassified = len(to_classify)
-            labels = None
+    labels: dict[int, str] = {a.id: a.section_label for a in to_classify if a.section_label}
+    result.reused_labels = len(labels)
+    unlabeled = [a for a in to_classify if not a.section_label]
 
-        if labels is not None:
-            for a in to_classify:
-                label = labels.get(a.id, "none")
-                if label not in SECTIONS:
-                    result.off_topic += 1
-                    continue
-                if label != a.section:
-                    result.moved += 1
-                by_section[label].append(a)
+    if unlabeled:
+        try:
+            new = classify([(a.id, a.title, a.description or "") for a in unlabeled])
+            save_labels(new)
+            labels.update(new)
+            result.new_labels = len(new)
+        except Exception as exc:
+            log.warning("Section classifier failed, leaving out %d unlabeled Google News items: %s", len(unlabeled), exc)
+
+    for a in to_classify:
+        if a.id not in labels:
+            result.unclassified += 1  # Gemini failed or skipped it; retried next run
+            continue
+        label = labels[a.id]
+        if label not in SECTIONS:
+            result.off_topic += 1
+            continue
+        if label != a.section:
+            result.moved += 1
+        by_section[label].append(a)
 
     for section in SECTIONS:
         kept: list = []
@@ -132,8 +153,10 @@ def main() -> None:
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 
+    from app.database.create_tables import create_tables
     from app.database.repository import get_recent_articles
 
+    create_tables()  # applies the section_label column migration if needed
     result = filter_articles(get_recent_articles(args.hours))
 
     print(f"\nLast {args.hours}h — before → after filtering")
@@ -143,8 +166,9 @@ def main() -> None:
     print(
         f"\nDropped junk: {result.junk} | off-topic (Gemini: none): {result.off_topic} | "
         f"moved to another section: {result.moved} | merged duplicates: {result.merged}"
-        + (f" | left out (Gemini unavailable): {result.unclassified}" if result.unclassified else "")
+        + (f" | left out (not labeled yet): {result.unclassified}" if result.unclassified else "")
     )
+    print(f"Section labels: {result.reused_labels} reused from earlier runs, {result.new_labels} new from Gemini")
     for s in SECTIONS:
         india = sum(1 for a in result.candidates[s] if a.region == "india")
         print(f"\n=== {s.upper()} — {result.after[s]} candidates ({india} India) ===")

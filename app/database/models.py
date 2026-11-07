@@ -23,6 +23,9 @@ class Article(Base):
     publisher: Mapped[str] = mapped_column(String(128), default="")
     external_id: Mapped[str | None] = mapped_column(String(64))  # e.g. YouTube video id
     published_at: Mapped[datetime] = mapped_column(DateTime(timezone=True), index=True)
+    # Google News items only: Gemini's section (tech | business | politics | none).
+    # Saved so each item is classified once, even across reruns.
+    section_label: Mapped[str | None] = mapped_column(String(16))
     # Full text / transcript — filled in Phase 3 for AI tech items only.
     content: Mapped[str | None] = mapped_column(Text)
     content_status: Mapped[str] = mapped_column(String(16), default="pending")  # pending | ok | unavailable

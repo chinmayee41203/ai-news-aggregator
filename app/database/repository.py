@@ -70,6 +70,15 @@ def get_pending_content(eligible_sources: list[str], hours: int) -> list[Article
         return list(session.scalars(stmt))
 
 
+def save_section_labels(labels: dict[int, str]) -> None:
+    """Store Gemini's section label per article id."""
+    if not labels:
+        return
+    with get_session() as session:
+        for article_id, label in labels.items():
+            session.execute(update(Article).where(Article.id == article_id).values(section_label=label))
+
+
 def set_content(article_id: int, content: str | None, status: str) -> None:
     stmt = update(Article).where(Article.id == article_id).values(content=content, content_status=status)
     with get_session() as session:
