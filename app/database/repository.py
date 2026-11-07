@@ -103,6 +103,24 @@ def replace_unsent_digests(digest_date: date, rows: list[dict]) -> int:
     return len(rows)
 
 
+def get_unsent_digests(digest_date: date) -> list[tuple[Digest, Article]]:
+    """Today's picks that haven't been emailed yet, by section and rank."""
+    stmt = (
+        select(Digest, Article)
+        .join(Article, Article.id == Digest.article_id)
+        .where(Digest.digest_date == digest_date, Digest.sent_at.is_(None))
+        .order_by(Digest.section, Digest.rank)
+    )
+    with get_session() as session:
+        return [(d, a) for d, a in session.execute(stmt)]
+
+
+def mark_digests_sent(digest_ids: list[int]) -> None:
+    stmt = update(Digest).where(Digest.id.in_(digest_ids)).values(sent_at=func.now())
+    with get_session() as session:
+        session.execute(stmt)
+
+
 def count_articles_by_section() -> dict[tuple[str, str], int]:
     """{(section, region): count} for every stored article."""
     stmt = select(Article.section, Article.region, func.count()).group_by(

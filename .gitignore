@@ -2,6 +2,9 @@
 .env
 .env.*
 !.env.example
+credentials/
+client_secret*.json
+*token*.json
 
 # Python-generated files
 __pycache__/

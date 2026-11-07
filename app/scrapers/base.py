@@ -75,4 +75,5 @@ class BaseScraper(ABC):
         return response
 
     def make_article(self, **fields) -> Article:
+        fields.setdefault("publisher", self.options.get("publisher", ""))
         return Article(source=self.name, section=self.section, region=self.region, **fields)

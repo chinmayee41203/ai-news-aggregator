@@ -7,11 +7,14 @@
 # plus the type-specific field: url (rss), query + locale (google_news),
 # guardian_section (guardian), channels (youtube).
 # Optional:
+#   publisher: Name   outlet name shown in the email (Google News, Guardian and
+#                     YouTube items get it automatically)
 #   fetch_content: true   download the transcript / full text in Phase 3
 #                         (AI sources only — never for news publishers)
 
 # ---------------- TECH ----------------
 - name: nyt_tech
+  publisher: The New York Times
   type: rss
   section: tech
   region: global
@@ -31,6 +34,7 @@
   guardian_section: technology
 
 - name: timesnow_tech
+  publisher: Times Now
   type: rss
   section: tech
   region: india
@@ -44,12 +48,14 @@
   locale: in
 
 - name: openai_news
+  publisher: OpenAI
   type: rss
   section: tech
   region: global
   url: https://openai.com/news/rss.xml
 
 - name: anthropic_news
+  publisher: Anthropic
   type: rss
   section: tech
   region: global
@@ -57,6 +63,7 @@
   fetch_content: true
 
 - name: anthropic_engineering
+  publisher: Anthropic
   type: rss
   section: tech
   region: global
@@ -64,6 +71,7 @@
   fetch_content: true
 
 - name: anthropic_research
+  publisher: Anthropic
   type: rss
   section: tech
   region: global
@@ -83,6 +91,7 @@
 
 # ---------------- BUSINESS ----------------
 - name: nyt_business
+  publisher: The New York Times
   type: rss
   section: business
   region: global
@@ -102,12 +111,14 @@
   guardian_section: business
 
 - name: timesnow_business
+  publisher: Times Now
   type: rss
   section: business
   region: india
   url: https://www.timesnownews.com/feeds/gns-en-business-economy.xml
 
 - name: toi_business
+  publisher: The Times of India
   type: rss
   section: business
   region: india
@@ -115,6 +126,7 @@
 
 # ---------------- POLITICS ----------------
 - name: nyt_politics
+  publisher: The New York Times
   type: rss
   section: politics
   region: global
