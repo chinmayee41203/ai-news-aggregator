@@ -1,23 +1,29 @@
 """Phase 3 filter: turns the last 24h of stored articles into clean candidates
-per section, before anything is sent to Gemini.
+per section, before ranking.
 
 Steps, in order:
 1. drop junk pages (e.g. CNN stock-quote pages)
-2. fix sections for Google News items (their section only comes from the search
-   query, so a CNN politics story can arrive through the "technology" search);
-   drop them if they match no section's keywords
+2. Google News items only: Gemini labels each with its real section
+   (tech / business / politics / none) — their section otherwise only comes
+   from the search query. "none" items are dropped. Direct feeds keep their
+   feed's section. If Gemini is unavailable, Google News items are left out
+   for this run rather than risk the wrong section.
 3. merge near-identical headlines within a section (same story, several outlets)
 
 Checkpoint:  uv run python -m app.services.filter
 """
 
 import argparse
+import logging
 import re
 from collections import Counter, defaultdict
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from difflib import SequenceMatcher
 
 from app.config import HOURS_BACK, SECTIONS, load_sources
+
+log = logging.getLogger(__name__)
 
 JUNK_PATTERNS = [
     re.compile(p, re.IGNORECASE)
@@ -27,50 +33,9 @@ JUNK_PATTERNS = [
     )
 ]
 
-SECTION_KEYWORDS: dict[str, list[str]] = {
-    "tech": [
-        "ai", "artificial intelligence", "openai", "chatgpt", "gemini", "anthropic", "claude",
-        "llm", "chatbot", "deepfake", "algorithm", "chip", "chips", "semiconductor", "nvidia",
-        "apple", "iphone", "android", "google", "microsoft", "meta", "amazon", "samsung",
-        "smartphone", "app", "apps", "software", "startup", "cyber", "cybersecurity", "hack",
-        "hacker", "data", "cloud", "robot", "robotics", "tech", "technology", "internet",
-        "social media", "tesla", "electric vehicle", "ev", "space", "satellite", "isro", "nasa",
-        "quantum", "5g", "crypto", "bitcoin", "gadget", "laptop", "elon musk",
-    ],
-    "business": [
-        "market", "markets", "stock", "stocks", "shares", "sensex", "nifty", "wall street",
-        "dow", "nasdaq", "economy", "economic", "gdp", "inflation", "recession", "rbi", "fed",
-        "federal reserve", "interest rate", "rates", "bank", "banks", "earnings", "profit",
-        "revenue", "ipo", "deal", "merger", "acquisition", "investor", "investors", "trade",
-        "tariff", "tariffs", "oil", "prices", "company", "companies", "ceo", "business",
-        "finance", "tax", "budget", "rupee", "dollar", "funding", "layoffs", "jobs", "retail",
-        "consumer", "billion", "million", "crore", "lakh",
-    ],
-    "politics": [
-        "election", "elections", "vote", "voters", "poll", "polls", "midterm", "minister",
-        "government", "parliament", "congress", "senate", "senator", "president", "prime minister",
-        "modi", "trump", "bjp", "aap", "party", "campaign", "policy", "law", "bill", "court",
-        "supreme court", "governor", "cabinet", "opposition", "diplomat", "diplomatic", "war",
-        "sanctions", "white house", "lok sabha", "rajya sabha", "chief minister", "democrat",
-        "democrats", "republican", "republicans", "gop", "mla", "protest", "rally", "nato",
-        "ceasefire", "military", "immigration",
-    ],
-}
-
-_KEYWORD_RE = {
-    section: re.compile(r"\b(" + "|".join(re.escape(w) for w in words) + r")\b", re.IGNORECASE)
-    for section, words in SECTION_KEYWORDS.items()
-}
-
 STOPWORDS = set("a an the of to in on for and or is are was were be by with at from as it its this that".split())
 
-
-def section_scores(title: str, description: str) -> dict[str, int]:
-    """Keyword hits per section; title hits count double."""
-    return {
-        s: 2 * len(rx.findall(title)) + len(rx.findall(description or ""))
-        for s, rx in _KEYWORD_RE.items()
-    }
+Classifier = Callable[[list[tuple[int, str, str]]], dict[int, str]]
 
 
 def normalize_title(title: str) -> str:
@@ -93,34 +58,51 @@ class FilterResult:
     before: Counter = field(default_factory=Counter)
     after: Counter = field(default_factory=Counter)
     junk: int = 0
-    off_topic: int = 0
-    moved: int = 0
+    off_topic: int = 0  # Gemini said "none" (or skipped the item)
+    moved: int = 0  # Gemini put it in a different section
+    unclassified: int = 0  # Gemini unavailable -> left out
     merged: int = 0
 
 
-def filter_articles(articles: list) -> FilterResult:
-    """`articles`: objects with title, description, section, source, published_at."""
+def _default_classifier(items: list[tuple[int, str, str]]) -> dict[int, str]:
+    from app.agent.section_classifier import classify_sections
+
+    return classify_sections(items)
+
+
+def filter_articles(articles: list, classify: Classifier = _default_classifier) -> FilterResult:
+    """`articles`: objects with id, title, description, section, source, published_at."""
     untrusted = {s["name"] for s in load_sources() if s["type"] == "google_news"}
     result = FilterResult()
     by_section: dict[str, list] = defaultdict(list)
+    to_classify: list = []
 
     for a in articles:
         result.before[a.section] += 1
         if any(p.search(a.title) for p in JUNK_PATTERNS):
             result.junk += 1
-            continue
+        elif a.source in untrusted:
+            to_classify.append(a)
+        else:
+            by_section[a.section].append(a)
 
-        section = a.section
-        if a.source in untrusted:
-            scores = section_scores(a.title, a.description)
-            best = max(scores, key=lambda s: (scores[s], s == a.section))
-            if scores[best] == 0:
-                result.off_topic += 1
-                continue
-            if best != a.section:
-                result.moved += 1
-                section = best
-        by_section[section].append(a)
+    if to_classify:
+        try:
+            labels = classify([(a.id, a.title, a.description or "") for a in to_classify])
+        except Exception as exc:
+            log.warning("Section classifier failed, leaving out %d Google News items: %s", len(to_classify), exc)
+            result.unclassified = len(to_classify)
+            labels = None
+
+        if labels is not None:
+            for a in to_classify:
+                label = labels.get(a.id, "none")
+                if label not in SECTIONS:
+                    result.off_topic += 1
+                    continue
+                if label != a.section:
+                    result.moved += 1
+                by_section[label].append(a)
 
     for section in SECTIONS:
         kept: list = []
@@ -148,18 +130,20 @@ def main() -> None:
     parser.add_argument("--hours", type=int, default=HOURS_BACK)
     parser.add_argument("--show", type=int, default=5, help="headlines to print per section")
     args = parser.parse_args()
+    logging.basicConfig(level=logging.INFO, format="%(levelname)s %(name)s: %(message)s")
 
     from app.database.repository import get_recent_articles
 
     result = filter_articles(get_recent_articles(args.hours))
 
-    print(f"Last {args.hours}h — before → after filtering")
+    print(f"\nLast {args.hours}h — before → after filtering")
     for s in SECTIONS:
         print(f"  {s:<9} {result.before[s]:>4} → {result.after[s]:>4}")
     print(f"  total     {sum(result.before.values()):>4} → {sum(result.after.values()):>4}")
     print(
-        f"\nDropped junk: {result.junk} | off-topic (no keywords): {result.off_topic} | "
+        f"\nDropped junk: {result.junk} | off-topic (Gemini: none): {result.off_topic} | "
         f"moved to another section: {result.moved} | merged duplicates: {result.merged}"
+        + (f" | left out (Gemini unavailable): {result.unclassified}" if result.unclassified else "")
     )
     for s in SECTIONS:
         india = sum(1 for a in result.candidates[s] if a.region == "india")
