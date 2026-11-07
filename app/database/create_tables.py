@@ -14,6 +14,7 @@ from app.database.models import Base
 
 MIGRATIONS = [
     "ALTER TABLE articles ADD COLUMN IF NOT EXISTS section_label VARCHAR(16)",
+    "ALTER TABLE digests ADD COLUMN IF NOT EXISTS about_india BOOLEAN NOT NULL DEFAULT FALSE",
 ]
 
 

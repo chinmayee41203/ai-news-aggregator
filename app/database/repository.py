@@ -1,12 +1,12 @@
 """All reads/writes to the database go through here."""
 
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 
-from sqlalchemy import func, select, update
+from sqlalchemy import delete, func, select, update
 from sqlalchemy.dialects.postgresql import insert
 
 from app.database.connection import get_session
-from app.database.models import Article
+from app.database.models import Article, Digest
 from app.scrapers.base import Article as ScrapedArticle
 
 
@@ -83,6 +83,24 @@ def set_content(article_id: int, content: str | None, status: str) -> None:
     stmt = update(Article).where(Article.id == article_id).values(content=content, content_status=status)
     with get_session() as session:
         session.execute(stmt)
+
+
+def get_sent_article_ids() -> set[int]:
+    """Articles already included in an email that was sent — never repeat them."""
+    stmt = select(Digest.article_id).where(Digest.sent_at.is_not(None))
+    with get_session() as session:
+        return set(session.scalars(stmt))
+
+
+def replace_unsent_digests(digest_date: date, rows: list[dict]) -> int:
+    """Store today's picks. Re-running the same day replaces the unsent picks
+    instead of piling up duplicates. Returns the number of rows saved."""
+    with get_session() as session:
+        session.execute(
+            delete(Digest).where(Digest.digest_date == digest_date, Digest.sent_at.is_(None))
+        )
+        session.add_all(Digest(digest_date=digest_date, **row) for row in rows)
+    return len(rows)
 
 
 def count_articles_by_section() -> dict[tuple[str, str], int]:

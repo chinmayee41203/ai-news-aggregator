@@ -23,6 +23,18 @@ RETRYABLE_CODES = {429, 500, 503}
 FALLBACK_CODES = RETRYABLE_CODES | {404}
 
 
+def is_daily_quota_error(exc: errors.APIError) -> bool:
+    """429 because the model's *daily* free quota is used up — retrying won't help today."""
+    if exc.code != 429:
+        return False
+    details = exc.details if isinstance(exc.details, dict) else {}
+    for det in details.get("error", {}).get("details", []):
+        for violation in det.get("violations", []):
+            if "PerDay" in violation.get("quotaId", ""):
+                return True
+    return False
+
+
 def low_thinking_config(model: str) -> types.ThinkingConfig:
     """Least "thinking" each model generation accepts (faster, fewer tokens).
 
@@ -36,8 +48,8 @@ def low_thinking_config(model: str) -> types.ThinkingConfig:
 
 
 class GeminiAgent:
-    # Free tier allows a limited number of requests per minute; keep a gap between calls.
-    min_interval = float(os.getenv("GEMINI_MIN_INTERVAL_SECONDS", "6"))
+    # Free tier allows only a few requests per minute (6s gaps still hit 429s); keep a gap between calls.
+    min_interval = float(os.getenv("GEMINI_MIN_INTERVAL_SECONDS", "13"))
     _last_call = 0.0  # shared by all agents in this process
 
     def __init__(self, model: str | None = None, fallback_model: str | None = None):
@@ -96,6 +108,9 @@ class GeminiAgent:
             try:
                 response = self.client.models.generate_content(model=model, contents=prompt, config=config)
             except errors.APIError as exc:
+                if is_daily_quota_error(exc):
+                    log.warning("Gemini %s: daily free quota used up; not retrying", model)
+                    raise
                 if exc.code in RETRYABLE_CODES and attempt < max_attempts:
                     delay = 15 * attempt
                     log.warning("Gemini %s %s (attempt %d/%d), retrying in %ds", model, exc.code, attempt, max_attempts, delay)
