@@ -69,17 +69,20 @@ class GeminiAgent:
 
     def generate_structured(
         self,
-        prompt: str,
+        prompt: str | list[types.Part],
         schema: type[T],
         system: str | None = None,
         temperature: float | None = 0.2,
         think: bool = False,
         max_attempts: int = 4,
+        media_resolution: types.MediaResolution | None = None,
     ) -> T:
         """Ask Gemini for JSON matching `schema` and return it as a Pydantic object.
 
+        `prompt` is plain text, or a list of parts (e.g. a YouTube video + text).
         think=False keeps "thinking" to the minimum — fine for sorting and
         summarizing. think=True uses the model's default.
+        media_resolution=LOW cuts the tokens a video costs by about two thirds.
         """
         models = [self.model]
         if self.fallback_model and self.fallback_model != self.model:
@@ -92,6 +95,7 @@ class GeminiAgent:
                 response_mime_type="application/json",
                 response_schema=schema,
                 thinking_config=None if think else low_thinking_config(model),
+                media_resolution=media_resolution,
             )
             try:
                 return self._call_with_retries(model, prompt, schema, config, max_attempts)
@@ -102,7 +106,7 @@ class GeminiAgent:
                 raise
         raise RuntimeError("unreachable")
 
-    def _call_with_retries(self, model: str, prompt: str, schema: type[T], config, max_attempts: int) -> T:
+    def _call_with_retries(self, model: str, prompt, schema: type[T], config, max_attempts: int) -> T:
         for attempt in range(1, max_attempts + 1):
             self._wait_for_slot()
             try:

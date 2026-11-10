@@ -130,6 +130,15 @@ def mark_digests_sent(digest_ids: list[int]) -> None:
         session.execute(stmt)
 
 
+def delete_old_articles(days: int) -> int:
+    """Delete articles published more than `days` ago (their digests go with them,
+    via ON DELETE CASCADE). Keeps Neon's free storage from filling up.
+    Returns the number of articles deleted."""
+    stmt = delete(Article).where(Article.published_at < _cutoff(days * 24))
+    with get_session() as session:
+        return session.execute(stmt).rowcount
+
+
 def count_articles_by_section() -> dict[tuple[str, str], int]:
     """{(section, region): count} for every stored article."""
     stmt = select(Article.section, Article.region, func.count()).group_by(
