@@ -21,6 +21,8 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    permissions:
+      contents: write   # to publish latest.json to the `feed` branch
     steps:
       - uses: actions/checkout@v7
 
@@ -45,3 +47,11 @@ jobs:
           EMAIL_PROVIDER: ${{ secrets.EMAIL_PROVIDER }}
           GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+
+      - name: Publish today's edition (latest.json → feed branch)
+        # Only exists when this run actually sent an email.
+        if: hashFiles('data/latest.json') != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          bash scripts/publish_feed.sh data/latest.json

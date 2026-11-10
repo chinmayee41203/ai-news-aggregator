@@ -72,6 +72,11 @@ def run(
     log.info("5/6 %s", "Sending email" if send else "Writing preview (not sending)")
     sent = process_email(digest.digest_date, preview=not send, intro=digest.intro)
 
+    if send and sent:
+        from app.services.export_feed import export_latest
+
+        export_latest()  # data/latest.json — the workflow publishes it to the `feed` branch
+
     log.info("6/6 Deleting articles older than %d days", RETENTION_DAYS)
     log.info("    %d deleted", delete_old_articles(RETENTION_DAYS))
 
