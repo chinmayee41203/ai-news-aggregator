@@ -5,7 +5,12 @@ from dataclasses import dataclass
 from datetime import date
 from html import escape
 
-SECTION_TITLES = {"tech": "Tech", "business": "Business", "politics": "Politics"}
+SECTION_TITLES = {
+    "tech": "Tech",
+    "business": "Business",
+    "politics": "Politics",
+    "education": "Education & Visas (F-1, OPT, H-1B)",
+}
 
 
 @dataclass

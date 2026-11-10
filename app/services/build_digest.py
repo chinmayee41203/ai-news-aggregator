@@ -7,19 +7,16 @@ import argparse
 import logging
 from dataclasses import dataclass
 from datetime import date, datetime
-from zoneinfo import ZoneInfo
 
 from app.agent.curator_agent import CuratorAgent
 from app.agent.digest_agent import DigestAgent
 from app.agent.email_agent import EmailAgent, EmailIntro
-from app.config import HOURS_BACK, SECTIONS
+from app.config import HOURS_BACK, SECTIONS, TIMEZONE
 from app.database.create_tables import create_tables
 from app.database.repository import get_recent_articles, get_sent_article_ids, replace_unsent_digests
 from app.services.filter import filter_articles
 
 log = logging.getLogger(__name__)
-
-LOCAL_TZ = ZoneInfo("Asia/Kolkata")
 
 
 @dataclass
@@ -41,7 +38,7 @@ class DailyDigest:
 
 def build_digest(hours: int = HOURS_BACK) -> DailyDigest:
     create_tables()
-    digest_date = datetime.now(LOCAL_TZ).date()
+    digest_date = datetime.now(TIMEZONE).date()
 
     sent = get_sent_article_ids()
     articles = [a for a in get_recent_articles(hours) if a.id not in sent]

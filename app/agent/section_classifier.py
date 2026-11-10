@@ -14,7 +14,7 @@ from app.agent.base import GeminiAgent
 
 log = logging.getLogger(__name__)
 
-Label = Literal["tech", "business", "politics", "none"]
+Label = Literal["tech", "business", "politics", "education", "none"]
 
 
 class ItemLabel(BaseModel):
@@ -32,7 +32,8 @@ Sections:
 - tech: technology companies and products, AI, software, gadgets, the internet, cybersecurity, telecom, chips, space technology.
 - business: the economy, markets, stocks, companies' finances, earnings, deals, jobs, prices, trade, banking, personal finance.
 - politics: government, elections, political parties and leaders, legislation, policy, courts ruling on political matters, diplomacy, wars and conflicts.
-- none: anything else — sports, entertainment, celebrities, lifestyle, festivals, crime, accidents, weather, environment, health — unless the story is mainly about tech, business or politics.
+- education: student visas and work visas for people in the US (F-1, OPT, STEM OPT, H-1B, green cards for students/workers, SEVIS, USCIS rules), international students, and US universities. Use this even when the story is also political.
+- none: anything else — sports, entertainment, celebrities, lifestyle, festivals, crime, accidents, weather, environment, health — unless the story is mainly about one of the sections above.
 
 Judge by what the story is mainly about, not by single words (a farm-fires story that mentions a NASA satellite image is "none").
 Return exactly one label for every id you are given."""

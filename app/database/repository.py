@@ -115,6 +115,15 @@ def get_unsent_digests(digest_date: date) -> list[tuple[Digest, Article]]:
         return [(d, a) for d, a in session.execute(stmt)]
 
 
+def digest_already_sent(digest_date: date) -> bool:
+    """True if an email for this date already went out (used by the retry run)."""
+    stmt = select(func.count()).select_from(Digest).where(
+        Digest.digest_date == digest_date, Digest.sent_at.is_not(None)
+    )
+    with get_session() as session:
+        return session.execute(stmt).scalar_one() > 0
+
+
 def mark_digests_sent(digest_ids: list[int]) -> None:
     stmt = update(Digest).where(Digest.id.in_(digest_ids)).values(sent_at=func.now())
     with get_session() as session:

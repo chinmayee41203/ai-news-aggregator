@@ -10,9 +10,8 @@ import argparse
 import logging
 from datetime import date, datetime
 from pathlib import Path
-from zoneinfo import ZoneInfo
 
-from app.config import ROOT_DIR, SECTIONS, load_sources
+from app.config import ROOT_DIR, SECTIONS, TIMEZONE, load_sources
 from app.database.repository import get_unsent_digests, mark_digests_sent
 from app.profiles.user_profile import USER_PROFILE
 from app.services.email import send_email
@@ -20,7 +19,6 @@ from app.services.email_template import EmailStory, build_html, build_subject, b
 
 log = logging.getLogger(__name__)
 
-LOCAL_TZ = ZoneInfo("Asia/Kolkata")
 PREVIEW_FILE = ROOT_DIR / "data" / "digest_preview.html"  # data/ is gitignored
 
 
@@ -43,7 +41,7 @@ def _intro(digest_date: date, sections: dict[str, list[EmailStory]], intro=None)
 
 def process_email(digest_date: date | None = None, preview: bool = False, intro=None) -> int:
     """Returns the number of stories emailed (0 if there was nothing to send)."""
-    digest_date = digest_date or datetime.now(LOCAL_TZ).date()
+    digest_date = digest_date or datetime.now(TIMEZONE).date()
     rows = get_unsent_digests(digest_date)
     if not rows:
         log.info("No unsent stories for %s — nothing to email", digest_date)

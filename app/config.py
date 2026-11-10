@@ -2,6 +2,7 @@
 
 import os
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import yaml
 from dotenv import load_dotenv
@@ -11,10 +12,13 @@ SOURCES_FILE = ROOT_DIR / "sources.yaml"
 
 load_dotenv(ROOT_DIR / ".env")
 
-SECTIONS = ("tech", "business", "politics")
+SECTIONS = ("tech", "business", "politics", "education")
 REGIONS = ("global", "india")
 
 HOURS_BACK = int(os.getenv("HOURS_BACK", "24"))
+
+# The reader's time zone: decides "today's" digest date and the 9 AM schedule check.
+TIMEZONE = ZoneInfo(os.getenv("TIMEZONE", "America/New_York"))
 USER_AGENT = "ai-news-aggregator/1.0"
 REQUEST_TIMEOUT = 20  # seconds
 

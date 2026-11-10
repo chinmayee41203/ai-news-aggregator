@@ -86,7 +86,9 @@ def filter_articles(
 ) -> FilterResult:
     """`articles`: objects with id, title, description, section, source,
     published_at and section_label (Gemini's saved label, or None)."""
-    untrusted = {s["name"] for s in load_sources() if s["type"] == "google_news"}
+    # Google News items (section only from the search query) and direct feeds
+    # marked `classify: true` get their section checked by Gemini.
+    untrusted = {s["name"] for s in load_sources() if s["type"] == "google_news" or s.get("classify")}
     result = FilterResult()
     by_section: dict[str, list] = defaultdict(list)
     to_classify: list = []

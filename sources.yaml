@@ -2,7 +2,7 @@
 # Adding a source = adding one entry. Fields:
 #   name     unique id
 #   type     rss | google_news | guardian | youtube
-#   section  tech | business | politics
+#   section  tech | business | politics | education
 #   region   global | india
 # plus the type-specific field: url (rss), query + locale (google_news),
 # guardian_section (guardian), channels (youtube).
@@ -11,6 +11,8 @@
 #                     YouTube items get it automatically)
 #   fetch_content: true   download the transcript / full text in Phase 3
 #                         (AI sources only — never for news publishers)
+#   classify: true        let Gemini check the section of each item (like Google
+#                         News items) — for direct feeds that mix topics
 
 # ---------------- TECH ----------------
 - name: nyt_tech
@@ -158,3 +160,55 @@
   region: india
   query: "site:timesofindia.indiatimes.com politics"
   locale: in
+
+# ---------------- EDUCATION & VISAS (F-1, OPT, H-1B) ----------------
+- name: gn_student_visas
+  type: google_news
+  section: education
+  region: global
+  query: '"F-1 visa" OR "F1 visa" OR "STEM OPT" OR "OPT program" OR "international students"'
+  locale: us
+
+- name: gn_h1b
+  type: google_news
+  section: education
+  region: global
+  query: '"H-1B"'
+  locale: us
+
+- name: uscis_alerts
+  publisher: USCIS
+  type: rss
+  section: education
+  region: global
+  url: https://www.uscis.gov/news/rss-feed/22984
+
+- name: study_in_the_states
+  publisher: Study in the States (DHS)
+  type: rss
+  section: education
+  region: global
+  url: https://studyinthestates.dhs.gov/rss.xml
+
+- name: icef_monitor
+  publisher: ICEF Monitor
+  type: rss
+  section: education
+  region: global
+  url: https://monitor.icef.com/feed/
+
+- name: inside_higher_ed
+  publisher: Inside Higher Ed
+  type: rss
+  section: education
+  region: global
+  url: https://www.insidehighered.com/rss.xml
+  classify: true
+
+- name: toi_nri
+  publisher: The Times of India (NRI)
+  type: rss
+  section: education
+  region: india
+  url: https://timesofindia.indiatimes.com/rssfeeds/7098551.cms
+  classify: true

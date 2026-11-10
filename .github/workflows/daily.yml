@@ -1,0 +1,47 @@
+name: Daily news digest
+
+on:
+  schedule:
+    # GitHub schedules are UTC-only and can start 5–30 min late. New York is
+    # UTC-4 in summer (EDT) and UTC-5 in winter (EST), so we run at three UTC
+    # times and let the code decide (TIMEZONE=America/New_York):
+    #   --not-before 08:00  skips runs that land before 8 AM Eastern
+    #   --skip-if-sent      skips runs after today's email already went out
+    #                    summer (EDT)       winter (EST)
+    - cron: "30 12 * * *"  # 8:30 AM  main      7:30 AM  skipped
+    - cron: "30 13 * * *"  # 9:30 AM  retry     8:30 AM  main
+    - cron: "30 14 * * *"  # 10:30 AM retry     9:30 AM  retry
+  workflow_dispatch:      # "Run workflow" button on the Actions tab
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v6
+
+      - name: Install dependencies
+        run: uv sync --locked
+
+      - name: Run pipeline
+        # Manual runs ("Run workflow" button) ignore the 8 AM check.
+        run: uv run main.py --skip-if-sent ${{ github.event_name == 'schedule' && '--not-before 08:00' || '' }}
+        env:
+          ENVIRONMENT: production
+          TIMEZONE: America/New_York
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-flash' }}
+          GEMINI_FALLBACK_MODEL: ${{ vars.GEMINI_FALLBACK_MODEL || 'gemini-3.5-flash-lite' }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          GUARDIAN_API_KEY: ${{ secrets.GUARDIAN_API_KEY }}
+          MY_EMAIL: ${{ secrets.MY_EMAIL }}
+          EMAIL_PROVIDER: ${{ secrets.EMAIL_PROVIDER }}
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
