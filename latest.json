@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-11T15:45:17+00:00",
+  "generated_at": "2026-11-12T13:34:05+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?",
-          "url": "https://www.nytimes.com/2026/11/10/technology/alice-huang-megaspeed-nvidia-jensen-huang.html",
+          "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+          "url": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
           "outlet": "The New York Times",
-          "summary": "Alice Huang, identified by U.S. intelligence as a Chinese asset, transitioned from Shanghai finance to collaborate with major tech companies. Her work involved acquiring crucial A.I. chips, placing her at the center of a spy scandal involving Nvidia.",
+          "summary": "Nvidia's board is currently evaluating the position of its chief executive, Jensen Huang. This review follows his admission of an affair with a woman identified by U.S. intelligence as a Chinese spy.",
           "about_india": false
         },
         {
-          "title": "Anthropic’s Giant IPO Will Tie It Closer to Nvidia",
-          "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
-          "outlet": "The New York Times",
-          "summary": "Nvidia intends to invest $10 billion in Anthropic as part of the A.I. company's initial public offering. This investment is the largest among several new financial commitments from major companies to Anthropic, further linking it to Nvidia.",
-          "about_india": false
-        },
-        {
-          "title": "OpenAI CFO Sarah Friar says that the ChatGPT-maker will keep investing in AI data centers; what will chan",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQSXEtSmd2NklDUWUzOWZfWGo0ZEp1QXpEVV84a2ZTb0E1Q1NOc2RqTDU5Vk5ZU1pqVG9SWnY4RGU3OWxZa3NjQzNRZ191YnlaTHhkdVdIWWo2Y1BCZzhjVTdKM2dPbEVLSFFYNmgxOGZ2eEJFU3NESExnakVSXzhTOFZ2MmZtWlFLSDFsNGJtZlduRzlrUllxWTh2czU0Q1UxanV5VXd3SWI2bDlWTlBNNndsQ0ZDNmxTZVY4TmdOZEd6OFpfT2xaeEdoN0l3Y0VzZU81RjZwRFMzdFZYMDBIdGJpZmRfY2ZjT2ZWVlRPc1NWTERaVEJfVGkxWERTNVd2TTdod2Q1T2RveEptLV83cFhXMG1vaWxvYVRtNFhZSUlIZE9Oa0R2YjZZXzVoWUstb21KODkyWDFvZUtnV01yOEtfQnRDS0hucVJMTTh30gHTAkFVX3lxTE5wdzVlaTBIcjljME9IRzZ5SERxWTdnVTgzNGhYd05FMjBYVTJwUHFpbzhHUUkwa3pld05EUzJNUFRBTDA5RjdoTm54dW1CZzhsRHdSZG96bHlySW5UN0w5QXp6ZHhxcnJhTW84ZHYwLVJPYS1LNWFobWVROWZZc203SzNEUmdVUXVBZUVLc21ESVN6dzZZYVhIWUdzWE5RM1pFOG5qZ2d2V01kTEFncU0yckFyY2V1TVdvZjBHb08xVUJ3aXhkOHM0WmFYUlVWM0h2N0l2VUFiWlJzM3BRSTN5RXppazZvU3MxYjNyXzVFdnpITGFTalFWbC15T2o3LXB1T2xiOHVCV3o5cU9XU0poSzBpLXlfR1lNUGJWYmdsNHl2UUdJY3BTYmhyTWQ0OGc1eDB1V21rakYtZFlpa3F6RnRfek9OdTAzWkxPMzYxNnMyUQ?oc=5",
-          "outlet": "The Times of India",
-          "summary": "OpenAI's CFO, Sarah Friar, stated that the company will continue to invest in AI data centers.",
-          "about_india": false
-        },
-        {
-          "title": "Meta, Google Don't Want To Pay Publishers: How Indonesia's AI Copyright Plan Is Putting Big Tech On Edge",
-          "url": "https://www.timesnownews.com/technology-science/meta-google-dont-want-to-pay-publishers-how-indonesias-ai-copyright-plan-is-putting-big-tech-on-edge-article-156495015",
+          "title": "OpenAI Builds AI Kill Switch That Can Stop Rogue Models In 35 Seconds: How It Works",
+          "url": "https://www.timesnownews.com/technology-science/openai-builds-ai-kill-switch-that-can-stop-rogue-models-in-35-seconds-how-it-works-article-156498300",
           "outlet": "Times Now",
-          "summary": "Indonesia is considering changes to its copyright law that could mandate tech companies like Meta, Google, and TikTok to pay publishers for using their content. This potential amendment is causing concern among major tech firms.",
+          "summary": "OpenAI has developed a new safety system called 'Control Room' that can quickly stop AI models. This system is designed to intervene if AI models show unexpected behavior or become a security risk.",
+          "about_india": false
+        },
+        {
+          "title": "Nvidia Spy Scandal: Chinese AI Firms Rush To Secure Chips Before US Crackdown",
+          "url": "https://www.timesnownews.com/technology-science/nvidia-spy-scandal-chinese-ai-firms-rush-to-secure-chips-before-us-crackdown-article-156497906",
+          "outlet": "Times Now",
+          "summary": "Chinese AI companies are urgently trying to acquire Nvidia chips from international sources. This rush is driven by worries about potential U.S. restrictions after a controversy involving Nvidia's CEO.",
+          "about_india": false
+        },
+        {
+          "title": "Using Google Chrome? Hackers Can Take Control Of Your Device, Govt Issues Alert",
+          "url": "https://www.timesnownews.com/technology-science/using-google-chrome-hackers-can-take-control-of-your-device-govt-issues-alert-article-156498888",
+          "outlet": "Times Now",
+          "summary": "Users of Google Chrome are at risk of hackers taking control of their devices. The Indian Computer Emergency Response Team (CERT-In) has issued an urgent warning about these security threats.",
           "about_india": true
         },
         {
-          "title": "AI, Payments And A Major App Makeover; WhatsApp CEO Kunal Shah Reveals What's Coming Next",
-          "url": "https://www.timesnownews.com/technology-science/ai-payments-and-a-major-app-makeover-whatsapp-ceo-kunal-shah-reveals-whats-coming-next-article-156494234",
-          "outlet": "Times Now",
-          "summary": "WhatsApp plans to expand its services beyond messaging by improving communication features, streamlining daily tasks, and incorporating artificial intelligence. The CEO, Kunal Shah, revealed these upcoming changes for the app.",
+          "title": "OpenAI brings local AI processing to India for eligible API users",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ3U3SktqXzVidVVRRkdxdWVVZVhfQzRXZnRkOEFqSERVNks0engzMU9zNTJnQ2xEUGU5bnN4NV82SkFJM2swckdTSkU1MkJxVEIzUlNHWDRDaHY4cm9qb3JaNTZJaU9zMTBDUUp5NWg5czVMZVM1WUpDbExQUkZLNVNobm5URzY5bkJXQWVLZHg2d085dnJ6SEhuMEdpMFhnOFJDOGRnWnM4SzVoUUZCM1U4SlJQempoRUctSVpFMmIzM2dMcUZNdDV0RWRldGRpZTJjUWd5WE1kNmRWT2xHbnhR0gHnAUFVX3lxTE9HY24zMEtnaTlxcGJFdEl0cVMwbGRnRjA5TTdtNll0bGdPNFVES09uT0lSMXVZdThFYkdZY3Z3aXIzNFZ0bnpmSUtzWE9FYnNMRWdTMXctYzFMT1ByU0JibGc0am5UVzMxRHc3Nkd4MVppay1lZmJ5ZHJlLWZhMTZHMWhSdVJIdlp2MmQxRnRDQWhVaXdBXzQ2Z1JVeE00akZXRjluN0F0cXpHVzdPZUVYbDdRbHJaQnJ0bGpiMDEtUVlaeGcxQ3RvckJfZEU1b1Y1aWxIZUtJaHJfSi1aQXQ0OUYwWHk3aw?oc=5",
+          "outlet": "The Times of India",
+          "summary": "OpenAI is now offering local AI processing capabilities in India for eligible API users.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Nvidia Hires Wachtell Lipton to Investigate CEO Jensen Huang’s Affair With Chinese Executive",
-          "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+          "title": "Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO",
+          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
           "outlet": "The New York Times",
-          "summary": "Nvidia has hired the law firm Wachtell Lipton to investigate its CEO, Jensen Huang, regarding an alleged affair with a Chinese executive. A former acting U.S. attorney is leading this inquiry into the chip maker's chief executive.",
+          "summary": "Nvidia's stock dropped significantly after news emerged that the company's board was evaluating the future of its CEO, Jensen Huang. This development had a ripple effect across global markets.",
           "about_india": false
         },
         {
-          "title": "Anthropic’s I.P.O. and the Clubby Business of A.I.",
-          "url": "https://www.nytimes.com/2026/11/11/business/dealbook/anthropic-ipo-nvidia.html",
-          "outlet": "The New York Times",
-          "summary": "Some of the largest investors in Anthropic's upcoming initial public offering are also key business partners of the artificial intelligence company. This situation highlights the close relationships within the AI industry.",
-          "about_india": false
-        },
-        {
-          "title": "The Fed Has to Raise Rates. How Fast to Go Has Officials Divided.",
-          "url": "https://www.nytimes.com/2026/11/11/business/fed-interest-rates-inflation.html",
-          "outlet": "The New York Times",
-          "summary": "The Federal Reserve is facing a challenge to its measured approach to raising interest rates due to increasing price pressures. Officials are divided on how quickly to proceed with rate hikes.",
-          "about_india": false
-        },
-        {
-          "title": "Sensex has rallied nearly 12%: Is it time to relook at your investment strategy?",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-erases-us-iran-war-losses-rises-nearly-12-in-just-10-sessions-what-should-your-investment-strategy-be/articleshow/135740540.cms",
-          "outlet": "The Times of India",
-          "summary": "The Sensex has seen a significant rally of nearly 12% since late October, accompanied by upgrades from global brokerages for Indian equities. This shift in market sentiment prompts a reevaluation of investment strategies and a focus on specific sectors.",
+          "title": "Retail Inflation Surges To 6.09% In October, Breaches RBI's Upper Tolerance Limit",
+          "url": "https://www.timesnownews.com/business-economy/economy/retail-inflation-surges-to-6-09-in-october-breaches-rbis-upper-tolerance-limit-article-156498853",
+          "outlet": "Times Now",
+          "summary": "India's retail inflation rose to 6.09 percent in October, exceeding the central bank's upper tolerance limit. This increase was driven by a surge in food inflation, which reached 8.94 percent.",
           "about_india": true
         },
         {
-          "title": "Moody's Upgrades India's FY27 GDP Growth Forecast To 7%; Here's Why",
-          "url": "https://www.timesnownews.com/business-economy/economy/moodys-upgrades-indias-fy27-gdp-growth-forecast-to-7-heres-why-article-156494203",
+          "title": "RBI Mulls Tighter Rules For Private Equity Ownership In Multiple NBFCs: Report",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-mulls-tighter-rules-for-private-equity-ownership-in-multiple-nbfcs-reuters-article-156498259",
           "outlet": "Times Now",
-          "summary": "Moody's has increased India's GDP growth forecast for fiscal year 2027 to 7 percent. This upgrade is attributed to strong consumption, a recovery in investment, and the country's ability to withstand global energy shocks.",
+          "summary": "The Reserve Bank of India is reportedly considering stricter regulations for private equity firms that own controlling stakes in multiple non-banking financial companies. This move could alter ownership structures and increase regulatory scrutiny.",
+          "about_india": true
+        },
+        {
+          "title": "Sensex, Nifty End Higher As Investors Track Crude Oil Prices; Trump Says 'Iran War Will End When We Want'",
+          "url": "https://www.timesnownews.com/business-economy/markets/sensex-nifty-end-higher-as-investors-track-crude-oil-prices-trump-says-iran-war-will-end-when-we-want-article-156498512",
+          "outlet": "Times Now",
+          "summary": "Indian stock markets closed higher as investors monitored crude oil prices and reacted to US President Donald Trump's comments about the conflict in Iran. The market's performance reflected these external factors.",
+          "about_india": true
+        },
+        {
+          "title": "Adani Group Plans $1.45 Billion Equity Push To Finance €2.56 Billion Evos Acquisition",
+          "url": "https://www.timesnownews.com/business-economy/companies/adani-group-plans-1-45-billion-equity-push-to-finance-2-56-billion-evos-acquisition-article-156499212",
+          "outlet": "Times Now",
+          "summary": "The Adani Group intends to raise up to $1.45 billion through equity to help fund its €2.56 billion acquisition of Evos. The remaining amount for the acquisition is expected to be financed by global lenders.",
           "about_india": true
         }
       ]
@@ -90,38 +90,38 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Republicans Turn Back Effort to Impeach Hegseth",
-          "url": "https://www.nytimes.com/2026/11/10/us/politics/house-hegseth-impeachment-vote.html",
-          "outlet": "The New York Times",
-          "summary": "Republicans united to stop the impeachment process against the defense secretary. This action prevented him from facing a significant reprimand and possible removal from his position.",
+          "title": "Colom Will Be Mississippi’s First Black Senator Since Reconstruction",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTjljNEdkQi1qajVsLXZKbkJBZDNZRVVkZUFfcWQtYVBGRkRYaVR6U2c4bUsxUS1XYXhpUTRxSXJMdUxJODd4YnhxdFRiLXZXaUh3NjlWRlFscllKcEczTl9tMnltN1BSaTFrSEtHdWtRbVVsRGVrSVlkSVZYaEJaenRIcU9WUzg0b185eWNoT2NyS2JQSlN0dlhhVEYwOTI3NFh2Mw?oc=5",
+          "outlet": "CNN",
+          "summary": "Colom is set to become Mississippi's first Black senator since the Reconstruction era.",
           "about_india": false
         },
         {
-          "title": "Sonia Gandhi's Memoir Sparks Debate on 1984 and 2002 Riots",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUzdCMW5OWHdGcXUxeDNLQnhIYUlCR3daR1pQOFVwb1BZVF95NnI4Nk1jZzd4T2JfZzlyd1Y5RDlDbTJudFpEN0wwWXQ2bEx3Q1B6UEkzNGlUSmhSalUtSkx6Rl9UT3JxdHJMdlotZndjZDJBd09EcEo1bmVhSS1QbmlmY2JfLTFjVnlod1oxdGlJNkllTFp3VHRUWXF6WFA4OXJSZ29aalZzbnFxRTF4WjVFOGlVd9IBuwFBVV95cUxNbkZQUU5lMHFBLWE3RnZYNGxFS3BsOU00QS1PbmwzSlhiZ2hlckJiOTFMRXVWMFNCaE4tbTFybzRHZExpS0ZaVXIyYkxPQW5PNDk2dkp4aEdlUzIzaENIMnd6N2xBMkUyT2NRa3lUQjlPbkVJNUNuQlZ0Y1hqdEFUakluT2NLM214Q2FKMnhGZjdTdy1ObGVEVWZIZUJ0Rl94VzRkSUkwc29hTmpFblNGMmY3N3NYVURpY1F3?oc=5",
+          "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+          "outlet": "The New York Times",
+          "summary": "The White House has warned Congress that aggressive investigations could be considered a crime. It is unclear what legal grounds support this threat, as the Constitution provides lawmakers with immunity for legislative actions.",
+          "about_india": false
+        },
+        {
+          "title": "Norwegian Journalist, Who Questioned PM Modi, Claims Visa Revoked Hours Before India Trip",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXN6V1czOFVBeVkteG9zS1NoM3VwNkp4Mk40M01keWNaRjZ4Y1lNa1JxVVl2LXMxNVJZWmRrY0lkUW56RGd4Q1VSX1BvTHU0U3JfNDUzelZpeXVVaUpxMW1zM2Y0amFWX0VUSm5QMTZKWEpISkVQTzNlV0xpeUFIZzRpZmN4SE9XbW96dHB2dFpEVDMxX0RmbzltQmh5dVZFY0xQclgxVGc1S3VzaldwTU8zSTFXUTRNRXZlSE1BbVRUOXVhaDFHcTdQVXZCamdyVm9JZlh6d9IB3AFBVV95cUxObEJ1T3dYbmlhek5aN1Z3MElvcEdDVVJXMkpvWXpuNnpPLUEzT1g3cFY2Sk5weVVWQnJoTkFKaF9EMWZUR3E0cEZTN0xVNDZaOTVJWWNiNENoUXU1bk1EWEk0eEIwWjhNa2lWWlNuVWpfRjZmSmlkdVRwYkZOUExnOUwxcDZnU0RBdjdhU29xTS1Gd3pEQWJnV3pnd1AycFdnbDJVYlU0VHQ0bnV4NkgtVzdYaVFHMkRsUlU0cmU5ZDVSbUdMb044YUVuYU9EamdnODNXempCbW9xVnJw?oc=5",
           "outlet": "Times Now",
-          "summary": "Sonia Gandhi's memoir has initiated discussions regarding the 1984 and 2002 riots.",
+          "summary": "A Norwegian journalist claims their visa was revoked just hours before a planned trip to India, after having previously questioned Prime Minister Modi.",
           "about_india": true
         },
         {
-          "title": "Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders",
-          "url": "https://www.nytimes.com/2026/11/10/us/politics/republican-house-leader-scalise-jordan.html",
+          "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
+          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
           "outlet": "The New York Times",
-          "summary": "Following significant election losses, the Republican party selected new leaders. In the House, Republicans opted for new leadership, while in the Senate, they re-elected their current leader.",
+          "summary": "Republicans are making a strong effort to confirm approximately two dozen federal judges during the lame-duck session before they lose power. Democrats have stated they will try to prevent these confirmations.",
           "about_india": false
         },
         {
-          "title": "What Trump Said in His Letter to Biden in 2021",
-          "url": "https://www.nytimes.com/2026/11/10/us/politics/biden-trump-letter.html",
-          "outlet": "The New York Times",
-          "summary": "Former President Trump's letter to President Biden in 2021, as revealed in a new book, is notable for its friendly tone. This tone contrasts sharply with Trump's public statements about his successor.",
-          "about_india": false
-        },
-        {
-          "title": "Kulgam Terror Attack Caught On Cam: 3 CRPF Jawans Injured, Political War On | Breaking Ground",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcUhHYV9WRExRb1BXcHJFeTFXUWVoWnJ1V1hOSWs2MUUxOTRydDFYYVpXSVltdkMydS0wVWlQeldFdll0RVo5ejlaWVIzdW9CSlJ1NUpqRlQtWHY4RllRM2RYUXNBNHk5b2FNd3dBa3pjVWxhaExlQWhxcmZaM1cwakNmM2Q0Ry1OcnhNclJpY0xYTTBNQVNrUWUweVpkV3dxU1ZEd3JienIySzFrbDJwZHRnU2R0SWpueFQ4b0dYRWHSAcYBQVVfeXFMUGFmMG9Jd0x5OG5hanNRY0RxZXhfVXBtZEllNEhWcXl5WWpLSGFlX005WWs2aVBwdERYc1UyY195bWJsQldZbnM5cUNuME5hYjBHZzVxVGRZS2xOYTlTeXNqb3FwbWFSQ19BXzNuNFBmR3hkSUxFNXc5ekVUUl9iUFFCbE1Ic1lVUFVRV09nbXVoWkZEYmpCMnRWVjFobGtZdDVtQzY2cmYzZmd0ajVvOGJ4bHVUR0Via1JoZllHdnBCS0J3MjF3?oc=5",
+          "title": "Sonia's Memoir Reopens Super PM Row: Did She Run UPA From Behind Manmohan Singh? | Briefing Room",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDJBOVg3YXRBTTRDUHN1dVFJNU1KemVWSFJyMks4WEVkcHVRZjFEckRTZ3ZwSmNLcEgxaE9TQzFId0UyMDM2S1E3WFdxc2VTeUpmWmhLUzlwbm0xYkUwckRQQ2Qtbk9teTFtYW1td1VodjU4Y2t2NC1RQVJfUzJZV1JFaWR3NGN6dncyWUMzTlhrVGdvYnM3b2VXUzBmR0lxQ2VkVXVIM1ZaTGtTZzdIVVR1ZDBmWTBzV25haVo5d3dUX1NBVGUzZEsxM0QyYk3SAdQBQVVfeXFMTjVrRWQ3cHdIZ0V3aHFRRFhha1VzNE45aGNMQzhMdkZ3U2hpbmFONUJYaFdfcEk1OV94emtmTk5PbjZfQm9JdnZPWl84aWQxaGdNQ19xOUtMemRRVUE0bW9JSGxjQ09ueHU0RFVtUmc0aXFFcy1HUk5LSVFWdUNIbkZYMG9WZU94aURncGhxSzluOUZBZ2NydExsaWFldVl4OF9ndkZ4SDBBSE1vSkJ2YlpXWGQ2dFNNRGJLV1Z2Y0x6el83S2xKOVRDQUM5aTFWZEZoYUM?oc=5",
           "outlet": "Times Now",
-          "summary": "A terror attack in Kulgam was captured on camera, resulting in injuries to three CRPF jawans. This incident has also sparked a political conflict.",
+          "summary": "Sonia's memoir has brought back discussions about whether she was the primary power behind Manmohan Singh's government.",
           "about_india": true
         }
       ]
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "IBM to end H-1B, green card sponsorship for roles in biggest unit after Trump administration's crackdown | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQRzY1NTZjcm5XcDN4ZTFXRzMzTFdrM3hvOHF6RHVMYllIWndmMVhlT3haenpxTHFSS2NpX3FuY2h1czVVVkFoNm9TenlEMmE4R2tEQUJBNHdwQ2dPalhHeUEybGpXTGc3LWQ4SXZVQnNYczczSnd5S05qU1U0SElkSi1pQjhWSHBZRHRwbjdpbUxkSi1nbDdfSXdCVldKUzRrTzVnYk9WYk5TbVN6UkZfWE1Zejc2aWwyUW42QWh0M0VxbWNPRU04Z1k4QXJkbng3YmJmT0d6QndUalg1ZXpGWEhsZVlaTlVUZVFWYlBxX1NzcWlEbExKT2tPRWR4THN1UzFwWDd2a3bSAYgCQVVfeXFMUEc2NTU2Y3JuV3AzeGUxV0czM0xXazN4bzhxekR1TGJZSFp3ZjFYZU94Wnp6cUxxUktjaV9xbmNodXM1VVZBaDZvU3p5RDJhOEdrREFCQTR3cENnT2pYR3lBMmxqV0xnNy1kOEl2VUJzWHM3M0p3eUtOalNVNEhJZEotaUI4VkhwWUR0cG43aW1MZEotZ2w3X0l3QlZXSlM0a081Z2JPVmJOU21TelJGX1hNWXo3NmlsMlFuNkFodDNFcW1jT0VNOGdZOEFyZG54N2JiZk9HekJ3VGpYNWV6RlhIbGVZWk5VVGVRVmJQcV9Tc3FpRGxMSk9rT0VkeExzdVMxcFg3dmt2?oc=5",
+          "title": "DHS proposes new H-1B extension rule: Workers in US could face stricter checks even with same employer",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTTRaY3BIY21wTS1CYmFZVlYtSk9xU196ZVJyWEhJU3NPM053a2hyQ0JCM0JVVEQ2V0tQLXdsdWFIVm52djRJX0xDcFlyQVNNdUN3SDR3dklpOGUzWnhrbldETmFGeUY0Z2h0XzRuZTBCMXJvZm9xQjZyaENqWVk3UDFIOWpPQmtIQk0zNWd0Q2RUTHVfbnZWX2lEbUExOFY3b3ZZVENzVXg2a2VLVjBDYWRvUjF2cVROS0h1QzdFWnZrQzRaQXdSRHBsMzE3V0VCV29yZkFoSm1xbjlPeklILXozTGdPcmhxb294NHctN07SAfYBQVVfeXFMTUdSTEZ6RGlhcXMwUFN4NlhlLUVMakgzREJOTlFoN0huX3lXbzllNnpSc2VadjNNeUMtcld1dkw4Vm8yVy02dU5FYXhqaWJ4NFNFamV0SVVtbEpKdDFfWE1na0Y0cWFtMnBaX2hIakJEMTFiNTBCWGpFdlZ6MDkzd0lXQTV6SFd3R0pxWG1VSDFQeHRpOXBrcEYtNHo1YlN3ak55Nmw1YVBZbjEzLTBldTRlVVlKLVd6Q3kzOXBLRGhvZWtuM0d5UEY4OG4wS0NVVWxlcVZtYXhoY0FqeVhQbnk3T2kzY0pWekZrQXF6Zjl6bG5NV093?oc=5",
+          "outlet": "Livemint",
+          "summary": "The Department of Homeland Security (DHS) has proposed a new rule for H-1B visa extensions. This change could lead to more rigorous checks for workers in the United States, even if they continue to be employed by the same company.",
+          "about_india": false
+        },
+        {
+          "title": "IBM to End H-1B Visa and Green Card Sponsorship for Most IBM Consulting Roles by the End of 2026",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcV9ES3pKcTVob3lsTmlsZWZBcVY0QWdxdHZQSkVsMm1iUjV4YWNHVEl5cC0wYmViMTdSQ2xJSDlqYU9ONTNjdDFqcG50UzVtMUFURVc2TDhuaDlaaDlFUm1uWEpNZXJjLVFWbGZQV3F1ZGtBY3lvUUxTY1gybGxkRHhseUQtbUhwaVoxX042NA?oc=5",
+          "outlet": "IndianEagle",
+          "summary": "IBM plans to stop sponsoring H-1B visas and green cards for most positions within its consulting division. This policy change is expected to be fully implemented by the end of 2026.",
+          "about_india": false
+        },
+        {
+          "title": "$100,000 OPT fees could shut international students out of post-study work, US universities warn | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVZrN1ZIMnEwS25Xcjg5NjU3dE5pQ19vQ1JkNGg3S20zdk1PN2NCS1BRMnNIdThsM2VaaF9lVWlJWFpuWUlWTXQxVjJqU2lhNEdrWmJSYnV6cHg5T05mS0g0Ql9HS3pwak5BZldVNi1DSkl3TmdtV0kzRXg4aXZtejhIazUyVnlROFF0emNTX2QzZ2tNdnZmclVSUWFsbHFsVzQ5UUdySVNaZDlnWjJrRGF6NU8tXzM1Nm1vY0tqV3lDdk8wd0wtZUFHeE1zT20yX2JObVRTREpsdGttcUtsV21PZWx4aTdIYlJVbmlKYktrTGJ5MlVZ0gH8AUFVX3lxTE9MNlhFWHN0SjdIakUxSFlzWmMwczBxLWtMdGNCNWM2Qjg5RDFfSXlRUXBRMk9uWHAtOGxxaWtLanB3ZHc4b3kwRWlPdXNNNUNGTkpaVGphSGY5cTFQZHJHUlN6UUVkTTBBWl9nM0tJNXZrS3VYdFRMTEQxdkQ1b1c5eGZtYmNLTXE2YklmcW91dWx6S0djTTFLSTZkOGpsbkY3aUk2VkVkT1JEQXU0OFBEQjdWdVRlbzFMdXppc1hRUHI0RnNKbGVjeUlHZzRTeTdUZWlkTzVDeVNMb2hJbUdZVURzYlN5NGJROFJYOEgteWpGY0cxeDZlV1A2Vg?oc=5",
           "outlet": "Hindustan Times",
-          "summary": "IBM will no longer sponsor H-1B visas or green cards for positions within its largest division. This decision follows increased restrictions on immigration by the Trump administration.",
+          "summary": "US universities are expressing concern that potential fees of $100,000 for Optional Practical Training (OPT) could prevent international students from pursuing post-study work opportunities.",
           "about_india": false
         },
         {
-          "title": "Trump Administration's Plan to End H-1B Grace Period Draws More Than 31,000 Public Comments",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTldIa2xHM3p5T3hyRFZ5bGgtLXhMdWYtYkdvSDRKSFd1aTgyMHNIelA2RGc1V1lSMm5oOUFGdFgyM0RBdnp1dnpHRm5ZNTdwX2xGek9WRE5DTXhQdWI2SncxZG9TRl9KR1FJdElNdVhGWXNza05VclZvSmxFSks0YXJHeU9vcWxZUWl4TlF5V0R6aW1sVUNmVjhFdHVYelNYYnJ6NHNmWTh3b1NOSVliQWVFeVBOXzFma0E?oc=5",
-          "outlet": "INDIA New England News",
-          "summary": "The Trump administration's proposal to eliminate the H-1B grace period has generated over 31,000 public comments. This indicates significant public interest and concern regarding the proposed change.",
+          "title": "H-1B, green card applicants may face potential wage hikes as rule advances for federal review | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUWFfdXlUakpWd3Z6VHowVVJ3ZDBvZko5NjRGWHk5MGF2OGdFOE1RMG9nWVpNS2ZyM2Y1UXp3d1l5Z2tHMHg5ZDVoZWw1NXdmdEh2bHF0MFRrbTEzaE1tLVgxak1pcW44dFdpVDlCdnY5aFlJc1dRZTVJa1ZvaEYwRlUyUXUxVlE3NldnU09pTFFVX1ZVN3poM01RVEN4V2ZUUVNwSkQ5emZnUDBDUm9ucGVQRW94d0NMbTQ3V2pPamhCeDNobC1DczZPUHp1Q3lfVmxScXc0NGExYldlUDI1MXFRTDJzQ1hmMWpyX0czSS1scGps0gH6AUFVX3lxTE5vN2lsbG1wZl8wMWhqYXhTZzQ5SWJGRjQ0LVIzYmVTOHVvVkc2SGFOT3FNd0RubXQ0TlhYdHNtaFFLUVhNMndWdXVSVWpBUHZXVHdiVDBTeHVuTGV5SG9MRmN1eGtmb2dFWFRGMmpqR1A3VDdIcVhDYUViaG1lX1Bja1FTOFZJaUduNHFFSFhGQTdiRWZBM2FVdjhTN1cxWE9SWFJsalNINk9FTFhybUkxRlF3NW9xaVphUUVmdWpGR3pKcUZ5MF9CN0Juek5sTVA0Sml1SC1uRDQ2RzVhLW9JRG93VHlKeXpUa29SVXZrb2dwVkZTak5NMEE?oc=5",
+          "outlet": "Hindustan Times",
+          "summary": "A new rule advancing for federal review could lead to increased wage requirements for H-1B and green card applicants. This change may impact the cost of employing these workers.",
           "about_india": false
         },
         {
-          "title": "Colleges Say OPT Fee Would Cost Tens of Millions",
-          "url": "https://www.insidehighered.com/news/global/international-students-us/2026/11/11/colleges-say-opt-fee-would-cost-tens-millions",
-          "outlet": "Inside Higher Ed",
-          "summary": "A proposed fee for colleges would require them to pay a substantial amount for each international graduate to work temporarily in the U.S. after graduation. Colleges argue they cannot afford this cost and believe passing it to students would create an unfair system.",
-          "about_india": false
-        },
-        {
-          "title": "Students, top Yale lawyer urge ICE to scrap fee for foreign student jobs",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEF2TEQ0SDJ5TFZYdVRmdVVoT0tZRE15dVVKUjBUZWxfVU5pOVRVVDhCQnFnQUJxcFQ2cWRKZWlsN1VETjhIWkpqUURkTDZ3RG9fbGxrRnA3Q2tZRkxxeUZwbTB5dHZIRzNEVjZjN1liMzNYWnh0ZW1qZ2pDSDRoU0tvT3RUMXpBY3UxLWF6c28yQW8yWGVacXhMdlJ5aWt4LXpoelVER1JSZw?oc=5",
-          "outlet": "Yale Daily News",
-          "summary": "Students and a leading Yale lawyer are urging ICE to withdraw a proposed fee for foreign students seeking employment. This fee would impact international students' ability to work after graduation.",
-          "about_india": false
-        },
-        {
-          "title": "Interest in US surges as study destination up 40% after midterms",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNXzRjb09jazJfdWZkUkdKYnRHbXdLZnVkVTZsd0xBOFJjdlN4ZGxNY2Q1VjFMckgtM2lwSW1venptYmhLRTk1aE1GSlFyblhQZ0lXQlUxa29pMjdGNGNzLTJCWWpLSHlXTjhTNFZsVnRucWl6RGxtTHU2aXBLNGtMSHpfLW4xaXFSb21UV3BGeG4?oc=5",
-          "outlet": "The PIE News",
-          "summary": "Interest in the United States as a study destination has increased significantly, rising by 40% since the recent midterm elections. This suggests a renewed appeal for international students to pursue education in the U.S.",
+          "title": "Brown will no longer issue CPT work authorizations for international undergraduates",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFZOWTdnYTIyNFY4YXloQ3RaRkxlM1ZIYnhpVkpkXzZIZlJIRWFOYUo2RU5SQUZFY2NBRUFDQWJXX3FPb3AwYW92X0ZEZFN5R3REbUR1bnUxSExGUzNQaC1kX0FzN0lEQzdjQTNGdlk5VXlRV0ZfTnV4MW1mNldMYk82YU44eXQ2dE54TW9VREo3Q0kzMEw4bUVScHNhQWNWNl9HOVo0RzhaX0h4eGJ3X2xqbndHZjdWR2xYU1Y3aDE4V00xY2x3OFFiQnBsQQ?oc=5",
+          "outlet": "Brown Daily Herald",
+          "summary": "Brown University has announced that it will no longer provide Curricular Practical Training (CPT) work authorizations for its international undergraduate students.",
           "about_india": false
         }
       ]
