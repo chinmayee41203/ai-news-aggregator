@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-12T13:34:05+00:00",
+  "generated_at": "2026-11-13T13:33:28+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
-          "url": "https://www.nytimes.com/article/nvidia-investigation-jensen-huang.html",
+          "title": "Jensen Huang Resigns From Nvidia After Affairs",
+          "url": "https://www.nytimes.com/2026/11/12/technology/nvidia-jensen-huang.html",
           "outlet": "The New York Times",
-          "summary": "Nvidia's board is currently evaluating the position of its chief executive, Jensen Huang. This review follows his admission of an affair with a woman identified by U.S. intelligence as a Chinese spy.",
+          "summary": "Jensen Huang has resigned as CEO of Nvidia. This follows scrutiny over an alleged affair with a woman identified as a Chinese spy and another relationship with a subordinate at his company. Colette Kress, Nvidia's finance chief, has been appointed as the interim leader.",
           "about_india": false
         },
         {
-          "title": "OpenAI Builds AI Kill Switch That Can Stop Rogue Models In 35 Seconds: How It Works",
-          "url": "https://www.timesnownews.com/technology-science/openai-builds-ai-kill-switch-that-can-stop-rogue-models-in-35-seconds-how-it-works-article-156498300",
-          "outlet": "Times Now",
-          "summary": "OpenAI has developed a new safety system called 'Control Room' that can quickly stop AI models. This system is designed to intervene if AI models show unexpected behavior or become a security risk.",
+          "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+          "url": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+          "outlet": "The New York Times",
+          "summary": "Microsoft reported that its services were improving after a software outage affected millions of users. The disruption impacted access to email and other tools, including Outlook and Teams.",
           "about_india": false
         },
         {
-          "title": "Nvidia Spy Scandal: Chinese AI Firms Rush To Secure Chips Before US Crackdown",
-          "url": "https://www.timesnownews.com/technology-science/nvidia-spy-scandal-chinese-ai-firms-rush-to-secure-chips-before-us-crackdown-article-156497906",
-          "outlet": "Times Now",
-          "summary": "Chinese AI companies are urgently trying to acquire Nvidia chips from international sources. This rush is driven by worries about potential U.S. restrictions after a controversy involving Nvidia's CEO.",
+          "title": "Google launches Gemini 4 Hydrogen AI model for faster coding, search and everyday tasks",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRkc1VVp1bWkwV01XelZuRm1XUVhHN1l5ME9uY2N2YjBiRUZNNVgzQUJKTEFsRXRZMUlxbWJac0d0YUF1b09PaUdUTTVPRllROHZyQ2dQZkFCdUhYYU9CYlZVUDJSZF9mUVhXQWxqNkJKNnY2Z01sRTJvTHA0V3lJYUtBMGZJUVJkUWZiQ2kxdGRGdnFaTWw4RzNmTWZkM1lVZm1iRmRKeTIxWS1HUVhsZXZzVl9DeFdIa1l5M09zSmJya0pYQnhNOVMyTHgtUzdwRmJ6M3FBYkxyaHd6M0FSVFVMSThpZmN0MzB0ZGFZRUhKWVdvcHhHQ1VRZUtpZ9IBgwJBVV95cUxOaFVPRmZmSFRtb0o3WHhBWncyU0ItY3BBSjVJWGVmNHYyNG1MU3Q1ZHpuX0loVUs0OE4tSEpEZVJFeTh2M1QzSUcwSU1Xc2xkT01jNmVpVTVwU2piTWN6YjdSRkNXUmpGX3BjQ0VHWXZqUHFIaG9PU2FnMDV6QmpwWF9wc1FhVGNZd05TMDA1aG1QX29tR21lNEpKZklldnU3eEFYTzFEQ0MwbVN0VTJSOGhjUWdpVGM0akFCRFE4Qi03bFp4aHA4SHE1X2MwZGh6Q2NyUVFaQWVGMEV0Q2ZUYXVIVzRwYUI1RUZRMkZUd0NXcEFIQzVLekdXcnZFYXhXdUdR?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Google has introduced its Gemini 4 Hydrogen AI model. This new model is designed to enhance the speed of coding, search functions, and various daily tasks.",
           "about_india": false
         },
         {
-          "title": "Using Google Chrome? Hackers Can Take Control Of Your Device, Govt Issues Alert",
-          "url": "https://www.timesnownews.com/technology-science/using-google-chrome-hackers-can-take-control-of-your-device-govt-issues-alert-article-156498888",
-          "outlet": "Times Now",
-          "summary": "Users of Google Chrome are at risk of hackers taking control of their devices. The Indian Computer Emergency Response Team (CERT-In) has issued an urgent warning about these security threats.",
+          "title": "60% Indian organisations investing in AI report positive returns",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOME9UaFJscTFhZllsS0ZSVFlodk1wV2tUa0U1Vm9ZLWNmcE84eS1PaFk4MjVpbUxSRkgxZ0ZrRU9SNFp0dHh2SzdQbGttNnBnbXRkUkVFXzduY0JZNU1rcm43U09UMWFnTE40ektVOW9qdkdMMTJMMDF5Smt0elNmMkt4QmNiQ3J3QjIzT0ZxTlF4ZUZPd2dyY3dsdGlHb1JSZm0zMTFBREowd010Z0ZSR3RjN3UxSXhPZ1h0NlVheGo3dmc3dy1XQlFKSi11QXhNUnZvMGZ4a9IB3AFBVV95cUxOYmd1TWZNcWZXSDROejB2Q3ZRVTVkVXE0YkhLa29NMVM4S0R5SU0ta2JDU1VtMTNMQlNQN3B5Mk5yNy1LUGxmd0stRGprQTRqWUhnNEdWcnNmb3ZZV05xVUl5cjczeGVQNUVzaTk4Wm84c1ZVZVNWdUZLMHY3UGlIdTBwZ0hlYzdaTHlFbThZeWxhNTBMd2xCMnhYVHlzTVpaWXpCSUJ4Wm1uYXVYdmd1U2dOQl9HLWlpcTk5by1xVzBOVUt6cVBuUWFwblRzaldub0x4X0l0dFBrdm1I?oc=5",
+          "outlet": "The Times of India",
+          "summary": "A report indicates that 60% of Indian organizations investing in artificial intelligence are experiencing positive returns on their investments.",
           "about_india": true
         },
         {
-          "title": "OpenAI brings local AI processing to India for eligible API users",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ3U3SktqXzVidVVRRkdxdWVVZVhfQzRXZnRkOEFqSERVNks0engzMU9zNTJnQ2xEUGU5bnN4NV82SkFJM2swckdTSkU1MkJxVEIzUlNHWDRDaHY4cm9qb3JaNTZJaU9zMTBDUUp5NWg5czVMZVM1WUpDbExQUkZLNVNobm5URzY5bkJXQWVLZHg2d085dnJ6SEhuMEdpMFhnOFJDOGRnWnM4SzVoUUZCM1U4SlJQempoRUctSVpFMmIzM2dMcUZNdDV0RWRldGRpZTJjUWd5WE1kNmRWT2xHbnhR0gHnAUFVX3lxTE9HY24zMEtnaTlxcGJFdEl0cVMwbGRnRjA5TTdtNll0bGdPNFVES09uT0lSMXVZdThFYkdZY3Z3aXIzNFZ0bnpmSUtzWE9FYnNMRWdTMXctYzFMT1ByU0JibGc0am5UVzMxRHc3Nkd4MVppay1lZmJ5ZHJlLWZhMTZHMWhSdVJIdlp2MmQxRnRDQWhVaXdBXzQ2Z1JVeE00akZXRjluN0F0cXpHVzdPZUVYbDdRbHJaQnJ0bGpiMDEtUVlaeGcxQ3RvckJfZEU1b1Y1aWxIZUtJaHJfSi1aQXQ0OUYwWHk3aw?oc=5",
+          "title": "Spotify launches audiobooks in India with 3.5 lakh English titles, 7,000 Indian-language books, starting",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQRjRJOGhRSWw2eEZKb1RnOFlKVUQ1ZW1zWkExMXlORkFWTXVDbEo3bUwzNTB6UmtpOUowaVIzQzMxNWtBNkRkekdGT0p2eGdHZzk2U0dnckNmdTVoYXRSZDBkNnVvZlhXRGZZQVphRDRBU1hTTXEzb0pCaTVaY3NaTkRFbVFJYmRHX1RoRTBtUFJsRmREakpJbl9LcE5lc1pIOEh5bFh6WUZWbk80WmktQU5pYkZMZ2ZSNTF0cHM1anhyQ3dsWmJCSGtlZDZaMXBvako5Ymx6dVVOa3h2anFiTVg1YmdiUTk2cnI1UW9oQXFaaHQzRGdtZ3FsNUJ4cmN1M0dqR3NySERaeEMwZWFKQXdRQXVDUUI3dXfSAZ8CQVVfeXFMTzJaTzhKZktIaDNXU0VlLUJVaWRxbDdiU2tWcVRSV01ZUXVndDVQS3lxQlMzR3hLMWZOQkx3XzFUdlA0ejVCZTFuNmt3VlpCd21FbGZuYjRJd3RqcEtyczNIeGdqejNva2NqdTllNG0tVURwODBUb2VYZ1I2bGdmNDN6ajZzdkp6bTVDWGY1TmxEMjNIQ3BubzZ3eUZjNU1nbWVrSjlsNTBUS0ZHMUtPczYybnpDM2JJNkFYV1dnUk1wczJPbGVFMm9BTi01bXdNc2lacnZsQmVlWU1pRlU0NDV6UkpkNVNsZThPMGlFMDJfZG5PdFVTcmlKUXlVOEw0VlBjRUlmcEY1NU9SVGxzdG1mQWR4aDUya1RZcmdTRm8?oc=5",
           "outlet": "The Times of India",
-          "summary": "OpenAI is now offering local AI processing capabilities in India for eligible API users.",
+          "summary": "Spotify has introduced audiobooks in India, offering a selection of 350,000 English titles and 7,000 books in Indian languages.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Nvidia Shares Plummet as Board Considers Jensen Huang’s Future as CEO",
-          "url": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+          "title": "A Scorecard for Huang’s Exit From Nvidia",
+          "url": "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html",
           "outlet": "The New York Times",
-          "summary": "Nvidia's stock dropped significantly after news emerged that the company's board was evaluating the future of its CEO, Jensen Huang. This development had a ripple effect across global markets.",
+          "summary": "The departure of Jensen Huang from Nvidia, the chipmaker he co-founded, is having a significant impact across Silicon Valley, Washington, and other regions. This event is being closely watched for its implications in the technology sector.",
           "about_india": false
         },
         {
-          "title": "Retail Inflation Surges To 6.09% In October, Breaches RBI's Upper Tolerance Limit",
-          "url": "https://www.timesnownews.com/business-economy/economy/retail-inflation-surges-to-6-09-in-october-breaches-rbis-upper-tolerance-limit-article-156498853",
+          "title": "India Posts Highest-Ever Monthly Export Earnings As Exports Jump 29.9%",
+          "url": "https://www.timesnownews.com/business-economy/industry/india-posts-highest-ever-monthly-export-earnings-as-exports-jump-29-9-article-156505322",
           "outlet": "Times Now",
-          "summary": "India's retail inflation rose to 6.09 percent in October, exceeding the central bank's upper tolerance limit. This increase was driven by a surge in food inflation, which reached 8.94 percent.",
+          "summary": "India achieved its highest-ever monthly export earnings in October 2026, reaching $89.99 billion. This represents a 29.9% increase compared to the previous year, driven by a rise in merchandise shipments and a reduced trade deficit.",
           "about_india": true
         },
         {
-          "title": "RBI Mulls Tighter Rules For Private Equity Ownership In Multiple NBFCs: Report",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-mulls-tighter-rules-for-private-equity-ownership-in-multiple-nbfcs-reuters-article-156498259",
+          "title": "Paytm Gets RBI Nod To Restart Digital Wallet Business After 3-Year Break",
+          "url": "https://www.timesnownews.com/business-economy/economy/paytm-gets-rbi-nod-to-restart-digital-wallet-business-after-3-year-break-article-156504760",
           "outlet": "Times Now",
-          "summary": "The Reserve Bank of India is reportedly considering stricter regulations for private equity firms that own controlling stakes in multiple non-banking financial companies. This move could alter ownership structures and increase regulatory scrutiny.",
+          "summary": "Paytm has received approval from the Reserve Bank of India to resume its digital wallet operations after a three-year hiatus. This decision could allow Paytm to re-enter the digital wallet market, provided it meets the central bank's specified conditions.",
           "about_india": true
         },
         {
-          "title": "Sensex, Nifty End Higher As Investors Track Crude Oil Prices; Trump Says 'Iran War Will End When We Want'",
-          "url": "https://www.timesnownews.com/business-economy/markets/sensex-nifty-end-higher-as-investors-track-crude-oil-prices-trump-says-iran-war-will-end-when-we-want-article-156498512",
-          "outlet": "Times Now",
-          "summary": "Indian stock markets closed higher as investors monitored crude oil prices and reacted to US President Donald Trump's comments about the conflict in Iran. The market's performance reflected these external factors.",
-          "about_india": true
+          "title": "Looking Past Nvidia Turmoil, Stocks Log Best Week in Months",
+          "url": "https://www.nytimes.com/2026/11/13/business/nvidia-turmoil-stock-market.html",
+          "outlet": "The New York Times",
+          "summary": "Despite a decline in Nvidia's stock following the removal of its CEO, the broader market has not been negatively affected. In fact, artificial intelligence stocks generally saw gains, contributing to the market's best week in several months.",
+          "about_india": false
         },
         {
-          "title": "Adani Group Plans $1.45 Billion Equity Push To Finance €2.56 Billion Evos Acquisition",
-          "url": "https://www.timesnownews.com/business-economy/companies/adani-group-plans-1-45-billion-equity-push-to-finance-2-56-billion-evos-acquisition-article-156499212",
+          "title": "India's Forex Reserves Rise $2.49 Billion To $719.55 Billion As Gold Holdings Surge",
+          "url": "https://www.timesnownews.com/business-economy/economy/indias-forex-reserves-rise-2-49-billion-to-719-55-billion-as-gold-holdings-surge-article-156505275",
           "outlet": "Times Now",
-          "summary": "The Adani Group intends to raise up to $1.45 billion through equity to help fund its €2.56 billion acquisition of Evos. The remaining amount for the acquisition is expected to be financed by global lenders.",
+          "summary": "India's foreign exchange reserves increased by $2.49 billion, reaching a total of $719.55 billion. This rise was primarily supported by a significant increase in the country's gold holdings, according to recent data from the Reserve Bank of India.",
           "about_india": true
         }
       ]
@@ -90,38 +90,38 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Colom Will Be Mississippi’s First Black Senator Since Reconstruction",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTjljNEdkQi1qajVsLXZKbkJBZDNZRVVkZUFfcWQtYVBGRkRYaVR6U2c4bUsxUS1XYXhpUTRxSXJMdUxJODd4YnhxdFRiLXZXaUh3NjlWRlFscllKcEczTl9tMnltN1BSaTFrSEtHdWtRbVVsRGVrSVlkSVZYaEJaenRIcU9WUzg0b185eWNoT2NyS2JQSlN0dlhhVEYwOTI3NFh2Mw?oc=5",
+          "title": "Trump Admin Faces Growing Scrutiny After Nvidia CEO Resigns",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHFoajNjdWZkdWdmNXNTTEo5d0NkOGM4dmdTSGl0dWNLclJkY0JfQTlIUkU3SDhROHJpeDcwTGlHZm9BcmtueVZfMFQ0Vzc3VmVKc281Yjl0YUZkQkRyMHdmQ25QbVJ3TG14V29XbHpHRHVNUHRwc0lxOFA2V1c1ZGlQaHdTV2hHcjA3Nnh5RHgxbkdIMTRXNmlrV3p5MTQ?oc=5",
           "outlet": "CNN",
-          "summary": "Colom is set to become Mississippi's first Black senator since the Reconstruction era.",
+          "summary": "The Trump administration is facing increased examination following the resignation of Nvidia's CEO.",
           "about_india": false
         },
         {
-          "title": "White House Threatens Congress, Saying Aggressive Investigations Could Be Crime",
-          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html",
+          "title": "Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader",
+          "url": "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html",
           "outlet": "The New York Times",
-          "summary": "The White House has warned Congress that aggressive investigations could be considered a crime. It is unclear what legal grounds support this threat, as the Constitution provides lawmakers with immunity for legislative actions.",
+          "summary": "Senator Chris Van Hollen is expected to challenge Senator Chuck Schumer for the position of Senate Majority Leader. Van Hollen is a preferred choice for some Democrats, despite Schumer's claim of having enough votes to secure the win.",
           "about_india": false
         },
         {
-          "title": "Norwegian Journalist, Who Questioned PM Modi, Claims Visa Revoked Hours Before India Trip",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXN6V1czOFVBeVkteG9zS1NoM3VwNkp4Mk40M01keWNaRjZ4Y1lNa1JxVVl2LXMxNVJZWmRrY0lkUW56RGd4Q1VSX1BvTHU0U3JfNDUzelZpeXVVaUpxMW1zM2Y0amFWX0VUSm5QMTZKWEpISkVQTzNlV0xpeUFIZzRpZmN4SE9XbW96dHB2dFpEVDMxX0RmbzltQmh5dVZFY0xQclgxVGc1S3VzaldwTU8zSTFXUTRNRXZlSE1BbVRUOXVhaDFHcTdQVXZCamdyVm9JZlh6d9IB3AFBVV95cUxObEJ1T3dYbmlhek5aN1Z3MElvcEdDVVJXMkpvWXpuNnpPLUEzT1g3cFY2Sk5weVVWQnJoTkFKaF9EMWZUR3E0cEZTN0xVNDZaOTVJWWNiNENoUXU1bk1EWEk0eEIwWjhNa2lWWlNuVWpfRjZmSmlkdVRwYkZOUExnOUwxcDZnU0RBdjdhU29xTS1Gd3pEQWJnV3pnd1AycFdnbDJVYlU0VHQ0bnV4NkgtVzdYaVFHMkRsUlU0cmU5ZDVSbUdMb044YUVuYU9EamdnODNXempCbW9xVnJw?oc=5",
+          "title": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+          "url": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+          "outlet": "The New York Times",
+          "summary": "The White House has implemented new restrictions on meetings with lobbyists after allegations of influence peddling. This policy, from the office of Chief of Staff Stephen Miller, aims to demonstrate the administration's independence from special interest groups.",
+          "about_india": false
+        },
+        {
+          "title": "'My Phone Is Tapped By PM Modi': Rahul Gandhi's Explosive Claim",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmJ2Y0hieEdYSlNiSy1XNmM3Mml1V0xyNEVPNlpEZ0dPQzNWNnNxYkZmNE9fRS0tTGpSOHFYT2ZSVGpqWmFTdkw4Q2hLRjd6V2RSX2tscWN6RXlpOVJlTUhaQkdHaDg4c0VCWDduTXJyVnd4Z1V2QzBhQ0YzUzlfcU4yZmhoYVp2Nnc3SG9oa3VFOTB6d2Y1VkI5U0xQdHVUeXNKcC1oVUNjcE5vME91QXpVYTduYThxX2ZYSVR30gHDAUFVX3lxTE83Z1ZxRVJiV0dmX29RVW9CNmFSS0ZFUmlBZVZTMjZSY0FtQXpwdE9IZUdmVXNHdHRXcGxzQVBMbWlfOThUQ3F6ODFONHhTekdsYm9aZGFqVGREQkM0a1ZHbTVuN0YtcjJzZjdvRGRrdVdSWjlEYTNPLS1Hb2c3NkZwVzRzT1E5ZU8taFAxVkJQbHNFSDFHYnpyWnQwckpUemFwX3pfV093c1Q0U3NkYk9pR0tIMG9SQTJfSkxldHN0UkptZw?oc=5",
           "outlet": "Times Now",
-          "summary": "A Norwegian journalist claims their visa was revoked just hours before a planned trip to India, after having previously questioned Prime Minister Modi.",
+          "summary": "Rahul Gandhi has made a significant claim that his phone is being tapped by Prime Minister Modi.",
           "about_india": true
         },
         {
-          "title": "Republicans Begin Aggressive Lame-Duck Push to Install Trump Judges",
-          "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-federal-judges-senate-republicans.html",
-          "outlet": "The New York Times",
-          "summary": "Republicans are making a strong effort to confirm approximately two dozen federal judges during the lame-duck session before they lose power. Democrats have stated they will try to prevent these confirmations.",
-          "about_india": false
-        },
-        {
-          "title": "Sonia's Memoir Reopens Super PM Row: Did She Run UPA From Behind Manmohan Singh? | Briefing Room",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUDJBOVg3YXRBTTRDUHN1dVFJNU1KemVWSFJyMks4WEVkcHVRZjFEckRTZ3ZwSmNLcEgxaE9TQzFId0UyMDM2S1E3WFdxc2VTeUpmWmhLUzlwbm0xYkUwckRQQ2Qtbk9teTFtYW1td1VodjU4Y2t2NC1RQVJfUzJZV1JFaWR3NGN6dncyWUMzTlhrVGdvYnM3b2VXUzBmR0lxQ2VkVXVIM1ZaTGtTZzdIVVR1ZDBmWTBzV25haVo5d3dUX1NBVGUzZEsxM0QyYk3SAdQBQVVfeXFMTjVrRWQ3cHdIZ0V3aHFRRFhha1VzNE45aGNMQzhMdkZ3U2hpbmFONUJYaFdfcEk1OV94emtmTk5PbjZfQm9JdnZPWl84aWQxaGdNQ19xOUtMemRRVUE0bW9JSGxjQ09ueHU0RFVtUmc0aXFFcy1HUk5LSVFWdUNIbkZYMG9WZU94aURncGhxSzluOUZBZ2NydExsaWFldVl4OF9ndkZ4SDBBSE1vSkJ2YlpXWGQ2dFNNRGJLV1Z2Y0x6el83S2xKOVRDQUM5aTFWZEZoYUM?oc=5",
-          "outlet": "Times Now",
-          "summary": "Sonia's memoir has brought back discussions about whether she was the primary power behind Manmohan Singh's government.",
+          "title": "'Throwing Muck At The Dead': Abhijit Iyer-Mitra On Sonia Gandhi’s Memoir I 1984, Godhra, Emergency",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSlpHdkl4MVNTLWF1MjB0ZHFhbXA4ckNkdlVzUmpYWUFMT001djZMZS1mOEVuLTg3c3FyMThqQkNqcGEtN2FON1VIZUJSeWRyamlKdHlLVXlPLXNjLWFzZ3JzQk9xak8xZUhKQzhkTG5LNkF0UnotOE03enV6bElrX25kalpXdmhSX0JxUWk0TnJPTGhUQ2JWaURzSHVSdU4tMkFGRmEtRGZWVU13S3hhN3BFaU8wMkRLcnVqaGRRQWppeTJ5dGtYX3l6WUVkX290akJwNDdSbTlEeTdkRkpqR2FkVTVJX3FISnFzZGFuMnl0akxQRzJzY3RLcjBoelXSAYQCQVVfeXFMTTlZdDJzeXVRbGtkbmFQRHQ5LVllY3JOLWlKWmUwSm9SQXdRbnRWZDNCN3h4OHo3T0ZzRFdIRmFfM3RobkdZVjROYnlpOXo4dUg5WVpVTXhyb3NFdkZ2M2hCWF9aeHJXektxMnl3U0RDdXRYUVJWTklsdndKQUMzNkhuYThVbkQwd2tkZW92LXJLM0pDU1RQYnNkOGkxNUk5ekpqQTNJRUo5LVdYZ0tWQl9RNWhwMC1GRGtZLWRyMkpMZUxkZDlFWXZDNUFEZ1YxRkZya1VTVHhlQlNtVUViS2lmYW5EVjNUNXhFaUpiMmRLOXFiT2VnX3ZyeWotS3o2UmxQT24?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Abhijit Iyer-Mitra commented on Sonia Gandhi's memoir, discussing topics such as 1984, Godhra, and the Emergency.",
           "about_india": true
         }
       ]
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "DHS proposes new H-1B extension rule: Workers in US could face stricter checks even with same employer",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTTRaY3BIY21wTS1CYmFZVlYtSk9xU196ZVJyWEhJU3NPM053a2hyQ0JCM0JVVEQ2V0tQLXdsdWFIVm52djRJX0xDcFlyQVNNdUN3SDR3dklpOGUzWnhrbldETmFGeUY0Z2h0XzRuZTBCMXJvZm9xQjZyaENqWVk3UDFIOWpPQmtIQk0zNWd0Q2RUTHVfbnZWX2lEbUExOFY3b3ZZVENzVXg2a2VLVjBDYWRvUjF2cVROS0h1QzdFWnZrQzRaQXdSRHBsMzE3V0VCV29yZkFoSm1xbjlPeklILXozTGdPcmhxb294NHctN07SAfYBQVVfeXFMTUdSTEZ6RGlhcXMwUFN4NlhlLUVMakgzREJOTlFoN0huX3lXbzllNnpSc2VadjNNeUMtcld1dkw4Vm8yVy02dU5FYXhqaWJ4NFNFamV0SVVtbEpKdDFfWE1na0Y0cWFtMnBaX2hIakJEMTFiNTBCWGpFdlZ6MDkzd0lXQTV6SFd3R0pxWG1VSDFQeHRpOXBrcEYtNHo1YlN3ak55Nmw1YVBZbjEzLTBldTRlVVlKLVd6Q3kzOXBLRGhvZWtuM0d5UEY4OG4wS0NVVWxlcVZtYXhoY0FqeVhQbnk3T2kzY0pWekZrQXF6Zjl6bG5NV093?oc=5",
-          "outlet": "Livemint",
-          "summary": "The Department of Homeland Security (DHS) has proposed a new rule for H-1B visa extensions. This change could lead to more rigorous checks for workers in the United States, even if they continue to be employed by the same company.",
+          "title": "DHS wants every H-1B extension reviewed from scratch; the rule is only proposed and comments close November 13",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTBVN3k1bnFLV2lJYV9xRF94UENsdTZvWXpWUkphTE5yQUdlcnRPUnZOSWphRVhDM1BfVGV1T19OSTcwMUQ4Mm5TZXl0dlVPUkQ5cm93MERSR09LSlA1V1p1TW4yZHNVem5JTGlqUUNScUwySXVZb1pXdWNPU2tTLUlLNGpWQ3NOR2Y5VDB0LVZHLTVOZDU5QklGV2kycXNKVDFTOWdMU055SXM4UlI2OW9tWWZkdHM?oc=5",
+          "outlet": "Nacionale",
+          "summary": "The Department of Homeland Security is proposing a new rule that would require all H-1B visa extensions to be reviewed as if they were new applications. This change could significantly impact foreign workers in the U.S., and public comments on the proposal are open until November 13.",
           "about_india": false
         },
         {
-          "title": "IBM to End H-1B Visa and Green Card Sponsorship for Most IBM Consulting Roles by the End of 2026",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcV9ES3pKcTVob3lsTmlsZWZBcVY0QWdxdHZQSkVsMm1iUjV4YWNHVEl5cC0wYmViMTdSQ2xJSDlqYU9ONTNjdDFqcG50UzVtMUFURVc2TDhuaDlaaDlFUm1uWEpNZXJjLVFWbGZQV3F1ZGtBY3lvUUxTY1gybGxkRHhseUQtbUhwaVoxX042NA?oc=5",
-          "outlet": "IndianEagle",
-          "summary": "IBM plans to stop sponsoring H-1B visas and green cards for most positions within its consulting division. This policy change is expected to be fully implemented by the end of 2026.",
+          "title": "US, UK lose international students as visa curbs bite: Enrolments fall 19% in Britain and 13% in America; Asia gains",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNaUNWeTJuZE5QdWpMTnd2U0o5SXlKTmJCZFAtYUhtR2F1SXNhbVFaMk5EOGQ4WWNjdmt5TEtaZGtobjRsWjhwUjA2SlZxYUFCTElFc21aSUk1ajFIbWp1Y2lQckpRZzFqazJsdXpyaEFzeDVfeExJNGFSaTJPZjllc1M5ZGRFRmtWbGg4ejFHNmRfakVJTmZTMk5UWGFTSG8wcXczQnRJeVZlOUhkT040LVV1NU9xZ2ZQLVY0YU9rOXp3Sm5ZQ3RFRDFjZHoxeVFLTjFlamtGaXMwaEtINmJORGlJS0pVQ2NfdldqSUZ1R1RkUFdHQ2JMNHI5emJ5UHFDbW1WMWRJNUdHbk1QWlE?oc=5",
+          "outlet": "Education Times",
+          "summary": "Both the United States and the United Kingdom are experiencing a decline in international student enrollments, with drops of 13% and 19% respectively. This trend is attributed to stricter visa policies in these countries, while Asian nations are seeing an increase in international student numbers.",
           "about_india": false
         },
         {
-          "title": "$100,000 OPT fees could shut international students out of post-study work, US universities warn | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMVZrN1ZIMnEwS25Xcjg5NjU3dE5pQ19vQ1JkNGg3S20zdk1PN2NCS1BRMnNIdThsM2VaaF9lVWlJWFpuWUlWTXQxVjJqU2lhNEdrWmJSYnV6cHg5T05mS0g0Ql9HS3pwak5BZldVNi1DSkl3TmdtV0kzRXg4aXZtejhIazUyVnlROFF0emNTX2QzZ2tNdnZmclVSUWFsbHFsVzQ5UUdySVNaZDlnWjJrRGF6NU8tXzM1Nm1vY0tqV3lDdk8wd0wtZUFHeE1zT20yX2JObVRTREpsdGttcUtsV21PZWx4aTdIYlJVbmlKYktrTGJ5MlVZ0gH8AUFVX3lxTE9MNlhFWHN0SjdIakUxSFlzWmMwczBxLWtMdGNCNWM2Qjg5RDFfSXlRUXBRMk9uWHAtOGxxaWtLanB3ZHc4b3kwRWlPdXNNNUNGTkpaVGphSGY5cTFQZHJHUlN6UUVkTTBBWl9nM0tJNXZrS3VYdFRMTEQxdkQ1b1c5eGZtYmNLTXE2YklmcW91dWx6S0djTTFLSTZkOGpsbkY3aUk2VkVkT1JEQXU0OFBEQjdWdVRlbzFMdXppc1hRUHI0RnNKbGVjeUlHZzRTeTdUZWlkTzVDeVNMb2hJbUdZVURzYlN5NGJROFJYOEgteWpGY0cxeDZlV1A2Vg?oc=5",
-          "outlet": "Hindustan Times",
-          "summary": "US universities are expressing concern that potential fees of $100,000 for Optional Practical Training (OPT) could prevent international students from pursuing post-study work opportunities.",
+          "title": "Canada Immigration Plan 2027–2029: Government caps new international student arrivals at 1.5 lakh annually",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWW9US1F5UHlQb0FDbC1hRW1ZcG4yOE9HVW1LWk96RzFwNU5YcFc0NldkVHowS0NkUW1RZXotUVRBT3RDWjJNZndSeENpUDB5YnJjeFpHdlFSQVZhdHRaeGJLaDVLaU1lTWFVUkVWWGtGMFVseWRKcFllWXNFbnRmaWxTUTBkWkNxREZ6ME43UklXMFlWa01JaEdQYVdCbmYwRDV2aVk4ZlJvZ0pCd0t5eGlWOEEzMGpLNUNhSHZZbDFuc0Fwc3NaS3F2aHdHeTlxQ2YwTVR6aW5pUEdWNjZyUHVMbm9vMkJTd3NLTmpadml0dGs2ZHR2Z3B4b2pVRW0tS1RacA?oc=5",
+          "outlet": "Education Times",
+          "summary": "The Canadian government has announced its immigration plan for 2027–2029, which includes a new cap on international student arrivals. The country will now limit new international students to 150,000 per year.",
           "about_india": false
         },
         {
-          "title": "H-1B, green card applicants may face potential wage hikes as rule advances for federal review | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUWFfdXlUakpWd3Z6VHowVVJ3ZDBvZko5NjRGWHk5MGF2OGdFOE1RMG9nWVpNS2ZyM2Y1UXp3d1l5Z2tHMHg5ZDVoZWw1NXdmdEh2bHF0MFRrbTEzaE1tLVgxak1pcW44dFdpVDlCdnY5aFlJc1dRZTVJa1ZvaEYwRlUyUXUxVlE3NldnU09pTFFVX1ZVN3poM01RVEN4V2ZUUVNwSkQ5emZnUDBDUm9ucGVQRW94d0NMbTQ3V2pPamhCeDNobC1DczZPUHp1Q3lfVmxScXc0NGExYldlUDI1MXFRTDJzQ1hmMWpyX0czSS1scGps0gH6AUFVX3lxTE5vN2lsbG1wZl8wMWhqYXhTZzQ5SWJGRjQ0LVIzYmVTOHVvVkc2SGFOT3FNd0RubXQ0TlhYdHNtaFFLUVhNMndWdXVSVWpBUHZXVHdiVDBTeHVuTGV5SG9MRmN1eGtmb2dFWFRGMmpqR1A3VDdIcVhDYUViaG1lX1Bja1FTOFZJaUduNHFFSFhGQTdiRWZBM2FVdjhTN1cxWE9SWFJsalNINk9FTFhybUkxRlF3NW9xaVphUUVmdWpGR3pKcUZ5MF9CN0Juek5sTVA0Sml1SC1uRDQ2RzVhLW9JRG93VHlKeXpUa29SVXZrb2dwVkZTak5NMEE?oc=5",
-          "outlet": "Hindustan Times",
-          "summary": "A new rule advancing for federal review could lead to increased wage requirements for H-1B and green card applicants. This change may impact the cost of employing these workers.",
+          "title": "H-1B Wage Rule Moves to White House Review",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GSkZNV3drVkh5UjR5bjlhLUJzTzA1UHNIMVpaWER0VGVnTXN2WU8zLUxLNnFkTzNHblBxeWZ6Mlp1Qy0ya0JrdmhzNjR0bGV3YVBIeDFac3FoMlRMNXh5S3V3ckNBenRHc2R1LThQN1lKbzNacUhSdl8yeC1mUdIBgwFBVV95cUxPRlhzN2xIN1QxaTZGd0ZCQ0hLNklGV3c2LTU2b0pWbFk0eEVhQkNxbWpfQlQtaWRGYkwzbTJvX3QyczlKeXZMWUpZSU82REZGU19kbFdpU0hMVGVlTnBmNVVaM0c4aktFQkpORDJDT1p2ZERsMDdrdDB2Q3ZXVm5WUENiTQ?oc=5",
+          "outlet": "M9.news",
+          "summary": "A new rule concerning H-1B visa wages has advanced to the White House for review. This indicates a potential change in how wages for these specialized foreign workers are determined.",
           "about_india": false
         },
         {
-          "title": "Brown will no longer issue CPT work authorizations for international undergraduates",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFZOWTdnYTIyNFY4YXloQ3RaRkxlM1ZIYnhpVkpkXzZIZlJIRWFOYUo2RU5SQUZFY2NBRUFDQWJXX3FPb3AwYW92X0ZEZFN5R3REbUR1bnUxSExGUzNQaC1kX0FzN0lEQzdjQTNGdlk5VXlRV0ZfTnV4MW1mNldMYk82YU44eXQ2dE54TW9VREo3Q0kzMEw4bUVScHNhQWNWNl9HOVo0RzhaX0h4eGJ3X2xqbndHZjdWR2xYU1Y3aDE4V00xY2x3OFFiQnBsQQ?oc=5",
-          "outlet": "Brown Daily Herald",
-          "summary": "Brown University has announced that it will no longer provide Curricular Practical Training (CPT) work authorizations for its international undergraduate students.",
+          "title": "USCIS Implements New Rule Affecting U.S. Work Visa Applications",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HeEowX3IzbU1uaXIzS3VYS05rNk1GZFpHeTEtY2VaSnJwQUE2WHNUcWRCY1RtT1lMNm55R3JBdzAybFpfeTFUaTI3MkN4U2p6Y0NtRE9sb2I?oc=5",
+          "outlet": "CubaHeadlines",
+          "summary": "U.S. Citizenship and Immigration Services (USCIS) has put a new rule into effect that will impact applications for U.S. work visas. This change could affect individuals seeking to work in the United States.",
           "about_india": false
         }
       ]
