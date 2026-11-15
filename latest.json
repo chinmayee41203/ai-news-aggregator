@@ -1,46 +1,46 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-14T13:33:36+00:00",
+  "generated_at": "2026-11-15T13:32:59+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley",
-          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-scandal-silicon-valley.html",
+          "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+          "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
           "outlet": "The New York Times",
-          "summary": "The departure of Jensen Huang has surprised the tech industry. This event has led to discussions within the community about why highly successful individuals sometimes make poor decisions.",
+          "summary": "Nvidia's leader, Jensen Huang, resigned from the company he founded due to a secret he kept for over a year. His relationship with a female customer, which he claimed was strictly business, ultimately led to his downfall.",
           "about_india": false
         },
         {
-          "title": "What Went Wrong With Microsoft Global Outage: How The World Suffered With The Monstrous Disruption",
-          "url": "https://www.timesnownews.com/technology-science/what-went-wrong-with-microsoft-global-outage-how-the-world-suffered-with-the-monstrous-disruption-article-156508688",
-          "outlet": "Times Now",
-          "summary": "A network capacity upgrade caused a significant global outage for Microsoft, affecting services like Outlook and Copilot. The company explained the cause of the disruption, the reasons for the extended recovery time, and the impact on businesses and users worldwide.",
-          "about_india": false
-        },
-        {
-          "title": "A Maryland county used AI cameras on school buses to generate 375,000 tickets and $92 million in fines; i",
-          "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQN1ZtVmFlWXQyZzFQNFpMU0hzbGphaFU2SkxrR3dMdmV4UDFRSFlZM2RLZkU0elkzREFsQWh3cEkxY0JGcElrMUV0NUpfWkRGTkpEMldXMEtucTZaT0V4S0dUbkNSaUVOS2M3ajI3MDVnRmVRQS10MkJ4bnZ1RnM3REFuWjMwMTV1SWktU0d4T0tMblVlTnEtS0Q2M2lUTWp5M19fRHhWYjNsMlJ0Qy1EUkpCUy1BNXBpS05nX0I1bU82Tl9rUGgtcTlxek8xUUMyTURKa3F2WWFfeGJ3ME9zdEQtUmNMMGpSUGFpa2xLVy1HcDZ2eDVWOHA0S3JvaHlPUTVQMEdKbnJFVC0xd29EWUNQdzlOckdGT3JUSFZsb3Z6VFdialpHX2ZRcFFvekx1SGpQUmxqTi02ZjRudkJqWVRjWVNXSXJPT2tXWS1ja0pfRXY2eDBuLVNtQkU0aW1Hd01kT3lWOWVyaG1rc24wdEE0NkJ2azNM0gH-AkFVX3lxTE1tel81TGgyWTYwQ3dLeFE0Mm1wb0psOFNxWG9HLXI0OVlXbjNyWEU4MGhUSjJ0SllUYjJRNG80cXIyYXE3VFpmUTBDcjNOdFdjVUppbk91RTcyTFMwYlp6RVZKb3YzVU92WWxvTVdFejl1bFdDc3RvQVZBNjd2LTRmNDNFcnN1UjFIa1ZaTW1tZkMzd2VMUUEyUkdheGF0MjFLYkFyVHUwTC14eDVCSHFyQ2FGUGtubjZyV3F3bWlfRmRocHljTEYybEFqRXdDR1I3Y0J0UUlXZE52MXRDdnQyVTFTSWVxejZFZFViMWxNNFFXbndUSWFoa1hPRlljUVBtQWFibjZ6RVZyemZUdmQ2NlV4cVBqYTZBRVlzcURSSXNjWnJVRmtPRXRzVkw4QS1mVl9OSG85cEZjTjNNbVY0TGpZRDJCeWdDdGs5UFZtTkZZdGhwY19uZ0ctQmNDbUNVaVZnenA0WmFwdjR3WFYzS3JkX0lTWHV6QzBLb2c?oc=5",
+          "title": "OpenAi shuts down robot unit second time in six years, but wants everyone to know that the company is com",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNc1lDVnNWVEVUdC1zcjJLNkFWX3lTb3U0a3ZFVVFrQmI5SldvWFZvX2xJUElKMnRaUWpHenU0UnBsSmRyQlIzVGRQVmY5UDRjVmx1RFNMa0lldGUtTERick1IS09hMjJDVVJ6TGNwRjRPaEFyMHoxVi1DaFZKSGpTUm1QSm01d3JmcFpvd3AxUnUzN1JwdmJZOWdOTkt6M0dPM0VxNkt3em13SDl1QzZST0ltWEhHU2plb29uLUVMWFZ3RDFaN092NURRRFZEZEJfSU8yTGJJTWZsc1NYNnJPMlZBR2tJSF90NVRzTEt6VGlwZGI2NVlrNHZRazdRTllmem9Wdm1SWk8xbjI1UmRLaE9sRDV0TE5kOWJ4MzhSVUpsakXSAagCQVVfeXFMT1NlQXNza0pyMlJGSE9maUFOUnR0Yy14ZlNwU0ZCMjhKTUpERVo3ZGxyNUxEbGJtYm1nR0pyUGZyVWVWT3ZKdnM1LWxpcGVRMUFfVHRhM1VQd01jN1VObjV1dmc5MFoxV202SVVrZGRkTnJWbnZxUHBUdXMxRGhxdHplSTRwM3l1M3psVjVJVERfN01MUEdUcHpsZGxIVUZPbWlKbUtEaWs0QXNjakdfcHA1clZYZUpXRi1QZmpMcTFMeWoyaWctRF9yd2M2RERaMjBfaV9tQWFQVzhMUXByRUFIVHBraTdQVHRIdncyRGRvS3hibjFMVDZwM2F4Q1RXd2hWODhlSk94RWJ4eHp3SWs3enVIM2lIRFhhejZxSEdYX1dTRHRxRlk?oc=5",
           "outlet": "The Times of India",
-          "summary": "A Maryland county utilized AI cameras on school buses, resulting in the issuance of 375,000 tickets and generating $92 million in fines.",
+          "summary": "OpenAI has closed its robot unit for the second time in six years.",
           "about_india": false
         },
         {
-          "title": "'Radical Optimism': Ankiti Bose Sees AGI Transforming Science, Healthcare And Human Exploration",
-          "url": "https://www.timesnownews.com/technology-science/radical-optimism-ankiti-bose-sees-agi-transforming-science-healthcare-and-human-exploration-article-156509221",
-          "outlet": "Times Now",
-          "summary": "Ankiti Bose of Terra Invest believes that Artificial General Intelligence (AGI) has the potential to significantly advance scientific discovery, revolutionize healthcare, and enhance human capabilities. She also highlighted the importance of implementing safeguards alongside these advancements.",
-          "about_india": true
+          "title": "Meta fined $887 million for accessing Android users' photos; Italian regulator cites 'lack of co-operatio",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNTVI5T0kzT1Z1c2FzTUFXNHFsSnl5Xzh2QzZtbmVWTHVZS2ktd3BkSGhYWllWaWw4QmlkbG1kak1PZjIzOXp3ampuSVRxSXA3aUNfdDROZWpiYi0yQ3hvVUNlLURtOFB3WG5yZWJESUMxdkFRZXpzWXpDdkI0SWpidTNVOE1nTjlkTENwdThVcXNHTjVYc01TbVRsLWdnZmstRFljRkFRaVVRdS1JSnVxbXpsZF9QR2M3b0RIdnRvRnlOMjhuMlNFbHlNTkNrcW15d3NIOGVSVF9kZnJWUW9wOEt1WXpiVWZ4Snl1TW40Wk1nM3VIRGdzSVFwcHpHSERTYkE5WjBuMEpEM0N6OFFaRHpmMzk3WUxDR1prUVBmelFaWDBBUWU3WU9ZQk9PUVp2dmpSQzU2QVJ0N1BwYmphTUl1VnRRekM5bEhEMEdjSdIB1AJBVV95cUxNSWZHUzZhM2lRdG5VRzdvTlQ4aUtrSE55azZPZmdDYklFTG5zVTgyZE9jMVRORTloZWI2SksyWl9rNHdYQkJkeXplY1oyYlAwTzc5SmpMUkY5Z2VMaTV4X1pMNC16Njd5QUlsZ3M2aXJUZ3FDWUFHWXNIZlRleFVzcTh1NkFMZmRLS0JvMUNrRDRoVkFnYkRGckhIN2FuYngyWXVoOWkxOWNabVcwMTNYSmR1bFh5SEFNeXNudkRpZkRhZGtYSWRKWXBLRWM2WEJzQVJpSUs2TzdaWVZRUk15YjFhOVByS3lBZ0xLQ0Rrdk5ETm9mN05fdm02Vlk3UzlObTdGRXdTWW5MYzFhcWhmaUMyZlBFc3V4cWFCZUlXUTVwemV3Y1RQQmdqdWNLaGpzbmNDcnIxU2lyQmVQU2hHeWlFSVAwbHdoczI1YmJKVXZTUFB3?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Meta received an $887 million fine from an Italian regulator for accessing Android users' photos. The regulator cited a lack of cooperation from the company.",
+          "about_india": false
         },
         {
-          "title": "Agnikul to set up an industrial unit in AP’s space city",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYWNrYXEtUmVDZFRoTDBiOE16NjZSa1NZYkpfNXVJbHJHNWpXelMxUmFJSjlqRVMzTU5BakxQV0N6dFZ4QTNJcHBUZnRiNXBYbEtub2V4UGVYWXlsYWJfcnFNWXlvOVZtMnkwOTZJaG9GREx6TXU1S1VWS3Zmdi1IOXgxMHJtQnBkVWFNcU5yTV9kNHhNNGFWcGFuRHZFMXJxaWZuaktram12YkIwQXBMNEM3bXVick1ZeW1KZ0JwMGQyd2N3T1FJU0RFQnZXQdIBzgFBVV95cUxPYWNrYXEtUmVDZFRoTDBiOE16NjZSa1NZYkpfNXVJbHJHNWpXelMxUmFJSjlqRVMzTU5BakxQV0N6dFZ4QTNJcHBUZnRiNXBYbEtub2V4UGVYWXlsYWJfcnFNWXlvOVZtMnkwOTZJaG9GREx6TXU1S1VWS3Zmdi1IOXgxMHJtQnBkVWFNcU5yTV9kNHhNNGFWcGFuRHZFMXJxaWZuaktram12YkIwQXBMNEM3bXVick1ZeW1KZ0JwMGQyd2N3T1FJU0RFQnZXQQ?oc=5",
+          "title": "SpaceX Starship historic landing",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRm04T2xLXy12ZUpFb2RFT0E4ZmF2LVBCdVl2azZ5LXItdVd3Z2tyOVczdmJ3QkUwa3RQWEJTUUN5djJkd2tPRnN0akhlYktsQnVpbURrQnd2T2RWWm1GcXJBMUlpZUZldHRLQjhKZlpHdC1uY2EzckViWW54RjViZXNxN21xNWEydC1YWmp4YXN5bHFSQjFrbUZIejRvdVJiY1dkeTJB?oc=5",
+          "outlet": "CNN",
+          "summary": "SpaceX's Starship achieved a historic landing.",
+          "about_india": false
+        },
+        {
+          "title": "‘Not going to enrich anybody's lives’: Thousands protest in Scotland against large-scale AI data centres",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQWTNLaWpPSDRkci1yNWZvV0NCRjQ4NW5zeXg4VW53a095eFF6M2J5dEZpZjFFYmVPUEExY05XaFo5SWlXek1fb0I4ekJEV21tNTV6SHhfQzR0MVhFeVcyVGZjOVNrbTJMLWlTNTJFb1Q0NU9sLXA5dWtxM3VZcHUzY0ZFLVY2Z2FITmZmRTlfekkwaGV2cC1MWkY1a0RLZEVzOEMyN00zMmdfR3kwVTViZThXdWdUeVd5Mk5mRm9TUFRjTmtVbmt3Q1F1UmE1Um5HSnBHeHRHajdXMk5VMmtqT2Vrc1VlMUZscGhsZ0tZeUN6SV9ETU1qdnZHd0tkekIz0gGGAkFVX3lxTFBzNDFMVl9kYzYzNWNvMExYamNvcHF0bVo2VkRjMHZqT215RXhWMGplQXF0Yi16UWxNdmtYWlVITHJvZU8yVVRWbVBKelVqN05PNVJvZWRYLVljclkwT0dXcjN3bXpFc3EwWlVHWTJGSXpackV2eW9mSmFqdmFyOUhTVC0zQTk0SW8xbzNBNm9lOU9rOUJGWlVuYWpEdElmTlVPMmh5N3JOaWstbFY1UDhOSFU5am85YlhmRFBmZ25YeW1BZHhCNS1JYVIyd2ZfblA0Mk9URHhqTzlnamtKa2YyWEwzWmxzdWE4MzZfU2lCb1ltU0FlUjBid1RHZTNvaHMyZ0tFNVE?oc=5",
           "outlet": "The Times of India",
-          "summary": "Agnikul plans to establish an industrial unit in Andhra Pradesh's space city.",
-          "about_india": true
+          "summary": "Thousands of people in Scotland are protesting against the construction of large-scale AI data centers, arguing that these centers will not improve anyone's lives.",
+          "about_india": false
         }
       ]
     },
@@ -49,39 +49,39 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Wall Street Loses a Powerful Dealmaker After Nvidia’s CEO Is Ousted",
-          "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "title": "Jensen Huang’s Downfall Brings Disbelief in Taiwan",
+          "url": "https://www.nytimes.com/2026/11/15/business/jensen-huang-taiwan.html",
           "outlet": "The New York Times",
-          "summary": "A significant figure in Wall Street's dealmaking scene has been removed from his position as CEO of Nvidia. This individual was known for his role in leading the development of artificial intelligence, a sector valued in the trillions.",
+          "summary": "The resignation of Nvidia's chief executive, Jensen Huang, caused surprise in Taiwan, his birthplace, where he is a well-regarded figure.",
           "about_india": false
         },
         {
-          "title": "Edge For India? US Assures Comparative Tariff Advantage In Proposed Trade Deal, Says Report",
-          "url": "https://www.timesnownews.com/business-economy/economy/us-assures-india-of-comparative-tariff-advantage-in-proposed-trade-deal-says-report-article-156509094",
-          "outlet": "Times Now",
-          "summary": "Reports indicate that the United States has promised India a favorable tariff position compared to other countries in a potential trade agreement. This development comes as negotiations for the deal are reportedly nearing their conclusion.",
+          "title": "Sebi plans AI guardrails for capital markets, stresses human oversight in critical decisions",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-plans-ai-guardrails-for-capital-markets-stresses-human-oversight-in-critical-decisions/articleshow/135852140.cms",
+          "outlet": "The Times of India",
+          "summary": "Sebi is developing guidelines for the responsible use of artificial intelligence in capital markets, prioritizing investor protection and human oversight in critical decisions. The regulator is also strengthening its cybersecurity and exploring ways to attract startups to its Innovators Growth Platform.",
           "about_india": true
         },
         {
-          "title": "Wall Street's next bet: S&P 500 set to climb 14% despite slowing earnings growth - report",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/wall-streets-next-big-bet-sp-500-set-to-climb-14-despite-slowing-earnings-growth-report/articleshow/135826790.cms",
-          "outlet": "The Times of India",
-          "summary": "Goldman Sachs predicts that the S&P 500 will increase by over 14% in the coming year, reaching 8,700 points. This positive forecast is based on the idea that lower stock valuations could lead to good returns, even if company earnings grow more slowly.",
-          "about_india": false
-        },
-        {
-          "title": "Anthropic IPO draws six times demand, but valuation remains under scrutiny",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-draws-six-times-demand-but-valuation-remains-under-scrutiny/articleshow/135830462.cms",
-          "outlet": "The Times of India",
-          "summary": "Anthropic's initial public offering has attracted six times the demand for shares, but concerns about its overall valuation persist.",
-          "about_india": false
-        },
-        {
-          "title": "Sunil Mittal Calls for Rs 350 Monthly Mobile Tariffs, Says Current Rates Are Too Low",
-          "url": "https://www.timesnownews.com/business-economy/companies/sunil-mittal-calls-for-rs-350-monthly-mobile-tariffs-says-current-rates-are-too-low-article-156509230",
+          "title": "US To Offer India Lower Tariffs Than Competing Nations: Piyush Goyal Makes It Official",
+          "url": "https://www.timesnownews.com/business-economy/economy/us-to-offer-india-lower-tariffs-than-competing-nations-piyush-goyal-on-trade-deal-article-156513397",
           "outlet": "Times Now",
-          "summary": "Sunil Mittal has advocated for an increase in India's average monthly mobile tariff to Rs 350. He argues that current rates are too low to cover rising operational costs and the necessary investments in telecommunications infrastructure.",
+          "summary": "The United States will offer India lower tariffs compared to other nations, as confirmed by Piyush Goyal. This development is part of ongoing discussions between New Delhi and Washington to finalize the initial phase of their proposed bilateral trade agreement.",
           "about_india": true
+        },
+        {
+          "title": "Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System",
+          "url": "https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html",
+          "outlet": "The New York Times",
+          "summary": "Recent failures in the Federal Aviation Administration's air traffic control system have highlighted ongoing vulnerabilities. These disruptions have occurred as officials work to upgrade the aging infrastructure.",
+          "about_india": false
+        },
+        {
+          "title": "A Human Reads the Anthropic I.P.O. Filing",
+          "url": "https://www.nytimes.com/2026/11/15/business/anthropic-ipo-filing-prospectus.html",
+          "outlet": "The New York Times",
+          "summary": "An analysis of Anthropic's IPO filing notes its unusual openness about existential risks. The question remains whether this level of honesty provides reassurance.",
+          "about_india": false
         }
       ]
     },
@@ -90,39 +90,39 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda",
-          "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html",
-          "outlet": "The New York Times",
-          "summary": "The president is scheduled to meet with the leaders of Russia and China in China. Discussions will focus on nuclear proliferation and the conflict with Iran.",
-          "about_india": false
-        },
-        {
-          "title": "Jaishankar Says Bulk Of US-India Trade Deal Issues Resolved As America Hints At Tariff Advantage",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPV0xzd29pSHJvbmpreFFtV2JCUkUwS0NnVUtRNzZNTmp2WUpROVVPeExTcVJla1Q1YTFoLUlmQzBMc2xyZDJKSHdMYWgwbEZjMWxaaHBkWTc2Wmg4N2oxVHVUd3RNd3pZaXZod2RYbVB4ZjRVaUEzLXBnanZfV1BLUGxzY1BhUFJkdzdfMVlaOWt0a2JuVnR2ZHlqYjREUHFjalZnRWtPU29ZakZOYWxVeWR0Y3hLcXV2WjJyWHc0Ykl3Q0lTd0VOaEFWSWc2TU9BX01PWHN1cHJpcE9FU2p1NHc1NDA5MDhHVnBDeUlqZ2J3M182Y09jc0E1VlYzQdIBhAJBVV95cUxNcDNoc1d4Zlk1S2gtQ3BkWXYyQWJseW1VdFZ5LUZWYXVoakQxdUM3dG5PbFhubWJNcVZFLUxUNkJQc2VyZFVSZGl0Rms4d25Bcm1rSFNjMG1VYlROcUZzWmdpY2k5VF9vM1FpcDFGTExNckFUd1pMWmJISDlyRkdQODhyNklZaWNDYjFLalY5dUhlcDBzMGJRNHBrOERNeWF0X3hWMGpqOGUzcEtYYkE1azVJR2NZSlQyN0tvNkxWVDlyeHBXRDNQWG8tSmZaRFBYZ3VmRFJkaGk3aWZsaHNMWThWWkZFWXNYTVFiVnBOSWpEUXJCMzhlclJPUGdGU0pyWUtQeQ?oc=5",
-          "outlet": "The Daily Jagran",
-          "summary": "Most issues regarding the trade agreement between the United States and India have been resolved, as the U.S. suggests a potential tariff advantage.",
-          "about_india": true
-        },
-        {
-          "title": "'India No Longer Democracy': Rahul Gandhi Attacks BJP-Led Regime In Hyderabad",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSVhVN2Y4WGNUVGttXzZCTEVGbVpobUJqcU5pcFEzcVQ0bjJGYThGZjZoLXY2elhULXJTUG9xYjY3UDNmQUx5cXdpNWd4aFQ3cUFnaExCMDhpUlk5dmcyeWxaaWVpVXNnTVIydndYYy1ZRFZFUW5nYzA3RnV5Nld6VXBtRUYtekU0UFhnQ29TYkF4aWw1MVlnZmFNNGViRFU2eDF0MXpGdWNNcUpMQnlIaFI2NHdoRnY0SEtoV2FfcGdlRjh1ZlHSAcsBQVVfeXFMTjROeklrR1Nvb3VRX1A0Sm9Ed1BrYnpjMVdkSEFkNmVJcFlhNWxrNjctTXlIUnNPQnVmNXB2bElaTGRqYWZWanBZRFV2WE1RZGZ1dWdwR2cwMXgzZTkta2ZtT3FVYW1sUUs1N0tOMzFDdVhJYkQ1MnN5bUFRMDRKckw5Y0VpZlpkNnlXTGRfd0ZLSEFJN3RrUk94VElUX09YZHRaVHV6Tl9IR3NtT3ZrOTMxYkxFOE1uYnhiRzd1RmpWc29feXdVd3NSb3c?oc=5",
-          "outlet": "Times Now",
-          "summary": "Rahul Gandhi stated in Hyderabad that India is no longer a democracy, criticizing the current BJP-led government.",
-          "about_india": true
-        },
-        {
-          "title": "The Trump administration is diverting billions in health funding away from low-income countries, defying Congress’ plans",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0ViX2FVc1RVV2VrM2xZdV9WczkyRXU3SENDaTAxVkFBaUYtaTZrdV9yekJ2LUk2bHh1LTVqeFI2dUJIVUlKM2dvbGlLMEx3c3BfX0JpNDhhWUFrOEFVeGpNdjEtNjlfZ0pCT0NDWEM1bGwxVTgyRjAxSXdHdmxLSzlLcXdOdG1KYTYwcnk0WVMzX0M1MkV4bjY3QzBHdw?oc=5",
+          "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KWEhYVE5vQU9fNENmb1ljUHFpUFRhRzZMZ2Y5b3FZT0R5ZDdlZlBoZ1pBYUtDVXFVXzBfNk00SzZjWDhzZEZCamMwNEdhaWI3dEJ2UkdManRmdkdFSFZka2g1NU5IZUxlRjFYVDcwZ3p5NW1oaHJ1NGE3WQ?oc=5",
           "outlet": "CNN",
-          "summary": "The Trump administration is reallocating billions of dollars in health funding, moving it away from low-income countries. This action goes against the plans set by Congress.",
+          "summary": "Ukrainian President Zelensky stated that the United States suggested Ukraine could trade some of its territory for NATO membership. This proposal indicates a potential new approach to resolving the conflict and integrating Ukraine into Western alliances.",
           "about_india": false
         },
         {
-          "title": "Nvidia Scandal Prompts Questions of What It Means to Be a Spy",
-          "url": "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html",
-          "outlet": "The New York Times",
-          "summary": "U.S. intelligence agencies suspect a woman involved with Jensen Huang was a Chinese asset. They are still investigating the full extent of her involvement and what it signifies for espionage.",
+          "title": "Grounded: Unraveling the Nationwide Flight Chaos",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNXlZb0k4WGFEcTdGZEtaME1qVTJKMHYwcHhXQ3RRZWFsTUhCY1A3NmltRGNuNDExUFRqbEx5TkpsWC0tNUFpaDUzbzI4X1BqRUc4eTBEYkJVdHdSZElhZmNacy1haXBadGNOak1fWkIzV3g2dlZmcUd4TFM2TzJiTjZiVzg2ZnpfV3JrdDRsU0RLTEVsZk5wS2tDaVc2UEE?oc=5",
+          "outlet": "CNN",
+          "summary": "A nationwide flight disruption occurred, causing widespread chaos for travelers. The situation highlights vulnerabilities in air travel systems and the significant impact such events have on public mobility.",
           "about_india": false
+        },
+        {
+          "title": "‘India No Longer a Democracy’: Rahul Gandhi's All-Out Attack On Modi Govt At Bharat Summit",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTljNThzV19hdmgxYVBqWGMtWERLWU1vZ3FVM2d3T29sNUkwcjUzajFJc0Jzd3MwNF9QUUNUekt3cDZlY21LQmxlSHNOQmJ3dkpHTHhwZldFWDQ3RVNhcFB0ODRvb3dfQ2l1N0I3NFVQME5XUkdoNkFVdlNiVHpDbFF3cUFvQXZXSzE2bE1JOGpybEpLMXdHOG5YNXhvSEJCWVI2bzhrbWpta0NwblVYaHAtQnJocnZVMTFfMGdabTc2cElYc1pvdUFmTm12dE82RENSTk5QYkhNWGNkbGhQbGp6SmFobUxpWmhSVVE1SdIB9AFBVV95cUxNenNZRFNTWGdQTDR2cmdoZ0tnS2o3cW5kUlJNaWs0NkpOelEwcDhYeW1sOGllTGxUUElrZEFxTTVfc3h6Y0YycUZYTklsZ1ZZSFQtNnA2ZlA2ejNUaFVYVlgwMVBsdElkdnBnSmRZelg3VF82TEYzR1AxQ3lHd3R1Q1lBdlhibHd6RmxuNXZmZjRVZXhMYzJQaXhPUmJIb0hBdk5aVThObThud25RUkhIRWxNMUlQM1VPMzJIYXVxcjVZMUhmQ3F6NFVuLTRXaUhNaVByb0lFRTNvZnR2SFh1YUUwaXo5anctQmdadDNkREhYMEVD?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Rahul Gandhi criticized the Modi government at the Bharat Summit, asserting that India is no longer a democracy. His remarks indicate a strong political opposition to the current administration's policies and governance.",
+          "about_india": true
+        },
+        {
+          "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTUFOTm1MODNTUXVLWTJtLUdDcFlyaUNjdmdFc1lnRFdrSG1pMl9raXBieUhnbG1zQ0NxWFZIMlFvNmVMMTJyTVF1VlJ3VjA4Q2FFdEhzVmYxT2xHXzl0WEMtOHNsS0NMbTRLZk5XVEZDSGVsa0RlUS1XaUpLbWp6bEdUS2JDeE1u?oc=5",
+          "outlet": "CNN",
+          "summary": "A judge has stopped former President Trump's plans to redevelop a golf course in Washington, D.C. This legal decision impacts the future of the property and its proposed changes.",
+          "about_india": false
+        },
+        {
+          "title": "Parliament winter session likely in 1st week of December; delimitation bill to be in focus",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONURXVG5ZaVFZMEF0cGJVTHlNV1dOSUdreWxOS0dibV9TQlhoNWtONXpBV2hlbjhhaUdqZ1BTMl9Dem5zVWdIR3N0Nnl6ZUZCb1RmVmtJWGx0NnlHcDNINGZhR3hjS0RLNXZVSmdjd3diRGV1QkU2RFpGd0VFSGliQjBzSTIxTk5WdmxoMnZTMXNfdlhNOENoY2hVYTdKYmc0WkVyUFRhc3laM1hwUTRLZHB5eUdUckFkeUxYOHFCSVpYY3dGdmFJeExCSmJoNU5sTVNsSml4TXAyMmFXNWZCSXNHUVEyNjZDTHhoOTgxdXpJOVVlbGdv0gH8AUFVX3lxTE44Z0RkNEFXcG4xX1V1UkVwSnV5MG9jUE1CZ2FQc2ZyS0VtOGVKV1Zmd1RCUzk0UThjMlZ6QXBNLVhGZzhBZUs2c2MwZk1VczQyeXR0Nmc4UDdOaVlqeEtBeHFBcFZzck50WmQ5a2hXdWFVZ0M3NEF2dGFCcVNhSnBjb2Q1WDN0TlhfMW0yRjJzdDdWWWpfZjlEcnY4aVFjd00zLXNkbk9xV2RRMUNDdWcybXJaa3BfaFRQTUN6bGhEbndad21xbllfbXRzaW9nVE1rREE1WVllWGpvZWQ0YzljZWlvcUQ3Y3B1OEpiaXZVX2VidGwxdjNhVDJvdA?oc=5",
+          "outlet": "The Times of India",
+          "summary": "The winter session of Parliament is expected to begin in the first week of December, with a focus on the delimitation bill. This upcoming session will address important legislative matters, including the redrawing of electoral boundaries.",
+          "about_india": true
         }
       ]
     },
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "Trump administration warns of more H-1B, PERM suspensions for universities, companies",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQSTBNZENXQ2h0ZENuNjV4dGY5RWFaWUJ6Tkw1R2txYzV6VjRjNEVGaDBIOThlakIyeEs3RGl3YjNPRldIUHdvcl9EYWxObkNkNWlVdFF3N1laNHd1eEdQX2Q0Y3lITmRRQ1dwWERSZkxEUkJKbDdnbnVINENPbm96NkJEenp3TTYzOFprMUc5R3J1YWpNUW9fTUQwQmZwMHRWSEF2MzBJNDQ5amY1ckVySHVvUkVRNm1YNDdNSDlsbjRFaExlMmk5T0hfdVUtMWtXZjJleWVBMEFfaU10UFN5STZGNFBXVjh4VEhTMVhwemU0MnZ6UDJxNXNrLUFiaktucUNEZVpjamVqSkxMcV9TRFd3?oc=5",
+          "title": "US Labor Department official warns H-1B visas cannot be used as business model, signals wider crackdown | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeVpvV1plZ0EtMDdSSEdDV3poS19UemFiWWIwcE0zdl9zemJ5dGxhQ2t0aUQzQWdGTTVWMkxHb3N4VGlkcEo4U2VBVGZWREtMZ2c4WFpVX3Z3b0VFbEtPVzl0NnNNSkVGOUVJbldCNXFpa0ZsaTFZdzlaS2FHdG9zc3lyWG02UnRMTGpvVWpoaDRZbjN0TER4WWVUM3ZzVDFma2E2ZXdncDZwYjMycy04MFk2Mk1IMTRWd2QyQkRtczJnRjRKc3k1RTI4RC1sSTBxdGxvSlhTTzdSYkdUTWozRTFHdTc3aVZwYkNKV1ZVYV9QblJTRFU3Z2JzbXY4Q0x6bUM00gGIAkFVX3lxTE04WmpVOFlpcV9kNWNpUzVPQW1MOXdjcURtT1VlbERpYWM1S1QzeC1EVG81N2hCazd3R0Z2SnF3YnRlOTV6X2JvdHFrTjE3Y2RjZFZvRUVNenYzT2o2SlNWZkc1WDA2Q3dXYjM4ckRtSnhJNVZXNEl0ME1GYkp1N19TS01uMlZNMzVrb3NORkdnRUptb3F2VzFLaHY5MXcweEwtMFZ1X05fWTVISWtUZGQ5QUhVdVAwaEl5X1JOSEh5SFhlSHE5eXkyR2dUdmU3ajQ4RWNKa3hFN0VzeDV2M1JOS0ZXc196elZyVmVJQjVIT3hEU0poaGRGaHVSSVlHbXBSelVBakZrOA?oc=5",
           "outlet": "Hindustan Times",
-          "summary": "The Trump administration has indicated potential further suspensions of H-1B and PERM visas, which could impact universities and companies. This action suggests a tightening of immigration policies affecting skilled workers and foreign labor in the U.S.",
+          "summary": "A US Labor Department official has issued a warning that H-1B visas should not be used as a business model, indicating a potential increase in enforcement actions. This suggests a broader effort to address how these visas are utilized by companies.",
           "about_india": false
         },
         {
-          "title": "H-1B Visa Renewals May Face Fresh Scrutiny Under US Proposal",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHBoYThNZ3U1RG9KeTk2dWpwSEliVTdfbXZFUXNBampLS21WY0hZbGNsejFxUHZ2M1QxNFI1NnR1dkxaUVBtNUZxM3J6UUc0SjhMeXlDV1N5b01HWlN5dTVIQm9NZjJMd0FESU84TldHTzN6SzJ5cnhUOWg1akFfQlNYV3J2eUxMSTNIdm5WY0VCUGPSAZgBQVVfeXFMUFh4TWhJbGViZ0swdm1rTFpCaWctc29HMmhyQlY1Z2loSGE5eDdSeHBqU2RGQ3BfLXlSSWd6UG8yaVpoa3JPN0J5RmRJV3ZrTTJtMGp5b0VMOW5ZejdFb21rUy1PNzAzdF9McjYtVnp1LUY5VF9ZbmJlYnFRME1oVlJRYmdZMnYzWHVyM2VfR2RFdmo4R0VmQUE?oc=5",
-          "outlet": "Tupaki English",
-          "summary": "A new proposal in the U.S. may lead to increased scrutiny for H-1B visa renewals. This could make it more challenging for current H-1B visa holders to extend their stay in the country.",
+          "title": "Canada freezes intake cap for international students till 2029 in new immigration plan",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRGd4am5aeHNXRVJzUV9VdGhiWmNmN1dYSjVaUHo3d3NQZFBWU19GYklKOXhQTHJUOE9lRUNPNW1fSmRIUkJ4Q05BZmhsZ2dWeXNnZWxKWTNnZGlrT05FeUxjRWptREpTd3FyazFkY0FuTjlSM3lLQzRqdi1mQUM2Z1k4YUlGR0t5enFNRVY0c0FYVkxyc1hIYjdHUl9rbW9WVWNaYVVrMVdVWi10akdteE5YRGFWYmNmVDlab3hyN2tIenk5MGNMZVU5OFdXVThWZ2hOV0RXbVprSUluSFZxeXBCZndBZGfSAe4BQVVfeXFMTjlfa2NKUjA3UVBtRmFTcnRsdUFOaW9WSDdsZXo0Yk4yd1FROGMwaFpLaEN6S2VkVXRPamlVZ0ZmRThFLXRNS1VEQVFuQ2oyNUduVjVEX2dYQVVMU3EwN01id3BwQkZyQjFabnpaUWhSb003bDFSMzJkaHhmcVhjOGdSTlY1QmJ2cDVTekdKSGI5WVJrQzhDOTQyWmRQRzRnMWkyTm5XZWZOX2t0cDFoMEtFNHpmNkxKYWJmSFF4NHZDRWdGd2xoaXNzRTJzeEEtOXpyMHhHend1V28zc2Rjd1JFTVFzcF9CRmV2VFlrdw?oc=5",
+          "outlet": "The Indian Express",
+          "summary": "Canada has decided to maintain its current intake cap for international students until 2029 as part of its new immigration strategy. This measure aims to manage the number of international students entering the country over the next several years.",
           "about_india": false
         },
         {
-          "title": "IBM Makes a Major Visa Decision That Could Force Some Employees to Leave the US",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tNl9oYmxIeUFXdXFrTXdKS3ZPX2lJMHRMaGY4RGhGaklVTTg5TWxkZExNUTVZT2h0UFVCU1FfZkhTNUtYWkpxblI5ZzZ5a081Q2VNTk5ENjlBdEVUTW5MZUlDZDNpb09Yakc4?oc=5",
-          "outlet": "en.econostrum.info",
-          "summary": "IBM has made a significant decision regarding visas that might require some of its employees to leave the United States. This move could affect the company's workforce and operations in the U.S.",
+          "title": "International students turn to US again? Report says study interest jumps 40% after midterms",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPSkRkRXpRNnFlRzdKYXh0MGNtbWhGcm9WSzNSN09zR3R5ZC1CaWdQSVhhRUozalFyNi1wSmpVaXlkQzhBXzZuUGZBR1Q0M1BhaDNhazRBTEo0NEg4bE0tSVlKaWxiUV9FLUlSbG91MEVyM1NPR0xFT3BLUzJKeXplVXQtd1R6c2ZQUTVKejM1NDF6VlozY21YMVdiT0dBbTEwRnJONEFRWFI1MlNZRVZaRFlEUTlLVnFFa0JGdFhQSE9YamkyQ3dRMnptNE9SUGZvS0ZrNmhxZnZ4V2tfMDlsZEZyUEhmTDM1VGZfcUNORWRneknSAfgBQVVfeXFMT2RLYlAzb3RqbTFZU3Jjd1pSNno5Y2p3Z1NvRWUzSWd4eHM0ZmFJd1pwMEtXNE4zLVRjWjhHRWxsR2pWTlNiY1pyQ0Q1WjhJNFY4TFNhY0tsbHZmTExQNGUtLWpETjZaM3BfRUdmUklZb25RaVBrZDFLQmhwNzM5STN0M0xKWWFvZDhQdDIyaGJxVTZSdFpHanpIWl8xdldPSWtDNWFvTkpoc1R6VU5OUDJJcGZZTXRwdHRCY2ZfOC1USkFoWWsxT1k1QVNLa3lNdjVoS3hieUlNcy01TGtIVS1SWmsxa0V5ZTZqWHVwWW01N0ViN1d2UTE?oc=5",
+          "outlet": "The Times of India",
+          "summary": "A recent report indicates a significant increase in international student interest in studying in the United States, with a 40% jump observed after the midterms. This suggests a renewed appeal of US educational institutions for students from other countries.",
           "about_india": false
         },
         {
-          "title": "Trump Admin Questions Microsoft’s H-1B Applications After Outage",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS09wT3R6dDIweW92Q0pNUHlLWUxhdW1rU0VNWWVGWnFZMm13R2d6UmRVMVBSMlZGNXZTdUpiX3JTalZTeFV1aFYxVUhuaGZfOWlrTFBMeUZJYl9Sc3Zvam03TkNvODk5cW0tenZweno5cENrR1FpbTJFdlVmOE5JbFp2dHhuNTdvRktkeTJZLVNaMFlFVTdXWEJ1TQ?oc=5",
-          "outlet": "Newsweek",
-          "summary": "The Trump administration is reportedly scrutinizing Microsoft's H-1B visa applications following a recent outage. This indicates a closer look at how companies utilize these visas, especially in the context of operational issues.",
+          "title": "UK Sees Dramatic 20% Drop in International Student Visa Applications as Migrants Face Growing Uncertainty",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV0poWDhYbVZVdG1jejAzWEpUUFc2SFFJUEJZLWk3ZmxlcEh5Z3lLNWQyb2pSNEV4SlhkLUk5WDZRLTRheGp3MWRRa0tpWm1uN2dMaXhFNjU0ODFRS1FxUW9NUFhZZzhaeVE0WDFuYTlLNWJscW1WMlpRb3lIT0NPeGdtd1BSbENwT3gxaE1SSWNGLXNWVWFqV1k2MXFFU1BuYU9sZkYyYkZVYUZ0T1hSeTRWQnVDNnZ4clBhZ0pvN19XTDNaNUVxOWlDTTNtRjVvR3JrZw?oc=5",
+          "outlet": "ukmalayalee",
+          "summary": "The United Kingdom has experienced a substantial 20% decrease in international student visa applications. This decline occurs as migrants face increasing uncertainty regarding their status and opportunities in the UK.",
           "about_india": false
         },
         {
-          "title": "Canada sets annual target of 150,000 new international students through 2029 | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVHZzN3E5eWlRaVF2ZUc1MWR5YzJWdmZzbzZ4REV5UldRdS0tNmthS2VZam1UN2ZnVGxKY1JNWGhNNm5HemZ5d3lBM1V4NlZqV1hQanBNZFZZVkU1QkktcUxGMTJJMWk5OEFFU3NtOHFvdDhhemVYeWRoOThjZUpDcENtV2tkY0o2dGhMV2FzTlE5RU95WngyQUZuM0RlSHpQTkRkWXhDck54UEhXTHdTVHRIYzRnam5Pc282VUhHYVcwcTljY0c1dEQ5bnJTanRUSl9oWXI5OWJvVHV1eXpGS9IB5gFBVV95cUxQNG4weXJQeVdsVTQtR3hEYjlBenpDUmhfb2VlSVdPSjVfWVUtNEs3SWVEZ1lxcTEzSGM3dVQ1RG1xaVpUTDJBUDFZUFJYOXAwaGNNRUdnQUNuaFVpT2ZCWFpGZ2pGQ3A3ZGFTXzEtMlBqRHVhUURVVjBDS3dFZmhwdXJubEVrcTFIVWd2RDB3VWd2RUE0eXFOUnNTZGxsUGEteVExelN2Z1RYMk9pbDE1UXlFZ2JRZ2tlMklIRW9hR0F6Z0RmckREYnI4eWN5akpySjE0YlpUbWk0R09WOG9KUktxVDdWQQ?oc=5",
-          "outlet": "Hindustan Times",
-          "summary": "Canada plans to welcome 150,000 new international students annually until 2029. This initiative aims to increase the number of foreign students in the country over the next several years.",
+          "title": "As students rely on AI in college applications, admissions offices scramble to keep up",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZ2NpMEVVUjdBWWRaRURkRjVJRjRRUEswZXNTT3RWUjlxNzNkRV9yaXRCajVCS1VYQWFOR1p3RkVmbkFuR2s4SUVKbklfNUxvcUxVRWlQWkFoYlFrTUlhNktfcU0xNDBEeDNXSFNPTUFnckJl?oc=5",
+          "outlet": "CNN",
+          "summary": "Admissions offices are struggling to adapt as students increasingly use artificial intelligence in their college applications. This trend presents new challenges for institutions trying to evaluate applicants fairly.",
           "about_india": false
         }
       ]
