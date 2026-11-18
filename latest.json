@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-17T13:33:23+00:00",
+  "generated_at": "2026-11-18T13:33:26+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "California Sues OpenAI Over A.I. Safety Issues",
-          "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+          "title": "Jensen Huang Says He Would Return as Nvidia CEO if Asked",
+          "url": "https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html",
           "outlet": "The New York Times",
-          "summary": "California's attorney general has filed a lawsuit against OpenAI, alleging that the company has not implemented sufficient safeguards for its artificial intelligence technology. The lawsuit claims that this lack of protection poses a risk to the public.",
+          "summary": "Jensen Huang, who recently resigned as Nvidia's CEO due to personal conduct revelations, has stated he would be willing to return to his position if asked. His resignation followed disclosures about affairs with an employee and a woman reportedly connected to Chinese intelligence.",
           "about_india": false
         },
         {
-          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia",
-          "url": "https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html",
-          "outlet": "The New York Times",
-          "summary": "Madison Huang, daughter of Jensen Huang, reportedly became a significant figure at Nvidia, serving as her father's de facto chief of staff. Her presence caused issues with senior executives, and her continued involvement now presents a challenge for the interim C.E.O.",
-          "about_india": false
-        },
-        {
-          "title": "Hackers Target 178 Popular Websites: How Your Credit Card Details And iPhone Could Be At Risk",
-          "url": "https://www.timesnownews.com/technology-science/hackers-target-178-popular-websites-how-your-credit-card-details-and-iphone-could-be-at-risk-article-156524671",
+          "title": "Microsoft Takes On OpenAI And Anthropic With 7 New AI Models: Check What They Can Do",
+          "url": "https://www.timesnownews.com/technology-science/microsoft-takes-on-openai-and-anthropic-with-7-new-ai-models-check-what-they-can-do-article-156530815",
           "outlet": "Times Now",
-          "summary": "Hackers exploited a weakness in Optimizely to insert harmful code into numerous popular websites, including those associated with CNN, Zoom, HSBC, and IKEA. This attack aimed to compromise visitors' cryptocurrency wallets, payment card information, and Apple devices.",
+          "summary": "Microsoft has introduced seven new AI models designed for various applications, including coding, cybersecurity, image generation, audio transcription, and decision-making. These new tools aim to compete with existing AI offerings from companies like OpenAI and Anthropic, with details provided on their performance and pricing.",
           "about_india": false
         },
         {
-          "title": "Accenture LearnVantage, Google Cloud partner to bring AI learning to 1,000+ Indian institutions",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaFh3Q2k5eG1reldYdkw5SVVjYTlETVdsU1hJZHBXUV84Smdtck81VFJ4Y3h6NURCS1FRYzJfeEdWZ1FnaDRHM0MySEhfMmJKakgyZGdlUEh1S3NVbW5icXd3b1JLc3VvYWhPalFsblAtMHpsVzN1bTdpTGhUSVBlNEFHbGtybzVuYWlpSXBPU0dPV2p3RnBidklnZ1RGc3Y5S2FjOUtMN3pxMEZqSEVWS0ZmaExDamVUd01TZFpFRnhteEV0eHpvRTJ0MUozSzZIZm1nZlc4elZvZnJHa3BBam1qSndyTHFjOXA3R1kyYWhnTnI5NmlBRERORnlGQdIBgwJBVV95cUxNbmNSSzVVTTlwcVNzbTl4MERWNHRJT1RUQTZLMkh1SkczZXZsdDZ6MmUtbTNWUEJhdkFDZEg3b2oyR29kNkhvZVV6Sm1lenlOTVRxbVpybFdfdUtiNUtieU1FNlAwNEFhWENsUmVUSVd4Y2xSNHdHQjdaTGpNZERQQlBhOEJaUENrdUt3NmtyTDhzcjBuWU8zdjB0UktENlJZZms3UXd4SVdfLUdFTTJqTm1peERfbEtBNDVlUl9RTm5zN2RkalpPOUVtbHJqTmNKWGRMQi1wV1ptdWFRdVVlZjYxREIzSXhYSnlWc0gzMm11bkJNNmJYbmJaVFlLV1hRZlpJ?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Accenture LearnVantage and Google Cloud are partnering to provide artificial intelligence learning opportunities to over 1,000 institutions in India.",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "outlet": "OpenAI",
+          "summary": "New AI models, GPT-6.2 Astra and Sol, have been introduced, offering improved professional outputs, coding capabilities, computer use, and efficiency. These advancements are available at a lower cost across ChatGPT Work, Codex, and the API.",
+          "about_india": false
+        },
+        {
+          "title": "Apple Maps Gets New Features In India: 3D Landmarks, Better Navigation And More",
+          "url": "https://www.timesnownews.com/technology-science/apple-maps-gets-new-features-in-india-3d-landmarks-better-navigation-and-more-article-156528833",
+          "outlet": "Times Now",
+          "summary": "Apple Maps has received a significant update in India, introducing new features such as over 300 3D landmarks, Look Around functionality, and augmented reality walking directions. The update also includes enhanced navigation, dual-language labels, and support for public transportation.",
           "about_india": true
         },
         {
-          "title": "Meta Changes Instagram In India, You Will Now See Less Violent And Sexually Suggestive Content",
-          "url": "https://www.timesnownews.com/technology-science/meta-changes-instagram-in-india-you-will-now-see-less-violent-and-sexually-suggestive-content-article-156523462",
+          "title": "29 Keynotes, 600 Participants, 30 Plus Countries: Bennett University's 3rd Global AI Summit Begins Tomorrow",
+          "url": "https://www.timesnownews.com/education/bennett-university-3rd-global-ai-summit-from-november-18-29-keynotes-600-participants-30-plus-countries-to-focus-on-ai-solutions-article-156526685",
           "outlet": "Times Now",
-          "summary": "Meta has updated Instagram's recommendation system in India, utilizing advanced AI to decrease the amount of violent and sexually suggestive content users see. These changes will alter the content displayed in users' feeds.",
+          "summary": "Bennett University is set to host its 3rd Global AI Summit, which will feature 29 keynotes and attract 600 participants from over 30 countries. The summit, running from November 18 to 20, will focus on the development of indigenous AI tools specifically for India and the Global South.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Nvidia’s Earnings Call Is a High-Stakes Moment",
-          "url": "https://www.nytimes.com/2026/11/17/business/dealbook/nvidia-ai-earnings-huang.html",
-          "outlet": "The New York Times",
-          "summary": "Wall Street is anticipating Nvidia's upcoming earnings call to gain insight into the artificial intelligence giant's future direction. Analysts are looking for information that will help them understand the company's prospects.",
+          "title": "Nvidia rules out Jensen Huang’s return as CEO, tells investors ‘we’ve got this’",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GTVRaWkRBd0xPUXA3Q3Y2REg1TEdmQmhrRU1mQkxyVW9QbThhVTc3STF6WDlFNDF0Zm9WQnBuRFpNUVZsYnljZGlIN3J0bFVXd0RrbFVZVFdRenNMZ0xOa3d0ZlRXcEp0Q25jVUxpbXZhUWl0aFc2Rw?oc=5",
+          "outlet": "CNN",
+          "summary": "Nvidia has informed investors that its current leadership is stable and that CEO Jensen Huang will not be returning to the position.",
           "about_india": false
         },
         {
-          "title": "Trump’s New A.I. Chip Rules Rattle Southeast Asia",
-          "url": "https://www.nytimes.com/2026/11/17/business/southeast-asia-china-ai-chips.html",
-          "outlet": "The New York Times",
-          "summary": "New U.S. restrictions on A.I. chips are causing concern in Southeast Asia, potentially impacting billions in investments. Countries in the region may face challenges in balancing their relationships with both Washington and Beijing due to these new rules.",
-          "about_india": false
-        },
-        {
-          "title": "Elon Musk’s Texas GOP Allies, Who Gave Him $1.7 Billion, Have Been Voted Out. What Now?",
-          "url": "https://www.nytimes.com/2026/11/17/business/elon-musk-texas-republicans.html",
-          "outlet": "The New York Times",
-          "summary": "Elon Musk's political allies in Texas, who supported him with significant funds, have been voted out of office. This development raises questions about the future of SpaceX and Tesla, which are deeply established in Texas after Mr. Musk moved his operations from California in 2020.",
-          "about_india": false
-        },
-        {
-          "title": "Tata Stocks Rally Up To 9% As RBI Pushes Tata Sons To Meet Listing Norms",
-          "url": "https://www.timesnownews.com/business-economy/markets/tata-stocks-rally-up-to-9-as-rbi-pushes-tata-sons-to-meet-listing-norms-article-156524115",
+          "title": "Nvidia Q3 Results FY27: Revenue More Than Doubles To $115.8 Billion, Forecasts $130 Billion For Q4",
+          "url": "https://www.timesnownews.com/business-economy/markets/nvidia-q3-results-fy27-revenue-more-than-doubles-to-115-8-billion-forecasts-130-billion-for-q4-article-156528312",
           "outlet": "Times Now",
-          "summary": "Shares of Tata Group companies rose by as much as 9% after the Reserve Bank of India reminded Tata Sons about meeting listing regulations for upper-layer non-banking financial companies. This reminder prompted a positive market reaction for the conglomerate's stocks.",
+          "summary": "Nvidia's revenue more than doubled in the third quarter of fiscal year 2027, reaching $115.8 billion, driven by high demand for AI technologies. The company also projected strong revenue for the upcoming quarter, expecting $130 billion.",
+          "about_india": false
+        },
+        {
+          "title": "Anthropic goes public this week. Is its business built to last? | CNN Business",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRllnTXZrakVYRkpsVzk2M2dSTFRUb2poX0RnWVdzSkVsMHdNcHNPUXhyWm12Nk5nMDZnYktCZnJtZHJWeHBPMFB0Y0szcXYtTk45RF9zd1BsQWdsdUE0QW0yLW9PUzk3eWR6aHJRQTFaczRwTXBGbVB0MlB0U1RyR196dHExeDRaTEZnQ1lBblZReGxZbjRF?oc=5",
+          "outlet": "CNN",
+          "summary": "Anthropic is scheduled to go public this week, raising questions about the long-term viability of its business model.",
+          "about_india": false
+        },
+        {
+          "title": "Sensex Opens At 82,514, Nifty Below 25,400 As Markets Begin In Red; Oil At $92",
+          "url": "https://www.timesnownews.com/business-economy/markets/sensex-opens-at-82514-nifty-below-25400-as-markets-begin-in-red-article-156528500",
+          "outlet": "Times Now",
+          "summary": "Indian stock markets, including the Sensex and Nifty, opened lower due to a strong US dollar, a global sell-off in technology stocks, and declining commodity prices. Oil prices were at $92 a barrel.",
           "about_india": true
         },
         {
-          "title": "India's Air Passenger Traffic Likely To Cross 500 Million By 2030, India Could Become Global SAF Supplier: Aviation Minister",
-          "url": "https://www.timesnownews.com/business-economy/industry/passenger-traffic-expected-to-cross-500-million-by-2030-civil-aviation-minister-article-156524003",
-          "outlet": "Times Now",
-          "summary": "India's aviation minister predicts that air passenger traffic in the country will likely exceed 500 million by 2030, and India could become a global supplier of sustainable aviation fuel. The country is developing a policy for sustainable aviation fuel to reduce emissions, support farmers, and foster a green energy sector.",
+          "title": "Chinese steel imports threaten Indian industry, Tata Steel CEO warns",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/chinese-steel-imports-threaten-indian-industry-tata-steel-ceo-calls-for-level-playing-field/articleshow/135958719.cms",
+          "outlet": "The Times of India",
+          "summary": "The CEO of Tata Steel, T V Narendran, expressed concerns that Chinese steel imports pose a threat to India's domestic steel industry. Indian steel producers are engaging with the government to discuss protective measures for local production, as Tata Steel plans to significantly increase its own capacity by 2035.",
           "about_india": true
         }
       ]
@@ -90,38 +90,38 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03SEs1dzdtOVl4RVo4TjcxOHpLMmpKZlZ4cGFCQjQtMnV3OWhMSnhvemduUWxJSnlYYWstUk5PYURBSmxLQ2VDY3NyUG9fNXhDTlRwSDFEVFNCN29vWWtOaWRhTDlPYk04TThPOTREX2FVSzhZdEExSVVyQQ?oc=5",
-          "outlet": "CNN",
-          "summary": "US intelligence suggests that Iran may be planning to detonate a dirty bomb in Washington. This information comes from sources familiar with the intelligence findings.",
-          "about_india": false
-        },
-        {
-          "title": "Trump Administration Divide on China Policy Breaks Into Public View",
-          "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html",
+          "title": "Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html",
           "outlet": "The New York Times",
-          "summary": "A disagreement within the Trump administration regarding China policy has become publicly apparent. This internal conflict, highlighted by a dispute over advanced A.I. chips, reveals growing divisions within the government as President Trump prepares for an important meeting with his Chinese counterpart.",
+          "summary": "Mary Peltola won a Senate seat in Alaska, defeating the incumbent Dan S. Sullivan. This victory marks the first time a Democrat has represented the conservative state in the Senate since 2015, increasing the number of Democratic Senate seats to 56.",
           "about_india": false
         },
         {
-          "title": "Ground Stops and Dirty Bombs: America's Latest Security Concerns",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSC1zaklvcEo2b05nSl9kSUtwVGlHSmFMUGVBVmx6VWowRmw5QW1Kd192UkZXYzhxZEtNR1JhbVZzSHVmNkRqT1FrOC1FMm5ycE1KNzNvNlRnYkpHQTFzdlVYRklublFIWEx1eTMxMFJOemtTQkJ6ZXZFNGtZS05jTDV4V2JYbkVQendFRU9WUDNoRDViNlRaZ3NHcHNuTEU4MlZjRA?oc=5",
-          "outlet": "CNN",
-          "summary": "America is currently facing new security concerns, including issues related to ground stops and the potential threat of dirty bombs.",
-          "about_india": false
-        },
-        {
-          "title": "'Azam Khan will get justice': Akhilesh Yadav welcomes SC relief to SP leader in fake birth certificate ca",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZnN5b0FVREhCTnlBOEwtUUFQazJRbXJDWDFYZWd2OHF5cmszdmlsZ0NUaUpsbTM0RGlDcEdOa21LUXhFT3UzdmJsRW84Zjl4TFR4UG9lNHM4UXNybW1UXzduRkJkYkdPZFJ4Z2hxcjVIWk9LM3hyTHRGa0ZVc0Z2ZFZ6YWRndlREZEVyRlhBY3NpaUdQYVVNMFI2RDdnd01TTnRpQlFySkxOWTFyTDRxcTk0N2FyOXk2eEZEdThSUlpPTTBoZUphUEtqTkpWWDhvUk9zYWxGNjR6LW1ISVFJdGhIV2U0VTRQYkdEblNoT2oydDNjb1E1QWdaVmVpLVZ6OVHSAYcCQVVfeXFMTWVVWnRGRXdZUXgzMHk0dXpCMXloSlhPdnhjWDFHYTR6Z3h5WTVENm9wSnVybjNlQkdveVZlNkNRR2FyY2tYN21TSlFWazBiRmdKbzg2ZXZWZEpNRTk5NkhkLWFidzNOOV9VUzFuSFZSSC1OSXZHMFVFaTRNNk05aDY1bGJzSjNZSTlFU2NVUnpLVkdBRlNQVUk2ZTJPd1B2MEZTWFJpUkc3a0JLNzRubVlhM3NaR3pkYjUwQk9JcmdneXpCd1BnTlNoX25kTlg5ZXlWSktkQ1ZrNHl2b3drX3dXaUVRa0hRM2ItTllyVkhGYVRQZTIwR2QtV1hnQmpTYk05eGpYXzA?oc=5",
+          "title": "Trump–Xi–Putin summit: Towards a great-power cartel?",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNelNqM2IyZ2paMFZfZ3ppZW40N0lUb3Rwa0FpcDEzbE01STdwanpGaWdpbWhwZXBSWmZ6OFdOVU9NdENvNnZlRUhQcEd4d0tLODFDUk9lQ2M4YXBEajNUSlNwVDh0NmNOX3BWV2FzaUZiekJfQW41SVlBaTU3MlZnaktQX1dfeFVrSDZtbTl0ZXdpRzJZQzk5bU05WVNtaDVPNVJfV3VQdXllZnd6RGNqWVRnZFJJOEJtQnhNSktfcENFWlQtTmlYOUlXQ1JtQdIB0wFBVV95cUxQbFdSelNWV0hwczVhZ1BRMkZkX1g3aVI2RWtlVGc2NWJrblpmQXlRTkkxT3haOFRoUXI5MGg0bUxEVXEySXNGNkw4T3phX1hHVk1ranhTNkNaUjV1U1ZXR3ZQbHB1SXBnbEJodzQ4c21URm5mSVRrZHEyRzg2SVdwR3o5anoxMHBQSEVaVlRxQVNoVDRFSmdLdFA1MUFBTVcybnE3elRrLVhaVmZSTmhuUDl6UzJXT3BBWEhQYW5DcEpxbW1sVFRuWWg0dHpxUW5wVXJN?oc=5",
           "outlet": "The Times of India",
-          "summary": "Akhilesh Yadav has expressed that Azam Khan will receive justice, following the Supreme Court's decision to grant relief to the SP leader in a fake birth certificate case.",
+          "summary": "The headline reports on a potential summit involving Trump, Xi, and Putin, raising questions about the formation of a great-power cartel.",
+          "about_india": false
+        },
+        {
+          "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+          "url": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html",
+          "outlet": "The New York Times",
+          "summary": "House Democrats are preparing to launch broad investigations into former President Trump, his family, and key administration officials. These inquiries will also examine Commerce Secretary Howard Lutnick and policies concerning Nvidia.",
+          "about_india": false
+        },
+        {
+          "title": "'Sitting on disaster': Rahul Gandhi flags India's economic 'crisis' during US visit; BJP hits back",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRmVaQVVhM3dTZDR0Z0I1d19vYlFPM3FxdjYyZHBZbGd3ZUQydHJxYjBMT3NfbGZVLW1LTFpvdGpjSzR0dDN0LUlsdVF6X2lPWkgtZUR5eGhJUEpIWE0xQVBYY1lBc3VIQTA5cnJEWkVJQlFCd0txU3NqOG16VjZVOVd1NEhuVkUtdlJuZGtnNk5xa0NVZEtzSmJVZ1EwT1o3elVydUVNNWdtcnlZOHlQOFBuYnFRcXgzR3lUajd3R1lyMGRpVnp4SU5KOGR4UUFWckNhN0xtV1ZfR3Z6Q1RQbmZ5RERPMlIxeDBzRHEwb3hsY3FDYmfSAfsBQVVfeXFMUDlYSWoxY2gzaExIN3ZNUFRscm9CdERZYTMzbGVkQlhlNGhUemxhQ0tCTTdQNnMydVpHRzdqU21BUGk4dFBwWEJpNWVJUDEzWDJ0N1psVGRpN1ZNdF9YVUlrV2ktUFV2LXBNVTZUTVh1VHhiZ1lmR2NKVVp0Q0VyeFl2QU5DUmRlLVRPTXJzZWZiMTFjek1yZWx4QWc4VDJCOHJOOVRaYU5nbzRLak95X0dXbjVuUGt4LU5YVEFXb2pDNEZZdGZXLW5QbGkwZ1BVMElHbDQ0ZXVTU1NTWno2TW9mNFZVaDBha3NFZEZqZnQza2NzU2RoTmh2Wkk?oc=5",
+          "outlet": "The Times of India",
+          "summary": "The headline reports that Rahul Gandhi has highlighted an economic 'crisis' in India during his visit to the US, drawing a response from the BJP party.",
           "about_india": true
         },
         {
-          "title": "Trump's 'Tough Guy' Praise For PM Modi Before Quad Meet On Sidelines of ASEAN",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUUlkNUpOZ1I0OTFhd01lTTNoYnBCTEstYUdXdEJuRjJVSlJFclVpUk9zR2dFYTlWLVU3eHl6bkpzSVF6S21kOC11U29iblNjUE1BZUtWTkZYWmlsR01sNVBvUDdzc1h0NC1IeW5rLWF5TFhSLUpuZnpnQmtBZ2hhTl8tNzEzQjRlSFhYYzd3bFVGeHNKSlZlU1Y0V2hZcXYyZmhMQ3p5VHVtLWwtYXNyR3lBc2FtQXhqM0s2cV9PXzJMRzV2ZFNvNU1aekJrWmhzZi1XM00tVGFENmt4ZkZfcEJFTldNaGtBN2lMN3NDSknSAfABQVVfeXFMTVFJZDVKTmdSNDkxYXdNZU0zaGJwQkxLLWFHV3RCbkYyVUpSRXJVaVJPc0dnRWE5Vi1VN3h5em5Kc0lRekttZDgtdVNvYm5TY1BNQWVLVk5GWFppbEdNbDVQb1A3c3NYdDQtSHluay1heUxYUi1KbmZ6Z0JrQWdoYU5fLTcxM0I0ZUhYWGM3d2xVRnhzSkpWZVNWNFdoWXF2MmZoTEN6eVR1bS1sLWFzckd5QXNhbUF4ajNLNnFfT18yTEc1dmRTbzVNWnpCa1poc2YtVzNNLVRhRDZreGZGX3BCRU5XTWhrQTdpTDdzQ0pJ?oc=5",
+          "title": "'Maharashtra Will Never Forgive You': Shinde Sena Tears Pages From Sonia Gandhi's Book",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeDM1bXotR192b1BiN0U5T29yTEV1WGtBSkpBZnozU1RPT1NtNml6aFROMUNCa3ZZc2dOTmxLNWFBWDhicUh6SnM0RTR0VnEwUXdlOW82Qm1NdVlxUmdaMzQ4a2cyTjJnZTQxNi1XRzRNT2lIaURnRWJ0Qm9hWnBXVGNYN0tLRkY2cnBzbXRYWHg0N0JSXzJhX2t4ckR4UlZRczNCbmJKSmM4eXRIdC0teVRBbFBxdmxqRzdhZ3BudmxVeW1DTW1HcW9lR29DVTJF0gHWAUFVX3lxTE5xWko4X0NxU1dWdVROMVNuRmtIeDBVbV9OUDB1QkZOSmw3aW1QY1BzbUQ2QVFNbHVOWS0tV1VFWXB6M2Y3eWppNHdKbjF1Y3RuYmtZaE11U1BzWlR5RzduV05DRUFKQm44N0FIUThCdG9tNE9Ndm5hWVZDQzRUa1QwZFdRR2tZb0o4U2d5Znh6Nmw3LWF3d0VXUGFhR09pRElwM3VNbDVpWFBMQjBHY3VObmhkdzV0MkhpeFZiekJSS2JENnI5NndHQzlqbkN1WmEyTVVISGc?oc=5",
           "outlet": "Times Now",
-          "summary": "President Trump praised Prime Minister Modi, referring to him as a 'tough guy,' ahead of the Quad meeting that took place on the sidelines of ASEAN.",
+          "summary": "The headline reports that the Shinde Sena faction has criticized Sonia Gandhi, stating that Maharashtra will not forgive her.",
           "about_india": true
         }
       ]
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "Good News For International Students In US: Court Scraps 4-Year Visa Limit, Retains Flexible Stay Rules",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWXFoTVplNmJucVAxSnFGakhKajhZX2lDRVhaSnNFS2ctQVQ5cXBJdjlIWXA5azFVVmFyODlzTEwxNnFNYlBSQm80a01xRmZpakc3NTRVQzhEd3JDM1dsaDZNbjIya0xKYTJhYTNGUUVrcnZaemZKNDVwd2FFTjEyZmczV0cyTXpIcElnM1RZNDZpenczd0ZhTUl0X0FGQzR3MlRfelRhT2l1VjZIcngwSU1zTFl4WElKVXhlSHUxdGphT2YxVnl5MVdKQjI0N2lXYlhydGdHaVPSAeABQVVfeXFMUGFOTVdGWWFOcUdIcUxhenFqWFlWSE93NmhRTS13SHpQSFE5b04ydUc0WTN1UEgtWm1BZ3g1OHhTYjJhSnIxcjZrQng5aW54Q2VxNHktd25PekZNZDBBOF9oeks2Ukk5Q1JVeS16UGxpaF9aQ1c3ZGZjMkxfQUt2MlAya3ZIdDVJQUpHLUdlY1BrRGFtdjZvNEFfeUprcjU2ZFdMQkc3NWpnY21tZzczSXRLbUpVRzE3YjJoM2NTYUk0MmkySGRmWm11UHBLc1ctREM5QkhpUnF2WVZscDFyZ0Q?oc=5",
-          "outlet": "NDTV Profit",
-          "summary": "A court has removed the four-year visa limit for international students in the US, while keeping flexible stay rules in place. This decision is beneficial for international students as it allows them to remain in the country for the duration of their academic programs without a strict time constraint.",
+          "title": "Federal Judge Blocks Trump’s 2026 F-1 Student Visa Restrictions: What International Students Need to Know",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUtHazdNS0xkMGRKZUY1dmlYUXNxSWFLNDVlc3Z6T29aNTA1ZHZYRW51Z2Z5UFNFMUZpdi1LUV90T2tCSmtJcXpqbVltRXBUaEgxYUZXSVI2ZEhWT1V1N3VtekFYOWswaFpQeWswSk1FREhVdzRtN0VfQ0JFMkRvUjZNaWdpRnRDV200eUpscDZ0b1diUldpZnh1VWc1c19EakR2Qy04ZmtpT2tvb18wV0pXcmI0Vk93d3RLbGUzTkNiTWFtYkZPWnFoOA?oc=5",
+          "outlet": "Reddy Neumann Brown PC",
+          "summary": "A federal judge has blocked restrictions on F-1 student visas that were set to take effect in 2026. This decision is important for international students as it impacts their ability to study in the United States.",
           "about_india": false
         },
         {
-          "title": "US proposes overhaul of Green Card sponsorship rules for foreign workers",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSjJUd01aTlNKTzdXRlRZSUpxeW1Db25oejZ4dWh5elk4X1FaSjdiNGpUcUdJclVOUjRsdHIxNUtEOUYwQThNRElZNE9qd2x3WUd0Z3dyWEt4cWVvMi1HMDNZbXl3aG5udkYyRF9qYmFwZWZfRmxCMjBqRE5vVlNRdTd1YndmNzZURmtHRlh6aThtUzRSb1Uxa2Y4WC0yVjc4dWpCR3BYTlBTVHFwNE9PSWVlTFE2b2VtOFZmclBicGFVWXNUbFJ2aEx1dWdsMEY1cDJRRtIB2gFBVV95cUxOV3dvNVRTYmpJTjhnN0J4Q05CTzI3NnlHamVpQ0VXRzFVSEJtUHR5alZaQlg4WVhuZFB4ck5HU3pxSWxuOGFsWnVhUW15LU5IRmY3TldyWmZRTlk0T3M2emtpODZEX3NMUXBTNlV0WW1WVTdpc2lkR1liT0Y2bkdNS0otUllfWUs1bXRrTFlUa3Z3aTdPeThzX2FPOTEzZnJiekNUR0dwZEk3OF9KR0VCSHNMamNsd3h2M1ZPcWpqQy1ZWmRSLWFXdlJFcjh3bEFzaHdoamFGV3pYQQ?oc=5",
-          "outlet": "Business Standard",
-          "summary": "The US is suggesting changes to the rules for sponsoring foreign workers for Green Cards. This could impact how foreign workers obtain permanent residency in the country.",
+          "title": "DHS Proposes $70,000 Fee for International Students' Training",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55SGlqSVRtZFlQOEhyc25MYlQ5QnhtajQtWWtqX3RtLTVLdVJTZE50cDRmRVhYakxLWWNJdlN6bVdsTGI3QXhSdGJucWZFUTBpQkd4NzlIUENWVVZ1OEJOVFVzUHNJTVpHS0dHaS03NW92UXlaaTZ3?oc=5",
+          "outlet": "Legis1",
+          "summary": "The Department of Homeland Security has proposed a new fee of $70,000 for international students seeking training opportunities. This proposal could significantly increase the cost for international students pursuing practical training in the U.S.",
           "about_india": false
         },
         {
-          "title": "US Offers 15-Day Premium Processing for 27 Visa Categories, Indians to Benefit",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUzloUUp3MGNjRjZJWFpMTGxMZDA3MkFxUW1EbTExSEJlOUlJOVJGTVlISlBwRXFJWlVTeEplWHhLa2EyS18zTVV5UUZ2bFNONXNNVVpRdmFWbTdhanMyVU9pUk5ORkxGS2ZqQVF1NkdMb3dNOGRDSjlnY2NzOU1TQ19HSFRVM1U?oc=5",
-          "outlet": "theopenpress.in",
-          "summary": "The US is now offering a 15-day premium processing option for 27 different visa categories, which will be advantageous for applicants from India. This new service allows for faster processing of certain visa applications.",
+          "title": "US H-1B Visa Green Card Update: New USCIS, Tighter Sponsorship Rules Proposed; What Indian Professionals, Graduates Need to Know",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWUdKR25zcVlrUHVxSmNxb0VHUUJPRE0zdDEtUzBzUW1aeG5aVDloaWwzb25yTFlZQmNwUnZhbjRlNUwxWXVIS0RFSndNUTU4WkVpZlRMQ3FnWE02dm1TN3c5NGRtTk0yUXFZUzJWQ0ZZbkFoRWRBdVB6c0xJVzd1aU5ROGtlWXlIbGpCMmhBb05yVXROQk80WUFlaUtWaHM3MTJNVDBvUVNHeDhObTNkZ0FOMDN3ZWtVQjV0dlZybFBlWGhjcnVLX1JvclpEZUE5clBlOUh6LXVGNS1yc3VZTjAxZHFnTGhwNUZUZnZTbGFmeTlNRzg1WF92UlNqMGE3TTRrNlhFUGxTbXJXNTdmZ2QzLXQ4REVtN1BWdjlTd1JpeGNUQkNKcEswSmhHZ9IBtAJBVV95cUxNaG9TNmdPYUFyVEMxVThlbE1MVlVJWFZzU2VIbFlwOWFJWVM1N2ZYdTdsWTJ1eGZsckZycGI2MDZTMzBEcjhqajFiV1o0SmVLY3pzTzdvNFBNX2ZOblFFSlV2TDVsbnhfUnpwZzctSmZZMVlrdGtZVGpUM0U4ejROanp4OVlsRUNDUjU2N2FNaDBpR3AtR2NyQk5DMG9tbEhTejRTWHNnUjJzbDcxX05aVFdwS3lDb3RZUVRUaWxnQjVTdkZWNlFZSXY3ZzZPeTVpZlJ0N2pzVDVaeVlfRmJfZmsySGx5Zmd0czlDY0ZXZ0tFUG14ZDQyWjN0XzhIOVlFQkVMNXl4aXpGRjZPN1p0aVdYNXhSX2w3dXJ1c0ZrSy14X3JnaWJFZ2VINGJ4WkxwQUZjYQ?oc=5",
+          "outlet": "Jagran Josh",
+          "summary": "New proposals from USCIS suggest tighter sponsorship rules for the H-1B visa, which could affect Indian professionals and graduates. These changes are part of an update to the H-1B visa green card process.",
           "about_india": false
         },
         {
-          "title": "Fewer international students are choosing US colleges. Here’s what’s driving the drop",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTG1mYTdfVXlsQnpzbGkwcVU4YnFxSzl1TC1XWGl4S0RSdU95U25BeU9qVnljdlFhSExuejdTblp3Uy05MGtGMlZqbVk3ZEdEeDVFXzVncGttWVR5ZzVHNzh1c1ZoTnBRZzVpSGhUa01fOFNiZ19pbmxveWlEbkpLVzFVWUxkMmRmQnJsLVpCVElFVUJFdEw0eXdmZkpkc1FTWXFpTlBCelI2dE05eElXakhTWkV5S2x1S2t3NkdsVnp1WDZy0gHYAUFVX3lxTE9XVHJvWnM1T3d3UmZQY1lVU2V1QndOQmQtTEdWMjNULTdjNGlwOWhMVDk5cHNjbDlZVkk3RnBnV2lOMHRRcnJBVzI4N2RYQU04RklGdmhpRVlrRzcwbXZFckVIQldoREdYQ0tBY3hkLWVWcUh0anpCQVMydzc3ME0xLTJ0UGwtYkNlQnVHUjctRFJyX3dXOExEcG9WUXVadmdhcGxkd1NHMTRhdVFyeGhhMlRCc3dac0pCQkYzLUd5M292OG5jd2ZCZHY2LXNMWWhSNG0wMmNRLQ?oc=5",
-          "outlet": "Cleveland.com",
-          "summary": "Fewer international students are choosing to attend colleges in the US, and there are several factors contributing to this decline. This trend indicates a shift in international student enrollment patterns in American higher education.",
+          "title": "US work visa: H-1B, 26 other categories can now get 15-day premium processing. What applicants need to know",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNXNJYldpQjFYR21McW8zUEdKbnlfUlpyTklMcTZkQUZsUndEUnpBa0RXdjBTVHlFSGFfa0JjbUFRckpxQWIxOXNOX3l6RXVWRjZUck1DM1JwZHJ0ekRMelNieThBOW1rRGVMdVMwM29TcGpacndNYlIxMnA5Uk9SekhaT3FCczA0eE82TW5tdDZPdFRfRF9aUVlXNFB2Zjd0eDVCakIxOEFIUGY1TlgtdUZOWjRTT0JuS1JYMkxVeVRqU2lZeF9YSlRBV1RJbGJBNXBIMS1hcW9WM3Y3ZEdGZGpXbUxhcWJvWlEzdWQtOE5PLWQ0dFZqOUZR0gH_AUFVX3lxTFBwR2JGa2p0U05ELW01ZnlRQzhpVUU0YVVnS2Uwai1EUVp1djVvUGw0M19VSWlIaFNBeG8xWXN4S1laSUtPTzFRRkhVRGlhclliYzdvNzFVaHViZlloZW9NaWVsaEFMNkdET3dneHJ6R1ZmTzBOTjVHZ3UxS21lRzRiSGhUajIzSmsyUV9YQzlDZ3FpZUZUS1dVUDhPZmg2T2NFTHNrOVpHX1JpZ3Q2VldjNlR5YkprQ09MSC1nRDV5RVJ6Z2NNdDd2X3hvMFBFWGNrNnQ1bFhlbkpONWhsN3pncTFBMm54UHZMMGxaS19ZS0tZMk55UDJGcG9zaS1Xcw?oc=5",
+          "outlet": "Business Today",
+          "summary": "Premium processing, which allows for a 15-day turnaround, is now available for H-1B visas and 26 other work visa categories. This change offers a faster option for applicants seeking various types of U.S. work visas.",
           "about_india": false
         },
         {
-          "title": "Barnard pauses international student work authorizations for spring 2027, Rosado announces",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQWJRSTNQcGdkRzhqMUxTZ2VDY2V5SkFlSnVsTk8zMDJoTklOR0lKQzdNU0JEQXhZNFdyQkdzb1dxOVNJbXgzMGJ2ZU9qNXpqVURkTnFMNGpQVm53ZVZVUERadnlLSDg4U0p0cnFwN1lxSzItc000ZC05ZmJuM3dITEx5VWtmT1JqbGttVVZEZTBkQ05sUzU0TWhvUXMzam9wSVBMOS1jQWhpajBJWm5GcUlTeU1wTTdvME9GLUM5WU04aWlUMzZiT1lySDZaU1czeEUzaTVRSQ?oc=5",
-          "outlet": "Columbia Daily Spectator",
-          "summary": "Barnard College has temporarily stopped processing work authorizations for international students for the spring 2027 semester. This announcement from Rosado indicates a change in policy regarding employment opportunities for international students at the institution.",
+          "title": "US court blocks Trump's CPT restrictions; Indian students could regain access to internships under F-1 vi",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWVlEY243RU54cThBU1dLWEkwbXdQVzJ0YmxidTBlUTlYelpaR29YSEQzYVMyT2dKaVlJWWVOc0FVQmdkOXNyRk1BcEVTeGwxanlMWlBJVGI0ckRPVUlvaUpDUklxdl9BWDVUVmxXQ3pWYXY1ZnB6TmhYUEI3R0lhNEs5WVh3OEtlamRvS1pVOHFUWU4xTWV3NzI2eXQtYjFIc2MxcUNqOVotTm1EbEVORlNNOV9HanZ6dWQ2Wm93bFFqNVJuQ3hkNDNvMjFaR1l6TFF0T1pIYkZnOHozSlk2Rk5tTERDYkpJYVNjVnd3NmhJeV9Sd2NBYUMwVEZyRjR4RlR2TDlLdjNoQmc0M3FYWFR2bENIWGlmc2fSAZ8CQVVfeXFMTkxUWDVVc1RzSkNSMHJneXVtMGtPQmlDNVpZbU5xZ0hfV0RhblpJZmJEUEQxZWVwRzBWRzZmWmRvbDlRUHZkTnhlbTZUN2hVR1B2cWNoRWR4X3pJdDVLNk1pLWE1VVdiajRaTE5hZklnSURsZmRadE5mWWt1dF9zUUdMTTBEem15ekM2eHR2Zk1sYndGZzVEZFJKX2JFUXJIRDV6SWp1cXBTOGZhTVI0cDRIdk1ScXRlTS1xQ1JoYjllNXQwMGJxRjBmVy1OZ21vYVVEZWlMZkdoOU92ZEVMeVdvUG9lYVg2YkFPTkNzSHAzUkRfZ1N0eWdzS2JQU1JkSG02VWp1dC02MHhhVy1USmZqRkdOMGJ1RVBCUHRuVmc?oc=5",
+          "outlet": "The Times of India",
+          "summary": "A U.S. court has blocked restrictions on Curricular Practical Training (CPT), which could allow Indian students to regain access to internships under their F-1 visas. This ruling impacts the ability of international students to participate in practical training experiences.",
           "about_india": false
         }
       ]
