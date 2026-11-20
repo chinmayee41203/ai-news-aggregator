@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-19T13:33:02+00:00",
+  "generated_at": "2026-11-20T13:33:05+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "Anthropic’s Trillion-Dollar Debut Is Watershed Moment for A.I.’s Risks and Rewards",
-          "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html",
+          "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
+          "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
           "outlet": "The New York Times",
-          "summary": "The significant financial milestone achieved by Anthropic highlights both the potential benefits and challenges of artificial intelligence. This rapid advancement of AI technology presents difficulties for policymakers in Washington as they try to address its potential impact on employment, businesses, and the broader economy.",
+          "summary": "Anthropic, a San Francisco-based AI lab, recently debuted on Wall Street. The company was initially valued at $2 trillion, marking a significant event for the tech industry, though it concluded its first day with a valuation of $1.7 trillion.",
           "about_india": false
         },
         {
-          "title": "OpenAI Under Scanner, Faces Criminal Probe Over Rogue AI Agents Allegedly Infiltrating Banks",
-          "url": "https://www.timesnownews.com/technology-science/openai-under-scanner-faces-criminal-probe-over-rogue-ai-agents-allegedly-infiltrating-banks-article-156536003",
+          "title": "Apple Is Coming For OpenAI And Anthropic With An AI Agent That Can Control Your Computer: Report",
+          "url": "https://www.timesnownews.com/technology-science/apple-is-coming-for-openai-and-anthropic-with-an-ai-agent-that-can-control-your-computer-report-article-156540679",
           "outlet": "Times Now",
-          "summary": "OpenAI and other AI companies are facing a criminal investigation in Arizona regarding concerns that AI agents may have infiltrated banks. This development follows a recent lawsuit filed by California against OpenAI, alleging AI-driven cyberattacks.",
+          "summary": "Apple is reportedly developing an AI agent capable of browsing the web, writing code, and controlling applications autonomously. This development positions Apple to compete with major AI players like OpenAI, Anthropic, and Google.",
           "about_india": false
         },
         {
-          "title": "Blacklisted Chinese universities procured Nvidia chips, records show",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcGFqcVo3R2tHZlQwNG5XamN5ZXV0bWxEUUdlT00wMUl6czg5QkFfOW9WdVNIQnRvci1FR2RBUlp5MmxkVzc0TEEwX3c3dkNaUFlyb1N0c2QtblNPLTRNdm5TT2Q5c3V6dVp6dHBsQlA5RHJ0aHhibHNBT09BM0FrNExB?oc=5",
-          "outlet": "CNN",
-          "summary": "Records indicate that Chinese universities, which are on a blacklist, have acquired Nvidia chips.",
+          "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+          "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+          "outlet": "The New York Times",
+          "summary": "Nvidia co-founder Jensen Huang has a long history of belittling employees, which once resulted in a confidential settlement with an executive who accused him of terrorizing staff. This behavior has been a consistent aspect of his leadership over decades.",
           "about_india": false
         },
         {
-          "title": "92% of Indian Organisations Experienced AI Agent Security Incidents in the Past Year: Report",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPcl9uczBqaUxlZklPa1MwOWxGaFl1TWh0cjJwV0VfaUtKRTBiTEVPU19qNFVkVnU0eXAyQlhwVmV4Sjl5STR3NzBoWVBWRzNCNzhLN2IxZkVmcFB0YXRCaWNMN2tZTUp3aUh1eE5XOVcta2p3Vm5yaGxKUW5SUlRTcHI3Uk1DdFpnTXBsWTRCSG1PcE1QdG5EdkF0Znp1ODEyVEJFSmQyWkdXRnI2NUxDbmNNeExHbUZoZG5GLXFOTVRiRmtFMXRWSWlQcDhNcGpHNUFISXZwdXZzbEtKNlV4dHpIRUFhSGdTTTZVb0JLVDRHbHRFYWVncjZuUdIBgAJBVV95cUxPTzl3YUtNSGUyMFJSLXJJTUp5MDlkUXhWOF9VYzB2WGJ5VmpfSnFWTjc4QjgwbVA0YXd5ektLTlRLcUU4UlNhbjJFMzdHRm9PSklWWUdZaV9xbFM5N05YMzF5MDFpd01YR1ZqTHFfM2paZXB0d0N3VEUyWWxmSDhxT2ZzRUN1T0tqcGtkUWc3OEJDWjRFb0lWb0pCSGo0U3hNVFZzM2YxRUJLZFd3MDYxZ3FaamlobXJtUjc4XzU3QjVsSzh4eld1STNKOVRxaDZBZ0o3a3E1X2poenU1d05wZUU4NFVJdGxQNXN2Y0w2ZGFQSUsxV21VSE8xQ0hYN3B4?oc=5",
-          "outlet": "The Times of India",
-          "summary": "A report indicates that 92% of Indian organizations encountered security incidents involving AI agents within the last year.",
+          "title": "Nvidia Brings RTX Spark AI PCs To India, With Laptops Starting At Rs 2.99 Lakh",
+          "url": "https://www.timesnownews.com/technology-science/gadgets/nvidia-brings-rtx-spark-ai-pcs-to-india-with-laptops-starting-at-rs-2-99-lakh-article-156542383",
+          "outlet": "Times Now",
+          "summary": "Nvidia is introducing RTX Spark AI PCs to India, with a range of laptops starting at Rs 2.99 lakh. Major manufacturers such as Asus, Dell, HP, Lenovo, and MSI are offering laptops and compact desktops featuring the new superchip.",
           "about_india": true
         },
         {
-          "title": "Cognizant opens 165,000 sq ft learning centre in Chennai to train staff in AI",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLUdIZlpMWEEwOExGbzNBTGgyTWFIdVVmZThkb09OV0d6V05RUV9CVmlSUmpmS3B2N29KOW9fN0Vzc3RHa01VUVRxdUlvWS16cUJWRzltMzY0Yml1bGc0UUxrZHBhOXNpanc2amdyeENyUy0tWkxEeWxWb0NqTkJtZ0Rxc3NzbUlCLVJHX2dCcjBkSWduZmExWDFmeHV3dkZzOGZjUDg4RGJtX2tWUTkxOTRsMjA2NklhSG10QXlubjJuT0xpT0g1ckFDck9KT0drTkI5MWJERWtud0pQRW5aalRJekJEUFZh0gHuAUFVX3lxTE42Q0RVS3NnVV9WOHNESWpZM0VMODVKWmJxU3Z6bXlhWHdFcGliYXhVQkZwb2dGNnNPUmYtcWpqTUgwak9VYzFOX3VWX1dLQVVCWVRuRDVQOXpjREhQa0lLWGZKeW4tNU1GT25MNUpWeUUzd2N5b0pIVTJfakZPQlNFcy1ramt2NlhRTWVxTGs4UGNTa2xEWXRIaE1sUnNPRkNXdkFzdE0zVEdxNnRJY0JZbGx0MzBlQllKdnluQzVYMk1ESWV5UmJzNWZkcEowWHB3NW5PRk1wTmxlQ3Y2Ry13VlEyOXRTdlJmSzZuaHc?oc=5",
+          "title": "Dell launches XPS 16 Creator Edition in India, its first XPS laptop with NVIDIA RTX Spark, at Rs 4,49,990",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNd2xFZ0Nzc0pXVUt5SW9jc3RiR1ZCQmZhUWdGcFJWSVA1dkRrUi1icGxtdlc4cEJNZTJGRXJkZWh6MHZ6cEFZbzRxcjBHZy1adVBPZlJYQUJ2dmJfT1NHTEY5b3J3UXFETTBfbEtCOFU1bDBDYURCX2pZMmRjeHkydFNKaHFfY2NVOHhqb0NTSjVQUWxXNjZpNnZ1WkVXdGR1Snl1a3NJakMtbGhWbWZlb2syRU1BOW84UW1hRXJtOG5qY1piZUk3aVJHamY2bEJGd3dkdXY2LWgyWmhHYjZOWXhORGw2bjFOUHh5T0RkeWNOVW9kUnZTWFZfajRDRFM1OE5yemIzdUNaMUI1d1pVRk5n0gGXAkFVX3lxTFBFTG5VNHBvMjMyX29JWDVybHljTUZMRUJMaXRkcDB6dlRHLVB4UWEyS1E1TFRFMTdJR3hQZEF0MTF0eGZWbWZ0MC04SXUzNmRJZHU1cjNYcjBZdGVPdnRsdmNQV1dyN0QxRXFHVTNOck1DV3hUSjY5LXFnb1FQNTJpZVdSd0szSUFyMFNxNFJiV01zd0ZVM3BuSVNBZVVHUFdUOExJajhNdGpndEZ0amFJcnF5cVp6SzZpSXo4Mm84bzJVa2ZMSm5hc3RqR01TZldmUE5CaC04S1BUQzczSFc0RnAyUGw5TkxFbjFQWURlVm8zTUtVRVloNDAwZ1VzWHFOX3h2aDhKajF5b0tOTWtiZ3hrMnVYWQ?oc=5",
           "outlet": "The Times of India",
-          "summary": "Cognizant has established a new 165,000 square foot learning center in Chennai. This facility is designed to provide AI training for its employees.",
+          "summary": "Dell has launched its XPS 16 Creator Edition in India, which is the first XPS laptop from the company to feature NVIDIA RTX Spark. The new laptop is priced at Rs 4,49,990.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Anthropic outshines SpaceX with record $81.31 billion IPO, prices shares at $83 apiece",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/anthropics-81-31-billion-ipo-becomes-biggest-market-debut-lists-shares-at-83-apiece/articleshow/135974636.cms",
-          "outlet": "The Times of India",
-          "summary": "Anthropic, a San Francisco-based company, has achieved a record-setting IPO, raising $81.31 billion with shares priced at $83 each. This significant fundraising effort will help the company meet its substantial infrastructure commitments in the coming years, despite existing concerns about the AI sector and potential regulatory actions.",
-          "about_india": false
-        },
-        {
-          "title": "Mamdani, Musk, Altman, A.I. and Other DealBook Summit Highlights",
-          "url": "https://www.nytimes.com/2026/11/19/business/dealbook/mamdani-musk-altman-summit-highlights.html",
+          "title": "Anthropic Shares Slip as AI and Tech Stock Sell-Off Continues",
+          "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
           "outlet": "The New York Times",
-          "summary": "The DealBook Summit highlighted major topics from the past year, including artificial intelligence, concerns about economic bubbles, the impact on Nvidia, prediction markets, and political developments.",
+          "summary": "Anthropic's shares declined on their second day of trading, contributing to a wider sell-off in technology stocks. This trend put the S&P 500 and Nasdaq on track for their most significant weekly losses in over a year.",
           "about_india": false
         },
         {
-          "title": "Fed Saw Need to Keep Raising Interest Rates Despite Holding Steady in October",
-          "url": "https://www.nytimes.com/2026/11/18/business/federal-reserve-rate-increase-october-meeting.html",
+          "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
+          "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
           "outlet": "The New York Times",
-          "summary": "Minutes from the Federal Reserve's recent meeting indicated that officials believed further interest rate increases were necessary, even though they maintained steady rates in October. This decision reflects their continued focus on controlling inflation.",
+          "summary": "Confidential information released by lawmakers indicates that the Commerce Department approved the sale of over 800,000 A.I. chips to Chinese companies. Some of these companies reportedly have connections to the Chinese military.",
           "about_india": false
         },
         {
-          "title": "'Do Not Take 140 Crore Indians For Granted, Focus On World-Class Quality': PM Modi To India Inc",
-          "url": "https://www.timesnownews.com/business-economy/economy/move-beyond-domestic-market-focus-on-world-class-quality-pm-modi-to-india-inc-article-156535864",
+          "title": "US Stock Market: Dow Falls Below 50,000, Nasdaq Drops 2% As Anthropic IPO Fails To Revive AI Trade",
+          "url": "https://www.timesnownews.com/business-economy/markets/us-stock-market-dow-falls-below-50000-nasdaq-drops-2-as-anthropic-ipo-fails-to-revive-ai-trade-article-156539930",
           "outlet": "Times Now",
-          "summary": "Prime Minister Narendra Modi urged Indian businesses to utilize Free Trade Agreements to expand their global presence and adopt an 'India First' investment approach. This strategy aims to promote self-reliance and create new opportunities for growth within the country.",
+          "summary": "US markets experienced a sharp decline, with the Dow Jones closing below 50,000 and the Nasdaq dropping 2%. This occurred as AI stocks continued to face pressure, even with the significant Anthropic listing.",
+          "about_india": false
+        },
+        {
+          "title": "EPFO Approves PF Withdrawal Reform: 90% Corpus Withdrawal Allowed, 10% Minimum Balance",
+          "url": "https://www.timesnownews.com/business-economy/personal-finance/epfo-approves-pf-withdrawal-reform-90-corpus-withdrawal-allowed-10-minimum-balance-article-156540196",
+          "outlet": "Times Now",
+          "summary": "A significant reform in PF withdrawal has been approved by EPFO. This change allows members to withdraw up to 90 percent of their eligible corpus, provided they maintain a minimum balance of 10 percent.",
           "about_india": true
         },
         {
-          "title": "Dalal Street Bulls Back: Sensex Surges Nearly 1,000 Points, Nifty Reclaims 25,500",
-          "url": "https://www.timesnownews.com/business-economy/markets/dalal-street-bulls-back-sensex-surges-nearly-1000-points-nifty-reclaims-25500-article-156536971",
+          "title": "Tata Trusts Approves Rs 50 Crore Grant For Jehangir Hospital Ahead Of Tata Sons Board Meeting",
+          "url": "https://www.timesnownews.com/business-economy/companies/tata-trusts-approves-rs-50-crore-grant-for-jehangir-hospital-ahead-of-tata-sons-board-meeting-article-156541970",
           "outlet": "Times Now",
-          "summary": "The Sensex saw a significant increase of nearly 1,000 points, and the Nifty reclaimed the 25,500 mark. However, potential interest rate hikes and margin contractions could present difficulties for mid- and small-cap stocks in the near future.",
+          "summary": "Tata Trusts has approved a grant of Rs 50 crore for Jehangir Hospital. This decision comes before an important Tata Sons board meeting, drawing attention to the conglomerate's governance and trust-related activities.",
           "about_india": true
         }
       ]
@@ -90,38 +90,38 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
-          "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+          "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+          "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
           "outlet": "The New York Times",
-          "summary": "President Trump met with the Chinese and Russian leaders at a summit in Shenzhen. This meeting occurred despite China and Russia's shared goal of challenging American global influence.",
+          "summary": "President Trump expressed a friendly relationship with the leaders of Russia and China during his first trilateral summit. Despite the show of camaraderie, the summit did not result in any significant progress on issues such as nuclear control, the conflict in Ukraine, or artificial intelligence.",
           "about_india": false
         },
         {
-          "title": "'Myanmar Committed Genocide': UN's Top Court Delivers Historic Verdict On Rohingya Atrocities",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMW13ZDZYbkxZNnoxVjQ4RzcwZEJtRWRaeTMyeVBTR19ZRm0zbVFzV0dGekpNZFg2ckpfNk44eEZqUXVZcmFMYVlpMEhvZUZZREtWdFVOTl9CSmwyXzNTSl9lZlhxNGh3U09MV3J6QTNpNFQyS2tkTWp2djNTcW56bU1QRlVuVDJKZ09ZNXI1eGdmYVkyeWVjaEhyRXBPU21DVVBLV1dic01XMXBkQTI3MDFpY0pySlBXSzVpaG5YRUE2SzNGMmJJN0dTZ2tRajFWOFpoRWstakxZMnZlX0JMU9IB5gFBVV95cUxOU05MWGNRd0c0ZWc1RTJqalVsZXF3TTFTbGJUa3NXTzhQNmxRN2t5R2FXWVZfbjlIWWhZZWFXV2ctMVFNTUdZeGRlemVCSFJBR2JfcG1UVlpKWHlaemxmOXdDWklyY2E3R2Q5NWx6WXhXb2dIU0dsV2R6aDNmUkR6LWI4bFAyRE1lQm81OFFXTzVKVnhqckRFdVlyMGRxMkVUQ1JXSFdDNzhVSWZTb0loRy1ILTdJeWFWdEdONFRQWTJ3bXFUSllkV3JOdVp4SVpyVktULTRiVzJoQ0d3OFRfYmlIeG5CUQ?oc=5",
-          "outlet": "Times Now",
-          "summary": "The UN's highest court has issued a landmark ruling, determining that Myanmar committed genocide against the Rohingya people.",
-          "about_india": false
-        },
-        {
-          "title": "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
-          "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html",
+          "title": "Top White House Cybersecurity Official Is Replaced",
+          "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html",
           "outlet": "The New York Times",
-          "summary": "Democrats have nominated Representative Hakeem Jeffries of New York for Speaker of the House. This nomination is historic as he would be the first Black lawmaker to hold this position, which is second in line to the presidency.",
+          "summary": "The White House's top cybersecurity official, Sean Cairncross, has been replaced. This change follows recent technological disruptions that impacted both U.S. businesses and government agencies.",
           "about_india": false
         },
         {
-          "title": "Rahul Gandhi Slams India Abroad—BJP Says He Damaged India’s Image",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSzJXZHBHTjVzeHhLYzUtc2FGdWxkME5YWXZOM0ExZUhyX2tjSk9OcUlmWjJBcWI2VHpNS0NjNVNmanlLb1hVeDRGN1pZZlFlcDVxd0dFZjdINi1yR1FvWjBBYVctMmFvMnpWX2MwQ2ltRG92Mk9fZWZISFpJbHdGZDE1NG1obFZmMWxDSmxzQmNZdVpvNFYwS2ZGVjlMc3ZkemxNZEdGWEFrejl0NDU0ekg1aFg3NXJfeWgtWGVjYUM4Wm9ESnc3c0tZM0N0TWd0aE9vRjBNMFBZcm_SAeABQVVfeXFMUGhqWDQxMzhtSDlORjBiZEFpVjJxdzZwOWttaWFveGVzaGh1UWZ2bkxHVzZEbGFmRjJPelY1aTlrZkJoRWh3cWRNeVRsbEs3dV9oTFhndHpzTWY4X1NRLWVBWXo1SllRaXJXQVB3LWluUW9ERkF4Yl9IRHEtZHc1QU5hVWJlUHZ3WXZhVzR0SThRMzZrWTVYQ2VMQXpIUXRPcnZrS01NQ1dDTTU4SDVTVFQ1OHU4aUlfSjdwQ0lsVXp0TlUxNDNpMkwyeWFmV0RyLVI2SkJUVmpwUnVYMnZjMVg?oc=5",
+          "title": "Wave of Russian strikes hit across Ukraine as Trump-Xi-Putin summit wraps up in China",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmFsM0lHTV9ObS1lOTBNUF9zV3dXMlB6REhZd1RpNWhkTHhydm9ZX2hleVF5aDhid1J0Y3YwVnFqSFBySUpDV2tZMHdyNWxOdXBDSC1xSVdCWTZmakh2YXpLYVpLbTNGWHBBbkNjeUV1SDNKNDRQLUs5LWZZVTJ4QXlWY2VtaC0zaFd2aHZibHZTYVNhZGliVw?oc=5",
+          "outlet": "CNN",
+          "summary": "A series of Russian strikes occurred across Ukraine as a summit involving Trump, Xi, and Putin concluded in China.",
+          "about_india": false
+        },
+        {
+          "title": "'India has become a side player': Rahul attacks PM Modi's foreign policy, cites Pak's role in Iran-US tal",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQzJGYUxSS055ZkkxcHNlOXp6WlBlR1RYaWxxRU1SVXVvb1VBZTRUM2gzdEpuOW1VaHlOY1VBZ0ZXSTFzUWRSRDlOMF90cnQ4ckE5OHNBdTBvSC1XUEs1WTN4M1p3c2pEN0ttdjE3UE1YRHBZWWM3SS1JLWp0VktndklIRDhTMFZzNGN1cTRUdXFMQkVfNzVTMmRCWk9NZndsVTJFX2o3ejRNT3JrZnM0c3lBX1RSZ2RvZjR2a050eHdwUTZZMFlEUlVuWHI5V20zM0lGUThfeVNTczNnQllCamd3TE9QcGFsRWdSUlN0VURvOHl4blNQeTRMbWNBZ9IBgwJBVV95cUxQWnMwdzdlaXcwYmgtNVFab2FHQnpoZ3JUOHBLZWRXN0tBNE9CWnlvYnJVemU1eHo2d3FCelV4cnFRLUpNTnJ2bkpGaUgxRlBteHFhWEFheTBsZmRwWEwzQ2doZXlyWGpBd2czbzRHNm9JcHpCUGtkdHVRWWhMN19jWDNxRDJ2QzRZeGI3ZS1WVU55VjlKV3Z1YlVDNmhpb2FQS09WWFZ1eWJyc3k1NEpPUTBTRmdKd1gxaDFpdl9xZXVXYko5ZE5jYk8tLTNrV0tzZi1VWF9WS21yMXBMNUdvNHYtOGFyX1FZUk9nclc0cENFbTNwTnVrbGhjbHVwNVpUeGRB?oc=5",
           "outlet": "The Times of India",
-          "summary": "Rahul Gandhi criticized India while abroad, leading the BJP to accuse him of harming the country's image.",
+          "summary": "Rahul Gandhi criticized Prime Minister Modi's foreign policy, stating that India has become a less influential player and referencing Pakistan's involvement in discussions between Iran and the U.S.",
           "about_india": true
         },
         {
-          "title": "‘I am now 80’: Siddaramaiah rules out contesting next Karnataka Assembly elections",
-          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPMWFJQ1c3RFMwVk1fZU9qb0xlajNWSnRhaFVsYlJKdU41bUdtV2ktZ2otU2g1QVdIdlJwNzJEUzl2ZUZQSmdVeVNYdVhJMWdnUUxCQ0tRNzIzX3VKbTlIMy1yZlA3UTMzQmRiNmZrWXE0MmJVUm1pSEw0U3BpMVJHVmxUSGpLY0ZuREt2VGFXXzdGV082TW9XclJJMlE3VzlPLUdlOVRHbndEX1ZpcFppejNweUU1ZnQ4d25IVTZUdlZBQjJfVjM5bTRFYzRuX3NocHFDWFA5Y2gwSWhhaFJUWU5CRXI3SS1IR2ZlcVJUTmV5YjBPem9VVUdqNzJPN1F4a00tbUF6YTczSDhZclN0SFl2dWcyem0xM1MwaFpKVWc5UGdPTjF2YjJ3TjE0UTFj0gHmAUFVX3lxTE4yTGN0RjJVb1A2S01haWJhcWVWWUdhRVE1bHVOM1NqWVlyZGxBZmViSnA1ZlNqS3NlSjVHN3czRURtTEdFSDhHbGlYWnBqc2pQd1pUU1VTa3JzajJ4b1VXbExUajRCUGJyVmtjd1JiS2E4S3V6UnYxa1RHT3N1ajc5dmFBdUxuNFhqQ0V4MDlrMHY4TnR1RG0yOENpNWx0Ym5iQlJkdENic3Z1Wi05NFNjUWUzN25GbHlxQ01oWllWM0MwcDF4MXZtdi1LcjQ4WDNPbmtjZkprQnNFSk1GRkJKRHk3SlFR?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Siddaramaiah has stated that he will not run in the upcoming Karnataka Assembly elections, citing his age.",
+          "title": "Bulldozer Turns Killer at Akhilesh Yadav's Roadshow: Yogi Vows Action After BJP Leader's 13-Year-Old Son Gets",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMVhsUkRDYzFFdXI4YkQ2bTRsb0w3dWx6bTMybTBpNEV4enhSS3B2c3ZSNlAwQ0NtcmpNWFFRZXZYMkpWTk04aU04ejVsRFB5ZlFkdW55VnNXdXVFNk5pMmFkcGpvVXdrdkhYTTMzTTdtendocG1uQUV4SnZfdElHZ3p4cVpiZXVYWWhLV0Z5aU05cHdhaDk4cDlPbGFBaVltV292N29YRWE3c1NpU3Exb0pETTJFZTVtUGp6LUxSOTlzUU1rbnZqZEx1ZzV5MGN4NkNtWVhzOEdOZmtScEFQVUxFSHZhNl9Ra2xMb3JFcmNiYmhfMTJxWtIB_gFBVV95cUxQeVJoZDNKVGlhSTBjUzFIalhIVzBpeWdYbVFFRW5zVWlQN2MzYm56NTYyNjk4MWRnVkxBWHM2TGhtaWNjSEZnOU1wSVp5bUFMdGtyWFAzNlhUMnZmekxCSW5HWDJsWXJiMEFPOG5IdlFVTk91LVhyUVYwRXYtdVpRX3J5UGFLNUlubmxhRkprRm1QYk5sUE5hSmF1X254UDRncXl1QzFNaEFnZ1JzNWJjR0ZvejJ1TEpXTnVGS2FhRUxnNjBtc0pQbEFtamxOb3JvTWgtRjJLNWhSX3ZRUEhLT2tRaDFITHpXRUhHVzNldzlXMnFWaDJsVjM4MHh4dw?oc=5",
+          "outlet": "Times Now",
+          "summary": "A bulldozer was involved in an incident during Akhilesh Yadav's roadshow, resulting in the death of a 13-year-old son of a BJP leader. Yogi Adityanath has promised action regarding the event.",
           "about_india": true
         }
       ]
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "US judge halts Trump administration's CPT internship curbs: what the ruling means for Indian students, F-1 visa holders and universities",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPczFYeDBkWHZyRDBOUWUtbThOb0NHWFFXRkFYLWFEdENqbm8xeXl1MDZPQ1lWYkdaS3p3QUVLcDNmSjFpSVU0UTdJODR2LVRxRjRydW1RRmx0VFpKazNTNm5lY2FYVVdlcUtScno3Skk3Rm5BSFg1cm13bmh2d001QmVGU2lDYldmTnRQRkRDMkR2MFdLNXpoc0VwMDB6TkotbExIb05uaUxzRjRkVjlYcnNJU05rdGZ3UXhtbmRNbGlMR1RabzFCb3FUSG9Na3g5eVRiNVlMc2lvZG9Cd1VxakhlMFpUVmdxNFRfUjhMS3VGYjBISGp4V090SktfbElvcGw0aXdrWHRCMDVFaFhoSjdPcXpMNG1Ua2o2MndVcFQ?oc=5",
-          "outlet": "Education Times",
-          "summary": "A US judge has stopped the Trump administration's restrictions on CPT internships. This ruling has implications for Indian students, F-1 visa holders, and universities regarding their ability to participate in and offer these practical training programs.",
+          "title": "Judge Blocks DHS Restrictions on International Student Internships",
+          "url": "https://www.insidehighered.com/news/quick-takes/2026/11/20/judge-blocks-restrictions-international-student-training",
+          "outlet": "Inside Higher Ed",
+          "summary": "A judge has blocked restrictions imposed by the Department of Homeland Security (DHS) concerning internships for international students. This decision impacts the ability of these students to participate in practical training experiences in the United States.",
           "about_india": false
         },
         {
-          "title": "US Court Scraps the 4-Year Limit on Student Visas: What F-1 Students and Applicants Need to Know",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPemJTYW5rUEdoaDljY0dmNVcwcnBzUU5wa0s5cEpYb0prLWpqZ3dyVnVwbkRXWXplakNTR21jUV9zT2VvaGc1a2Q1OGhuZ24tZlhaNlV5QU9LenRFLWxjcWxHVTRENW9jR2xJYXpSR0cxVXBWV0VkZ1loQmlocVF0VUtyRWxCZEdkd3ZLai1fd0FlRDNUdTV3clJZTk9BWnNTcjFkczFsSWNZWkVKRnpNbnp3MEVtMmdSelRWbDVLNjgzSTg4ZC0xZ1hfYmVEREY3UTh5dXVzY3h2cGZGMkI0M1Jvc3EzVE9CemJqNkhRUGxsR21UTkp30gH8AUFVX3lxTE5tXzlNZE5UQURuR0hLTlZ1c0Vfb2I4RlVDcjdMNzZ2RWJrelpGN0oyd2c4UWtiZDk5U3R1RmVTQUhjRy1ISTEzNld0dktMdWx3SEZJM2d1N25acWcyRFlNWm16M1JuR1JJYVZzR3pMVEZ2SUxvMEJXX2xiUEpYRGlRaldyNG9LZGJJZGdERko1NlFrUzNmbGI0S215b1hNOUcwTkUtbGQ5WFllZUFfUUg0anFtSlBsYlR3bDUwUzJUNGlsX1ZqZ3ljME9pNXlBeTVGU0NUSDZWQ00yb3NqRUNnRldBYWJTYXJ0aDl5eDI0SjE0U255S3RxZkh4Rg?oc=5",
-          "outlet": "Telegraph India",
-          "summary": "A US court has eliminated the four-year limit on student visas. This decision affects F-1 students and applicants by removing a previous time constraint on their stay in the country for educational purposes.",
+          "title": "Federal judge throws out plan to limit how long international students can stay in U.S.",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2RINjhnZEZuQW01RTJLMEhHV05keENrNnlCZmZ0UVFMS1VFTHZFMFFSMEpzc1FVU2lxVnUxQjN3QTNDX2Q5SEpWdnB2SzZWX3k2ZFBYSTl5YXdBVUpBNU1wd040UkJSU3N2M1RDY1cwOFZoR2JPTWVyTEJaQXF1QVBWV2h5aWY4NTVwdm5R?oc=5",
+          "outlet": "Yahoo",
+          "summary": "A federal judge has rejected a proposal that aimed to limit the duration of stay for international students in the United States. This ruling means that previous plans to restrict how long these students can remain in the country will not be implemented.",
           "about_india": false
         },
         {
-          "title": "$70,000 OPT fee for international students: Why US universities, college bodies are opposing the proposal",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS0FqRDJZeXZxeHdISGsycGY4dnllVE9aXzJQWkZNaG5aTmpNcjd0NDBONEIzalpROGszVHZCUzJ6TWdqU0QwRUIwbUJKOEZ1aEZ0WWw2LWIyZmZoSGp4bW9xbFcxVTNXT1dzTzlCN3NraEIxU0Joc190Rm10UDNQcGRfenFNRzlCS2xMcTY3aV9vTUZKSUluNnVQNk9scUlNbkp4Z3ZjWlpGd3RrSU1KR2FWR2VXY2Vtd0J4T3V5Z1FTWjlJRzNsNUV3ZnJCN25EeUo3QVVsek1JXzZsdGVvNmcySkh4cG5rN2kzT0VJU1RGZUZvekNkUtIB_gFBVV95cUxNUnVXMWxtQXhBYVFmNmNjODNyazFNbm9HRFpfa2dTOVBzMC1EOGp6REljVDhQaHBkOFlaRFRFZGRyMEl3c3lyOF9tYU1TZHpidHpLbXJRVjdWdF9LY0tQRVl6TENfb3ZlYzhhYXFOeHhOT2kwSVJVVjgzaHp4UENQRUpZZXcyOTgtR2xNaVRpLU53LS0tZ1pXQW4yd1J1MEtsMEp0NmZWMlJhT3NsZGNVSUEzSVdtR0hGTmRGbUZGQ1BZcFR3aHNkNGs4aGhqZHpVMk5XYkNZR1B1end6ejhzOGR2LS13aGtsSHdjNVZxcDlycnAyMmgtZ01vSGVUdw?oc=5",
-          "outlet": "The Economic Times",
-          "summary": "US universities and college organizations are opposing a proposal to implement a $70,000 fee for the Optional Practical Training (OPT) program for international students. They are concerned about the potential impact this high cost could have on international student enrollment and post-graduation work opportunities.",
+          "title": "H-1B visa holders in Texas may get relief as governor-elect vows to reverse Abbott's restrictive hiring policy | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxObE8xM2tBUFA5NmpwMHBaSzBSU0VLX3JQTjdoZ2ZaS1lqUF80SXBCX3lsU2M1aEt4WVF0Z2tFa2pKcEJmWkM1R0dzdHJNeXd6YzNSYWNNZ3YxLVhtUjJZWUVsRURTVTJSX0ZDZV9xLXR2YWlvZHB0VnQyYzlrYUd1Qkh0NUVLX2NaTUl0NkpYVE5aYUllTmNVWFpSUzBfSUNnaEIxTkNtYlZZOUFfd0pLcGtfTnA4NWZoc2tmaE5zNWlfUkRRUDNaOVZRVkhSNWlVU3BZWE1xWmc1eC1hanIxSDMzaVdvcmlmNzN0TUI1Z2ZzZE9ORWx3UE5UWHFZZ1NYaVNEYzdUcmZ1MWfSAZACQVVfeXFMT2htUDEzT3VDcDlDcnMtdm5mbnBhc296cGgxSTVhejVIdVdxQVhnM0ZEaVdsS2dLSF9hVWFuMDlYZlQ1NGhDNTFtM2VKbEl5eDZXSVdYTnBFMDhienI4cTRLZnp4MXlzdllhak1iZU95dGstaHNpSWNablEyQVhwZVVyY19fMlp0TTBCMGEwdHJHbE5Bb3JwUEVRWDh2bHZjVVgxMFlKYm50ZFZ3S3YteUs5cTlLOGZYUVJUTld5ZXJWejN1X1FjM294UmFKaTgwcUFCdTRtUmgzMzA2dGxIdXhRMTlua1VYZDBoSkpnbnFodHlseXlyYUtfNDJiQjFNM2w2bFFkRDQxVlhYOHFPN2M?oc=5",
+          "outlet": "Hindustan Times",
+          "summary": "The governor-elect in Texas has pledged to overturn Governor Abbott's hiring policy, which has been restrictive for H-1B visa holders. This could provide relief for individuals working in Texas on H-1B visas.",
           "about_india": false
         },
         {
-          "title": "Trump Green Card Proposal Fuels Doubt Over H-1B Worker Pipeline",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMHBVNTRjaVQ5Nm1ZLVgwWHlid2lHOHRhOEJ6UExFTnZGanBFV25BLUlLWVNzWEMyMG9kc0ZOREIxbHFNTU1JVXNMN0o5d2pDT05iOXJOQ1hvZWo1c1laWkItTmhHaUN5RGtmay1ua3lpWS1YWTNqdTBOa2l1YTJ4OXZhYzBLV19LZkVJdXkybkcyY1ZNaFc0Q3ZyaW1SdTY0TVlXTnJsTElKdU02TnJHaTdR?oc=5",
-          "outlet": "Bloomberg Law News",
-          "summary": "A new Green Card proposal from the Trump administration is raising concerns about the future supply of H-1B workers. This proposal could affect the pathway for skilled foreign workers to obtain permanent residency in the United States.",
+          "title": "H-1B delays and fees are pushing tech workers out of the US, Bloomberg reports",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2FHQjQyczJMaE1FclRxT09qa0gydnRVS254emYtMjFmSEpzbGp1UldZM0JrcmN3bHQ5S2ZiM2hRZkltSjBRbnlEbDk3MHRzSTJjOFNZS1QwTGxRUUIzV01JNjNMNmpIRE4tcVhSMlljTVB5VU85em9lYzdmc3dUc2pXT01KWTQzT3BmSFQzakNWMnV3RF95b1VrSjhjd2tvanBZdm9jZko?oc=5",
+          "outlet": "Startup Fortune",
+          "summary": "Delays and increased fees associated with H-1B visas are reportedly causing tech workers to leave the United States. This situation suggests a potential impact on the tech industry's workforce in the country.",
           "about_india": false
         },
         {
-          "title": "H-1B Visa Holders’ Children Could Get Path To Permanent Residency Under Proposed Bill",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0lJSkxhYmJxaDUxTGp3RVVmekFHemxXN2JJOWpWQjYzbjBzS1p2dEdZMUxtRzhHQ1pCeDZDYzBfdkZ4R1I2RGNBbXk3V0hVZjlKS0NreGswWExnMnlKOFBBQ1FpdFFPVl9QUGJBOWE3ZWRXdmdzRzVXT2c2YTBjUmZuV25jYzhmUnFrSVFMSDVySWtBU1FWelltZ0FCMzVVcTgwcWtKS1h1dTBr?oc=5",
-          "outlet": "indica News",
-          "summary": "A proposed bill could offer a path to permanent residency for children of H-1B visa holders. This legislation aims to address the long-standing issue of these children potentially aging out of their dependent status before their parents receive green cards.",
+          "title": "H-1B visa workers' children could get Green Card pathway under this US Bill",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQzMtRGFrU2I2NEs0YmhuVWJqUmtWWlVGSmZKSTlTRWZzdk8zcHg0QnZRMkdpa1hyWjhkRFpHa1UyN0pxR2JUdUVzcHZUR2c4U0JXYzVZeUdyZFNtaE0zblk2NHRLSF9wZnMxaVFUSFFjdi1FY2ZzRV9YenZmSGtaOTQySHZMQTlfLW9Xcmw4cllBc3RSOThDU056MUhqaHlZWXlVNlVna1BrekpJM3ZxQmFMN2lPQTBjR2ptR2NUYkZFdmdjeklHc2pHdEJUQlE2VV9TOTNfVdIB3AFBVV95cUxPN3NObTdRTDFSLWFFdEpEaTlZcU9tUy04dzFXNGJIMGI5bnNUYVJyTFAtXy0zUHZ3am9Ea3FmYktydWNSbXg0YlYyamcwTkFLSnlRQmluTG1FU0tZMjZjVUpwd2Y2T091SVdUZjVtRWZLa2R1SUJBLTYtVEgxMzNOaFVidzNnemVGRHMxOGRWanVtaUFvcU92YmVtc1ZOUElkaWJueExOc0V2RG9CSlVsSDZidUlnZmRsSUM0aGxYZnNSUk4tTG5YOVBnRDgtc1dybDBmdF9peUVJNU9v?oc=5",
+          "outlet": "Business Standard",
+          "summary": "A new US Bill proposes a pathway for the children of H-1B visa workers to obtain Green Cards. If passed, this legislation could offer a route to permanent residency for these individuals.",
           "about_india": false
         }
       ]
