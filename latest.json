@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-21T13:32:55+00:00",
+  "generated_at": "2026-11-22T13:33:15+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-          "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+          "title": "Looking for the Formula to Stop an Apocalypse",
+          "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
           "outlet": "The New York Times",
-          "summary": "Alice Huang, who is accused of spying on Nvidia's CEO, is reportedly connected to a group of Chinese technology and defense companies. These firms are said to require advanced computing capabilities, suggesting a potential link between the alleged espionage and China's military-industrial complex.",
+          "summary": "Mike Winer and his team are working to develop a mathematical system to ensure artificial intelligence remains under human supervision. They are concerned about the urgency of their task.",
           "about_india": false
         },
         {
-          "title": "Govt Warns Hackers Are Exploiting Payment And Business Systems: Is Your Money At Risk?",
-          "url": "https://www.timesnownews.com/technology-science/govt-warns-hackers-are-exploiting-payment-and-business-systems-is-your-money-at-risk-article-156545476",
-          "outlet": "Times Now",
-          "summary": "A cybersecurity warning has been issued regarding hackers exploiting payment and business systems, raising concerns about financial security. The alert highlights new threats from AI-powered hacking tools, unauthorized payment transactions, and risks to data security within business payment workflows.",
+          "title": "Nvidia chip case: How Chinese man in Megaspeed built network serving China with Alice Huang",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPYm51Vmx5YWk4WHJDdFE1M3Rna0k1OG8weWhVMUN4QVBwN1B3b3E2R2h6aVdNeFVzSnVoUHVUWGJsMHVCcnAxRDhBMVZBYkdqZFBwcloxdTFoNHNzajliSC12MVBpdUV0aWc4YWpNOHJYd1FoeDdxenFodFVBUFQtclNTcnZXQUtPMlFrRlFTcUFrd3Y1U29ZMnN3eEdRYVZSMFNfOHI1VllldHU5dmtPZjVuZ3BvNTFId2FtT0ViMzlnTmtPd2QyQkw2UnNMZmlPRXpaOVRURDk3Q3FnYXl3b243VHE3aGNjRzB4OTFNcXlrZHJ0elBPOEhzTDdja0F0QzRKSlR1QU12LUNaNEF6VmJB0gGXAkFVX3lxTE93ZWQxcklMeE03d1ZwNHZZTHBybG44S1FWMkJpWU1VUnZucFlxQUJmbjVEOHFkOU1qTjJ0U3B0cTNaS2pQazQ2UWVlV3hGZE9tR29VdmZaX1JHaGM2T3NIZW1jcUtpUlNCWnE0NlVWUXBJTXhnSDJqYkY1TGl3d0xuRWVvM196LUZyWlRSNVRhYXM5VnBaY25TSXVQLW12RkZ4X1F1ZkxFNnlrWjFzUlFxM0xsVTJhTmEtSlVZRlNRVEcxcGp0Y1pyTzMtTWp0MDYyQUk0N1NBQzFXUm1DYThLVjNqMlU5OHhkQ1ZhRmdldDlRTkcycDJSVWlYbU9yNVZodHR0b0FjQllkWU9pblhtMFpQTEFEcw?oc=5",
+          "outlet": "The Times of India",
+          "summary": "A Chinese individual reportedly established a network to supply China with Nvidia chips, according to information involving Alice Huang.",
+          "about_india": false
+        },
+        {
+          "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xNEdGZ2NVWW5vN181WS00bHpZZ29jQjd6TVZEb0FvREdoTHJwV2ZYYVZBMTBTbTFhQjRIX3ZEOVhVdVFaNGt2aGRtZnRoWXljaHg3ZmdfRGREeHVWaGE3RC1sWGFVYTRkNXVqaGtB?oc=5",
+          "outlet": "CNN",
+          "summary": "An employee at Anthropic reportedly solved a significant mathematical problem with assistance from artificial intelligence.",
+          "about_india": false
+        },
+        {
+          "title": "AI-generated videos, photos alone don’t amount to forgery: HC",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSk5BZnQtZ1dOcnRYMW5UQVI2ZFNCNWNhQmJ4bHJYTUxlUUcxdU9INGhqQWtCZEQyd3MyVG1CTU9DS0tHY1pDdkNzUHlqRWoxY01JTThJaXFMSkstbGFxRHJyRGZoQjRvN3duaWpNc1R6dGV2WGdlR1ltcDhzVWZxbUZoNS1ESm1XWkhaQWxONndGZlNVMnNWYWUwdG56X1UzU0JPdEZZZHVFOENiejFNYzZ2LTBodWkxM2dqYmJlNVE5N19lRmdjRXlnV2lVem9QREHSAdcBQVVfeXFMUFhSVlZGN2xZUDhYUjNkWTRsTjFUck41QnpnQWhNNXFnZGZJQUdNUDBudWpVeDlfVEdkNGNSSXRzTUxHems3TzRUekgxLUk3bnZFdkx5eEk2V2J1LWNDaDIxZy1DSzlCQ3JiQUo3LTZMWGJGZGUzcHF0QnF1NmlMUFJFbUN1NnAyM1pNcEV5eTVmY1JzNDYwUUJWYlprUmJtUklVOUdzc1E4aHJwM2R3ZjFRazJ2ZTN3aWozTW9NbVo3c09rR2xRNGtMVV9OM0FaQ2JqMjlvamc?oc=5",
+          "outlet": "The Times of India",
+          "summary": "The High Court has stated that AI-generated videos and photos by themselves do not constitute forgery.",
           "about_india": true
         },
         {
-          "title": "The FBI was hacked again, this time the breach targeted its crime database",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZnJ0bzNoWGJlbG9sVk43STd6YTFMVEJCS2dHYVJVVnN2TFdWUVZlUWlRVUpBWlZOME5kOVlSV2g1a3U0ZUZJODYwVFJIVVNKRENfS21aYnRjaC1KQ2JnaUp0ZXRMb2JuV1QtU0JqcERjbXJsUlBqeFJQOG5qREozTDlmRFo?oc=5",
-          "outlet": "CNN",
-          "summary": "The FBI's crime database was reportedly compromised in a recent hacking incident.",
-          "about_india": false
-        },
-        {
-          "title": "This Player Uses His Brain To Play GTA 6, Not A Controller: How Neuralink Makes It Possible",
-          "url": "https://www.timesnownews.com/technology-science/this-player-uses-his-brain-to-play-gta-6-not-a-controller-how-neuralink-makes-it-possible-article-156545207",
+          "title": "Apple iPhone 18 Leaks: Expected Price In India, Specifications And Features",
+          "url": "https://www.timesnownews.com/technology-science/apple-iphone-18-leaks-expected-price-in-india-specifications-and-features-article-156549595",
           "outlet": "Times Now",
-          "summary": "A participant in a Neuralink clinical trial has demonstrated playing a video game using only brain signals, without a traditional controller. This showcases how Elon Musk's brain-computer interface technology allows direct interaction with digital systems through thought.",
-          "about_india": false
-        },
-        {
-          "title": "India ranks second to the US for share of companies expanding tech teams to support AI growth, study find",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZlF5ckN4RWZQOTR4S21KbTQzWkk1WkZ2UVloTzZoUklCXzBSMWNQODQ3Z3J6cDFGV3lOZlUyUml1Yk1MdWhtY0Rtbm5pSm1TY2ZVUGliQWxSZ3dyVmV6OGVxTktuUklsOTdyVHNCc3Q4UXVQN1ppWnh1R0drVHhrVGZadmFiNjRYZ2cxM3IwdW9QTl85M29XSTNZTDZJazQzeDV4Qi1LQklvNGJRWTM1SGgwSnFrVG05RkkxZDJyajg0dkV1TXNWSDA0U1lJZ1JNVUhmRzVIVFN1R0lRdVUwa3gyU1pYZmRORnc2aC1SWENQTk1hSmlNME1nOU1ud2xNcXBqbmtRYVRCdkhuZlRv0gGUAkFVX3lxTFBuQVcwTkowR2ljLTZKRHB4eUNNdEFteU9zS0U2eTZlbHdZZEp3V1h4NlVKR05MSm1SbFNIMnlKbWdteXRCNWc0TXJuanduQlM2Q0lBN3NjTzludVFibHFfTVdHM0x3cDFNYko3aTg0VmVVUzVDT1dwMzdMckNCZFVuODJvLTFqWEI4OEkzcG1MRWlXbnY3Q0Z0YU8wWVhmNk9RbTdLY3IyMXNmaUloWEx5MGNaUmZGbjJqY2t6Vklud1pHVl9xcVpHWFNFWDJOQkV4aEozdl9kMnN1amtqbHotNVBpVXNLYU1wUUZwd1lpbWhfOFE1dkZ0MlNLa2pwYmF6TVpQRktnM0Z1bnNoTHZOajM2Nw?oc=5",
-          "outlet": "The Times of India",
-          "summary": "A study indicates that India is second only to the United States in the proportion of companies expanding their technology teams to support the growth of artificial intelligence.",
+          "summary": "The Apple iPhone 18 is anticipated to launch in March 2027. It is expected to feature an A20 2nm chip, a 120Hz OLED display, 48MP dual cameras, and iOS 27.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
-          "url": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
-          "outlet": "The New York Times",
-          "summary": "Anthropic, a major artificial intelligence company, had a record-breaking initial public offering this week. However, its first full day of trading was difficult as market concerns about AI spending led to a plunge in stock values.",
-          "about_india": false
-        },
-        {
-          "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
-          "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
-          "outlet": "The New York Times",
-          "summary": "Nvidia is reportedly under investigation by the S.E.C. regarding its accounting practices. This inquiry follows earlier concerns about the company's chip sales in Asia.",
-          "about_india": false
-        },
-        {
-          "title": "AI woes batters Wall Street; S&P 500 enters correction, Nasdaq turns negative for year",
-          "url": "https://timesofindia.indiatimes.com/business/international-business/ai-sell-off-batters-wall-street-sp-500-enters-correction-nasdaq-turns-negative-for-year/articleshow/136041935.cms",
+          "title": "The Claude payday: How Anthropic’s IPO could make thousands of staff millionaires",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHhBWHBNUW00OXBvRGt4NUsyRjRxam5tcGlVR0hRV2Jaa1R1bmZpbnFiVjE3aWk0aE1na0Fmd0xpWXpqemx5UTRGN2VpWHFzc2NVSnpGVHRNRXRwcXdZajZSVnpoLWVYelB6b0VHZEc3ak1XR0E1a3JfYU9RSFFETGpfWjdXdW82VS1aU3pjeVQ2QVRidlpVbG1tSXpRVVdKUzdKUXp2X1RGYVJWVU5zVDVOb0hIemxuUDNoUDRhUjBueGFVZXJiWTdET1RkWWpmS25IZXh2OHRrbDRteF9RTUx5UVIxYjltZGcwREZPc0VwZGQw0gH6AUFVX3lxTFBYbjdwcVZwYnR1aTY4ZUhQTVZRX1ZDSDd5ejVwTjNNRERncF9IT2NRMGxHZ0tXUm1kUWZaRXcxM2pNeTFNeUJQMUdHeFpyUW00TS0taWNyTHZvZ2VVQVhFMGdnSnBXbTNBMGMzTW1xOVhKeVhIY0JvbWx5SnNrdlVudWRuaThTNEw2Q3I2dklNOHJpNENCWmdBZWlJVmZxMTZ3RGkxQnJnOHVrdjlpTFlqS3dTMGZtM1hKYXBNX1BXTXJJOTBvWl91VU51MHVubmVpYmpvbVdxYVpmX0NaYlFLLTNuM3FyWTRIZmpQSEtYM2ZWOUdkLW5Xc1E?oc=5",
           "outlet": "The Times of India",
-          "summary": "Wall Street experienced a significant sell-off, particularly in technology and AI stocks, leading the S&P 500 into a correction and the Nasdaq turning negative for the year. Investor worries about AI valuations caused chipmakers to decline substantially, while government bonds rallied as investors moved to safer assets.",
+          "summary": "The headline reports on how Anthropic's potential IPO could lead to many employees becoming millionaires.",
           "about_india": false
         },
         {
-          "title": "RBI To Meet NBFCs On November 23: Microfinance Stress, Gold Loans And Cybersecurity Risks On Agenda",
-          "url": "https://www.timesnownews.com/business-economy/economy/rbi-to-meet-nbfcs-on-november-23-microfinance-stress-gold-loans-and-cybersecurity-risks-on-agenda-article-156546799",
+          "title": "India, EU To Sign Long-Awaited FTA On December 16: Report",
+          "url": "https://www.timesnownews.com/business-economy/economy/india-eu-to-sign-long-awaited-fta-on-december-16-report-article-156550269",
           "outlet": "Times Now",
-          "summary": "The RBI will meet with NBFCs on November 23 to discuss important issues. The agenda includes stress in the microfinance sector, risks associated with gold loans, and cybersecurity concerns.",
+          "summary": "India and the EU are reportedly set to sign a long-awaited Free Trade Agreement on December 16. This agreement, which has been under negotiation for over two decades, is expected to create a significant market of approximately 2 billion people.",
           "about_india": true
         },
         {
-          "title": "Tata Group Row: Noel Tata Questions Chandrasekaran's Reappointment, Seeks Replies From Tata Sons Board By November 25",
-          "url": "https://www.timesnownews.com/business-economy/companies/tata-group-row-noel-tata-questions-chandrasekarans-reappointment-seeks-replies-from-tata-sons-board-by-november-25-article-156546717",
+          "title": "Lending To Small Businesses Can Deliver Greater Economic Benefits Than Big Corporate Loans: RBI Governor",
+          "url": "https://www.timesnownews.com/business-economy/economy/lending-to-small-businesses-can-deliver-greater-economic-benefits-than-big-corporate-loans-rbi-governor-article-156550106",
           "outlet": "Times Now",
-          "summary": "Noel Tata has questioned the reappointment of N Chandrasekaran and other significant decisions made by Tata Sons. He has requested detailed answers from the board by November 25, before their next scheduled meeting.",
+          "summary": "The RBI Governor stated that providing loans to small businesses can yield greater economic advantages compared to large corporate loans. He added that distributing the same amount among micro-enterprise borrowers could amplify these benefits significantly.",
+          "about_india": true
+        },
+        {
+          "title": "Procter & Gamble to Increase Factory Shifts Without Humans to Cut Costs",
+          "url": "https://www.nytimes.com/2026/11/22/business/procter-gamble-factory-automated.html",
+          "outlet": "The New York Times",
+          "summary": "Procter & Gamble plans to increase the number of factory shifts that operate without human supervision to reduce costs. The company, which produces Pampers and Bounty, currently has 15 such sites and intends to expand this number by 2027.",
+          "about_india": false
+        },
+        {
+          "title": "Crude Shock: India's Oil And Gas Import Bill Jumps 60% In October",
+          "url": "https://www.timesnownews.com/business-economy/economy/crude-shock-indias-oil-and-gas-import-bill-jumps-60-in-october-article-156549563",
+          "outlet": "Times Now",
+          "summary": "India's oil and gas import bill saw a 60% increase in October. This rise is attributed to the average price of crude oil, with Brent averaging $116.77 in September and $64.75 in October 2025, and the Indian basket averaging $119.91 in October compared to $65.08 a year prior.",
           "about_india": true
         }
       ]
@@ -90,38 +90,38 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Takeaways From Trump’s Post-Trip News Conference",
-          "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-news-conference-asia-trip.html",
-          "outlet": "The New York Times",
-          "summary": "President Trump described his trilateral meeting with Xi Jinping and Vladimir Putin in China as a significant event. He also indicated a willingness to collaborate with Democrats in Congress on important matters.",
+          "title": "Israeli settlers launch attacks across West Bank as Netanyahu rival decries “Jewish terrorism”",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXlRWXY2bXliMXYwMkVYNjdEbzRscFJhd2NHQjhIRTVwQ1kxeUZLMUdJQTZ2bEUtM0JsTWRfRVVXWFlLUHlhdmdsOU5xRzhSYnF5OFJWUlk1YUhNR1o3SmF0c0sxYTZrcmxhS0tPdFNQN09pUWw5TDU4ZGRYajIyOC1Iaw?oc=5",
+          "outlet": "CNN",
+          "summary": "Israeli settlers have reportedly launched attacks across the West Bank. This comes as a political figure in Israel has spoken out against what they termed \"Jewish terrorism.\"",
           "about_india": false
         },
         {
-          "title": "US court sentences Nikhil Gupta to nearly 20 years for plot to kill Pannun",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT0o4bTcxTWtyMU5uTVJ4ZFpBeGk5d0JPZTNpXzZMX0hKR3poZGR2czZjZTViMW04YUNUSW5yLUJWWUVwOW00b0RVME1fR1FkTmpNNXFwZkhqenE3ajZSMjBSc0k3VWZWSVlDVUg5OVNORWxLMm85VE9yeGhpQUI4RTFCejQ3b1hOajJQTWtjNU5Eemg1X21ZUjFXYXpQVGNqa21LMVQ1T1RwcFMzQV9jQXlxeFN2RWh0bnd6dmVSZlhWM3ltS2oyYVNNN2ppZ1lQWWQzNktDb3lmVDJUR3fSAeMBQVVfeXFMT0Y3TTZ5aGs5QXdINWY2Z1lJamVNa1VPQVpkUFczNU9VbnlwWGpTckVGRWhfNjRNMElHZU5PQl95b1NMVDRnaWtBUjRacl9TaDFoQk95NVFteXNpb3ppa2xJeU1EV05vQ3lnZ1VjdUtJaWJJVzNSYWZxLUZ3cF9yMzdGTHkxT1pyTmVZWjFILWZwSWlzTDFIQVFmemgtcEFxdlJITmxlYmtmNWlhNUFROHNBRmhZX3FjbkMycFpHN1g0RHBKaGVYaHh6bEhKQlJHTEpmbFVYRkw1S0VlMWFhZE5STEk?oc=5",
+          "title": "Republicans Debate Why They Lost the Midterms, and if Trump Is to Blame",
+          "url": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+          "outlet": "The New York Times",
+          "summary": "Republicans are discussing the reasons behind their losses in the recent midterm elections. A key point of contention within the party is whether former President Trump is responsible for these outcomes, indicating a future struggle over the party's direction.",
+          "about_india": false
+        },
+        {
+          "title": "Deadly Protests Erupt in Bangladesh Over Exiled Former Leader. What to Know.",
+          "url": "https://www.nytimes.com/2026/11/21/world/asia/bangladesh-protests-sheikh-hasina-what-to-know.html",
+          "outlet": "The New York Times",
+          "summary": "Deadly protests have broken out in Bangladesh following the sentencing of former prime minister Sheikh Hasina. Her supporters are engaging in an insurgency to destabilize the current government.",
+          "about_india": false
+        },
+        {
+          "title": "'Working to suppress India’s rise': US panel report flags China's support to Pakistan during Operation Si",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVjVQVkpveVducTlDTHUzWlBjYlpGSThLbFpnR2FKclZmaEZPMmc2ZWlSUTlGR01scXR4aTNua0xMSm01bTdwcFUtMHM1Q3dXRzJ1TThUUC1MN0xqazFBVkpZdXFDbWQ0a0tPcUxRWURnbFJQNlZyX1NGT0ZhMDg5SlpralJLT0tuNzN4a25LZHZrd3ZHYkNWSTdreF9LRDB2dHRMVlRFQVRaSEVDYWdpR1VuNl9hTzJnSFJCWWtlS2NqVUpMeU5qa3kxWkp2Tnd3NUtDNTl1bktlV3Fwcm1JdENacXk1QmpIcF9reDFTUGgtSW83ZUYtdTd1ZVExQWtXbDR30gGIAkFVX3lxTE13WFM3TFVsYl91cURtMkNkMzM5VTJzTEpYZ1FoMUVGRkNpalJsM2FPUXF4aVhwNjduekdYMGMyMjNuYzNOTHdfTkZzSDczX3RFRDFVZXJ5UUZwVFl5YUg1cGs3aFFrUGxTbks4TWdWVHFPNmd3czFic2F2MTJFZ3NXWXlUV3k4MzU0WXhITG45eGptZTgwTTJ2eENKRmJHREhkQkZieF9zeWJySElSbDJFdk8yWWd0cy1jR3luV2JfSTM2d0VsYi0yb2psRlZyVFJqc1ZiR1BvNWZ6SU5lbVRHMnE5MXpLTTVudjAyZFRLcWdfTWhJOWJMZXpfdkJYdVV0dUVURkZLVA?oc=5",
           "outlet": "The Times of India",
-          "summary": "A US court has sentenced Nikhil Gupta to nearly 20 years in prison for his involvement in a plot to kill Pannun.",
+          "summary": "A US panel report indicates that China provided support to Pakistan during Operation Si, suggesting an effort to hinder India's growth.",
           "about_india": true
         },
         {
-          "title": "'Voices carry no weight': Wangchuk warns Ladakh's alienation could hurt national security during war",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWlRpb29TVUE1Z2hmVTMzRlc2bHI3OHRic1FGdThadHlUSGJJd2pHY05qbjZUclJ6WEt2TThsNG9SdjBXMWNqUVZLYW5HeGtQQ2xGeXZvcU5MVWg3bF83ZTZPWi1CN055SWVMU0xMN2xQVHNiUi1TejZfcG5NeTRrdF9fVFJYSGY1NW1lZ2FCTVp5TFViSnhMaHhYZFJXQU91S1dRdjYwdHBhbDFKQWQzbWF1S1kwWlhlOFhKMThMY3NjcXFVN2hIRVRfc1I5QzI4M3YwbkVqaEdmalozd05jMnJZWEJ3RFNhRkUwSmNqM3FPVHFCT1Y40gH8AUFVX3lxTE5BOGMzWGxSN29aeFp0VTJxVjZtd1NYY0NHR2wtRmRxY2xkLVZpV3B4YV85a0pON1dXNHdBdDQwVVI0S0Z0VjZPeDFLWE9YYktkNUs4S1FZalhzYy11VTFlX0J4eGR2ZzJIUFNKejYtdDdwMmlweV9SWWFLZUJXdjZSajRtTXBKZF93OVNrMzc2VjBqNE10cHk3c3k1dDk0LVp6UURYbDJMYzJGWlR5ZGZGTlZNemh0NWlrMEpkTHlIdzN6a3VVWGJoenB2SER1YXNockprQ2VMVlFsYzRWU1VrUG5wUDFHd0JjQXFZMnFQOUotUGxHVWZuaTlkSQ?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Wangchuk has issued a warning that if Ladakh feels alienated, it could negatively impact national security during a time of war.",
-          "about_india": true
-        },
-        {
-          "title": "‘LOOK AT INDIA’: Angry Trump Cites India’s 7% GDP Growth, BLASTS US Fed Over ‘High Interest Rates’",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOeTBzTExkVmRNa2NVVVJpQVpyN2thVDZzU0V4MDZ4RFJTUGJVSDRTT1h0OHdYbVJJaVRmNHhhVS1MOFplWjFTbTVzUFhqZHRWM3NIWTlyZ25kYl93cjJTcVNOYll6dDd2RzIzX0xoaFpjM3Noak5Rd1hKU0E4bGppMHIxNWJ4ZjlPZnRtMk5PRTRXdGRCdUEwanhpN3hLLWVqcnQ3cDBpNEVtMjdMeDV1b3BwMmV2aXowLTNLSEVIMmlsZzVobWJCYlJsN09OQWVFNzFDZWxOVTNjU2xJQU9MR1V4ZWdNWVNCa1BDNVR1OU9FSFdO0gH6AUFVX3lxTE9YVkFYTHNGbzFOS0xoeGwyLVB6cVM3VC12d0RZM3BiRXhtell6RDh1QzZIRHZHWURCVFk4TFgyOHhkU1pYNlRvVHJlMnRvZWR1ZklMWUlwaGZrdnEzQ0hQSVZNM25hbkFCUnJJcnl0cGZjQ2haeEpXYmZqQmRXb3J0NzJJdkp4RE95RjE0S3pOYTd2SXNJZVIwSU5PdDEzTHVpRGZJMXV4ZzNIV2FSRFlqUGZLdXF4cDktVFZpNTlPelRSMTdKdHNwV1RmbEs2MmF5c0lRYUdmcFBScVJyOWlSeEEwRUpZZ0hOVW1leGRxUzN4ajkxM09YUVE?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Donald Trump criticized the US Federal Reserve for its high interest rates, pointing to India's 7% GDP growth as a contrast.",
-          "about_india": true
-        },
-        {
-          "title": "'Will find way forward through dialogue': Amit Shah assures Arunachal locals amid Siang dam protests",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFlCQ1RxeWV2WmlQZzhVNkdfYUxURHhUbTA4OFRWSTJXaDQ4SWhUb183NHltNDJnakpwYnY1cUp4SkNUTHc0Tmh0MHowNVg1cHBJZnlzVEl1cENwMzJzUk1zdUFDUnBkRkUzMlRBb29fbXA4NWpKMnExMm80SEluaE91d1VDZVZRaTZqZFhmVHBsNEx1QUlzV2JKQ3VoSVNYWDZuZWxNbmZTVzB2cmJHenY2XzJyNXRzS0tKN1FHSlZkd1Z3My1pS3o4ekdNZFpaWGppQi1xM3RhVWpiYUV0VllKOE5lcWNMWjg2MHJTSTZQV1FvRFlzedIB_gFBVV95cUxQSlNMclp5b282SDNpNGN0Z2RTd19jYVQxYWN4VW9pZ2lMOUlXNFdRVTJiclZTaXZNWTRmYmFYdjY0SThJajdxSmpaVVJ5REtuOThmQjZrN1BWQWJ2U0pGZldKY01SQXYzb3JXVlEyRFZNa1dXM2ctR0tZQjkwYmxQWUdnWnZoWEVuRWFELXUtSXZQNGdpQnU4aXh1VHJxMVEtWG14N2VMSVVSdVU2UGR2WGNnSW83NjRvSEpwei0xeHo3cF9Fc21IbFlkMnA3SklkX3pSUGUyaGFJUXAtQjZNSnNyYUlHXzc3M3h2Ri1qUnZRc1VIQ0RDSTlMVnhXQQ?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Amit Shah has assured residents of Arunachal Pradesh that a solution will be found through dialogue regarding the protests against the Siang dam.",
+          "title": "Nepal PM Balendra Shah Arrives in Delhi On First State Visit, To Meet PM Modi on Monday",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa21HQ0t4a0lKUUtMRmZTc1dEaEJtV2ZpeXFjOFFlb1lMM0JqRm5zSVJEb3c1TmtQS3Yxdi1VVF9aaGo4bFpMVXhvU1hDdE5TakRKd050X05zaTl1MTBBTjdCa0diQlpRRzJBSTkwR0NuVXJ4cDE4b21GYkxjVlVHN0lCTWNZRnAxRl9PNU44a3p0aGtCdmFkTHF5SlhPeUxOVXQ1alV2MnNTS3VjZkkxTjRmZ29MYUhCWDd6Mkp3MXZtN05zTXhCQlpnb0pMMXd1dkVHdEFB0gHbAUFVX3lxTE44b3hpaU50Tm5VOF96RG9RTU1ibDJRX0NNaXZvalI2LVQ0Zk1USnRWQ25SUEcxX3Q2dXZqdnRsUVg3dFFHbWhXT054clV4LWVyWmRFTmNDRnRhS0NSQ3Jpd3BHRjhaRUY5dkdXZUxib29MLUhuUWJqU0NsNzdLSmVDSDE4X3hCRkVlZU9DTGlwYlJ4STJvd0ZiTzNGMV9zaE5GVE44RWpJTVRoaS1maERvWmkyQWh4TVJ4Z0otMzl6UzBUNnRxb2ZGcUhRZURnVXI1VFIwV0JGa2szUQ?oc=5",
+          "outlet": "Times Now",
+          "summary": "Nepal's Prime Minister Balendra Shah has arrived in Delhi for his first state visit. He is scheduled to meet with Prime Minister Modi on Monday.",
           "about_india": true
         }
       ]
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "US court strikes down fixed stay rule for international students, exchange visitors",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcjlMaURBUVBPaVJKdUhNVFJQMFFad3dJRkE1Rjd3SnlZSDZaLUhQR1FUY1QtODJ3a1pUT29za0l6WkFaUHZnYWlaT25ISG04YTdOMUFpZnZYV24yTk15ZE5mdktablBVbHJJdThPSmJuUVZSZXdWWklMOGVOcU5vOUlwN2dfeU4xckkwTkxTRko4RzR6MnlFU1QtbjVaVWVUdFFCbTY2V3pLSGpSMUxjQjM1dWdEZEZmQ2xBSkFHNks2eHhq?oc=5",
-          "outlet": "New India Abroad",
-          "summary": "A US court has invalidated a rule that imposed a fixed duration of stay for international students and exchange visitors. This decision means that these individuals will no longer be subject to a predetermined time limit for their stay in the country.",
+          "title": "US tightens regulations for international students: Work permit fees could reach $70,000.",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGZFVFFFenc0NzVzMHBiakdXTEpjY3I0aDRlZGNHSWNKYTdMMXBfVUh4VXVOS0RxTXc1ejNTTWFOT2J6dFpFblM2Q09xaXFPdng0aGJYbjl6dGxLempsMTRrMWZOdkNTbDZ6d3k4UnpsQ2N0U3ZmNURGUmRQS1J1UXUwV0s5amVoSUsxVHcwUXRjY2V1M2ZzTjZFLUhBVXpBT0VsWg?oc=5",
+          "outlet": "Vietnam.vn",
+          "summary": "The United States is implementing stricter rules for international students, which could lead to work permit fees increasing significantly, potentially up to $70,000. This change may impact the ability of international students to work in the U.S. after their studies.",
           "about_india": false
         },
         {
-          "title": "H-1B workers’ children could get US Green Cards under proposed immigration Bill",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU2VWNE1zZGJBRE45NDVfSmRVMEVieXlmVEpBRHNFSFMyT0dNZUhfV2NabnlqcGR6V3BnOV9wWi04Z0V5ZktUYndoM3Y0Q1ZCV2U2aVlHRE02NHFCR04teHZ0NUUtZnRQMGdvYUJlODhHUTFZTnFHaEs2b19EajUwTFpmQ1FLSHNHN3ZCbGFEQ2JsaW5XWlQyN3U1LTVZeDZobndpRkQtSFJMYTIyZGc3YjNSZkNLRDRIaVZjLU12ZndkMUI3aENTWlhIVnQyMFF3SjBWZGQwSmFzek5tTk5Da0lOYzBaUdIB6wFBVV95cUxQeHRleUxYUjFxMm1mWmlCcUhLdmllSkZ5SlhjOEtKZnMxR2NkNEI2aEUzTmtHNDZKWmVzNTlYRzc5NVRkNVA4dVh3OUtwX0dDSVE0ZnV5cENUVC0wdU5mLU0tcEYtZ0xTeXJtMF9XMTZkQVo0S3ozb3VBUzUtNGZaaHRHYi13cXVRNGotaFBQYmtoaXkwS0h0Z2x2dGpINjFBRVdsTGZkY2EwejZYUnhNRU8telQza240c0p0QU54LXRjeFE2dFp1SUNPYk9xQVV1NkwxSlZadjhIakFDUTBVcHc3LVFsQ0dpX0Z3?oc=5",
-          "outlet": "The Economic Times",
-          "summary": "A new immigration bill has been proposed that could allow children of H-1B visa holders to receive US Green Cards. This legislation aims to provide a path to permanent residency for these children.",
+          "title": "US H-1B Crisis Worsens: NRIs Abandon American Tech Jobs",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWDJMZ1pJUFRiTzZFYzB0elBJVlZrNUp6Wlg0Z2FUYUNMSzhXcHlwZlFYcjk5cmJWQXJzbUFyTnBnTHRHWnNXVms1TkVYQ3ZGeHNaWXhMdnBJbzBDVUJ5YzdPZ1NVVVNRZlRPMGQ4S1Jvb3gtMnMwTFN0ZFN2TUNXYmxqY9IBiAFBVV95cUxNaGRWSE1pQVV5MkZjUXMyb3g3anFUNHYtUF9KVkR5RElXX2JsRWJKTWpaVEdDbFNMWkxrZzdwTVRmdDdHWWZFcGQtY0ducWJHR3J0cnJNNEt3dGMzUFZnd0NDeGxEcWlvVlNtanZVMXJJeDRXbEVFenUzQWNIaG53ZzJlLTFjSU5l?oc=5",
+          "outlet": "M9.news",
+          "summary": "The situation regarding H-1B visas in the U.S. is reportedly deteriorating, causing non-resident Indians (NRIs) to leave American technology jobs. This suggests a growing challenge for foreign workers in the U.S. tech sector.",
           "about_india": false
         },
         {
-          "title": "Texas governor-elect Hinojosa plans to lift H-1B freeze at state agencies, universities",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnhxd0xCRkhBQk56dTBRMVdVSlRIZURGNXVJcldJT1dJcHpTZmVIQ0x2eTNfazR0eXFvemxicjdIYjA1aVFkY29Zd0dENXcyVWIzUUMyYTV2MnNjeGZqY05kdUZfLWpiVDhWbDdIbVJLUUpKV1N4UUZvenhpX0FCSDhaVUREbkpndFhkTl9ldFlOM3ZMRHRxZUpwYzk3eUJtaGdGN25MTkhDVHB3QUp6UTVtWTN0Qm5kbHI5M1RkYUptQXpja0d4RkRnV1VIQzJ5NDIw?oc=5",
-          "outlet": "New India Abroad",
-          "summary": "The governor-elect of Texas, Hinojosa, intends to end the freeze on H-1B visas at state agencies and universities. This action would allow these institutions to once again sponsor foreign employees for H-1B visas.",
+          "title": "I'm a business immigration lawyer. Trump's visa policies are making my clients pause their lives.",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYkRNRmZ1cnFab2Q1dnVLZzdJSmItN193NVNmNExXQU4ta0VvQnVkUERxbmdBYzRXdlh3LVQ1NUVwMnN1SmQ0SzVVa0xjWEM0ZnN0TnM3cjg0TnBHMXZrOEQxbktwNU9UcGVhQUFyVDgtYUhkR2h2SHRPbTdYRzdVN1gxNEdvdGY5UTB5b3ZraERkc0ZWeVNWdjh0QWZfUQ?oc=5",
+          "outlet": "Business Insider",
+          "summary": "A business immigration lawyer reports that current visa policies are causing clients to put their lives on hold. This indicates that the policies are creating significant disruptions for individuals seeking to immigrate for business purposes.",
           "about_india": false
         },
         {
-          "title": "U.S. H-1B visa issuances drop by approximately one-third year-on-year as companies such as IBM reduce sponsorship for foreign employees",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTkJScHVEaDFFQ1ZLR2sxYWdsUUJrYlRMdEQ3VUxJanZoZGlfellNRjRaVUxESzIzUTZ3Z0dYbm5QVnJNeVpGRzI4Ym5xMTlFaGZhamxKd2wtbWRBZE5BWDF2MGVZRFpPOUJmdWpPdk84T001cldQUFNNR0RmbUltLTBZN0ZJdXE3NDFqWUpORERsSVhTSEE4am1LX2FyUVk?oc=5",
-          "outlet": "Moomoo",
-          "summary": "The number of H-1B visas issued by the U.S. has decreased by about one-third compared to the previous year. This decline is occurring as some companies, including IBM, are reducing their sponsorship of foreign employees.",
+          "title": "H-1B visa curbs could hurt US workers in non-STEM jobs, study says | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQllfRnFxMlBlSDFXZHI5U24wSFpRZUx6VXNZZDN3cHd2Y1djNDFQOUxhS1RZZmJCS00wMnJGY25KOU1KZG0xRFdiX2djd2pqc0htVld4ekdCM1o2MVdnTG9hUjZHVzNLWVQ1NHpxRVBId0E3TmZlaTdGZGFTaVhUanR2cUZ4d0JaaU1mRlVDSzhSQ0NyTlFBRlNFczNDdnNpOXF4T0pxR3N3MlZtZDV1eG90czRKM1NPalF5SW5RSFpCRXZiSGdtb2Q1ZXAtcGN20gHWAUFVX3lxTE5ydTUxdi14LWw4c2VQV0VxZnRnREdyeU9Wckg1T1RmZExWc3pCejhlWV9IZXhSTnBtV3p6T2VIbTgyaXUtQmJBMDRsbzlrY0VtdjY0VXRsb2lYMlQ3YV9aTm5EZDlwUXl6ZXd5R1JSXzZxN3plSTY3YjB1bjlvT1cweTlHRW9Bd0VfYXdoc1g1eFV5eGl2VkhMSVlHZzlnMWY5WWVfcW1VYTU0bWJBaHVNcGFick1yZ0FILXJwUjBrZDNxSU1yRWFzeEtrNmJhZmZoVnVEdWc?oc=5",
+          "outlet": "Hindustan Times",
+          "summary": "A study suggests that restrictions on H-1B visas might negatively affect U.S. workers in fields outside of science, technology, engineering, and mathematics. This indicates that the impact of these visa policies could extend beyond the STEM sector.",
           "about_india": false
         },
         {
-          "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2F3SHZOb2ljcEF5VFpuR25ORV9XZ2M0M1loQ2Fmc2hFZTY4R0hQaUdOM1l6TzF2SUh5ci1obTE1OENZSjN0YXpsNldDOWVwWjlfWEVZd3F4dUtKOUF5ZFgyUDZlNk04NmVCUDNxamZ0enRsdllhSl9VQlVwRVk2cFRYeHU0OGdKU0NRZkVDTjBrN2JCUTVR?oc=5",
-          "outlet": "The New York Times",
-          "summary": "International student enrollment has significantly decreased, and educational institutions are preparing for further reductions. This trend indicates a challenging period for schools that rely on international students.",
+          "title": "Immigration officers make arrests at Seattle airport in ‘distressing’ scene, delaying flight",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWd1UF9uSzBvOXduT1l6NGt4eVFMLVk3Yk8zQUQ2N2p0VG0yUnRyYURJOF96azVOZ19rMjJYbGdkcFRsdUtPa0tVUk0yMUtTWkx3UG1XeUhxeTg2Z1E0Z3A0ZDJYbVVmMmhWUUU3U0l1alBGNU56ZnlseE5xZUU2MzA2ZkhNaXl4SXB2bmhIa3dPTU9iMDljeg?oc=5",
+          "outlet": "CNN",
+          "summary": "Immigration officers conducted arrests at Seattle airport, which reportedly caused a distressing scene and delayed a flight. This event highlights the impact of immigration enforcement activities on airport operations and travelers.",
           "about_india": false
         }
       ]
