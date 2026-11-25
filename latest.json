@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-24T13:33:50+00:00",
+  "generated_at": "2026-11-25T13:33:23+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "Jensen Huang Returns As Nvidia CEO Just 11 Days After Resigning: Here Is What Company Said",
-          "url": "https://www.timesnownews.com/technology-science/jensen-huang-returns-as-nvidia-ceo-just-11-days-after-resigning-here-is-what-company-said-article-156555541",
-          "outlet": "Times Now",
-          "summary": "Jensen Huang, a co-founder of Nvidia, has resumed his roles as President and Chief Executive Officer. This return occurred only days after he had previously resigned from the leadership positions.",
-          "about_india": false
-        },
-        {
-          "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-          "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+          "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
           "outlet": "The New York Times",
-          "summary": "Federal prosecutors are investigating an OpenAI engineer who allegedly recorded numerous company meetings without permission. The recordings reportedly included discussions about customers, AI safety, and a briefing with a foreign government, and authorities are looking into what happened to these recordings.",
+          "summary": "Jensen Huang, CEO of Nvidia, apologized to his employees for violating the company's code of conduct and admitted to making mistakes. This apology came a day after his return to the company, and he also mentioned he is seeking therapy.",
           "about_india": false
         },
         {
-          "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
-          "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
-          "outlet": "The New York Times",
-          "summary": "Oregon and Virginia have filed lawsuits against SpaceX, alleging that the company's Grok Imagine artificial intelligence tool generated sexualized images. The states claim that this action violates consumer protection laws.",
+          "title": "Hackers may have used AI tool to attack CIA and other US spy agencies",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2JCUkF3aG1vdG82Q3RETVlIWllWMW42amgzZjJNVDcyNE9kRGlGa0dNT3FGdzVEN0VJcU13cndqZ2hHZ0NGQ3hFTGVRRW93Z1BsdTdDbkNQUGluZW04MGljZnQ3U056bGJpTHE0TmVVMTBaZ3dpTndvWHJ1WlFuc09JRmktdldKUzRfVFN6M3JmQk0yVWlzYTc1MDIybWNoWENPbDZZRldMVHdlZ2IzVUFmUC1TUXo1dEVSaWR2blcxd096eUFLWHV4TkYzYkctUHgwMWZOa2FDeHJVb0xFUWhlSm40SmfSAewBQVVfeXFMTms4T3ZBV20td1lQbGFNZWJRVFVULXZqRTN0TzFJcjVtWVZFQURQR183VjhZS2c0YUxyYkNvbmhZdkVNelNydzJkbm9ieXk2LVE1LXNYcWxlT1dEN0NXZU1TaEphUWFRRmUxVGFFVG1SQ0gwVF9hUDhiSnZfTF91dEcwbjZ6eEsxLUFTM0xJWWlUMVBncmJxRjNqYWdIYmIyVWdRR2c3cEQ5NUJJbXc4WWJHSFJ3MHJCYTBEdlV4R1lWUlRpM2tXdm9IZDFhbmYzYjJHSC01VzBTcERJcHJxZzg2SEZEZzhkcDVYMEc?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Hackers might have utilized an AI tool to carry out attacks against the CIA and other US intelligence agencies.",
           "about_india": false
         },
         {
-          "title": "Plaud India User Base Grows Over 3X In 2026, Here's How AI Devices Are Changing The Way Professionals Work",
-          "url": "https://www.timesnownews.com/technology-science/plaud-india-user-base-grows-over-3x-in-2026-heres-how-ai-devices-are-changing-the-way-professionals-work-article-156559323",
+          "title": "Australia Passes Law To Punish Big Tech For Harmful Content With Fines, Why India Must Take Note",
+          "url": "https://www.timesnownews.com/technology-science/australia-passes-law-to-punish-big-tech-for-harmful-content-with-fines-why-india-must-take-note-article-156564370",
           "outlet": "Times Now",
-          "summary": "Plaud's user base in India has more than tripled in 2026, driven by an increasing demand for AI-powered productivity devices. The company plans to expand its presence in India, aiming for over 1 million users by 2030, which would make it Plaud's largest market in the Asia-Pacific region.",
+          "summary": "Australia has enacted a new Digital Duty of Care law that mandates large technology companies to actively address harmful content on their platforms. Non-compliance could result in significant fines, up to five percent of their global revenue.",
           "about_india": true
         },
         {
-          "title": "Murf AI launches Finch tool for live transcription across 11 Indian languages: What it means for users",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdF9KSzVEeE45WlVSTy1rcnh4a2FvZ2R1U2x2VzVrSnRjSjdNM3ItdTMySy1xNl9TajdKaUhBRENsNjB5QzlLd3M4aXVnVGxXcV8yUkxndzlNRE9fZ2psUDlFRWZSalRrNzdhZmw2cUx0eGVXWF9WLTZBWERQUEJCcXZEZEw2TmlMNmJFaUREaWw5c1BJU1dmbEtIMWI1VHNDUlliN1ZxbHZPOE5XVUtmQUFheTh6X0M0UEV4clJFQkFxYkhLbU54WHEzVzFORHVzbUd6SWVOUjRqQzNfdmxSSWtYWjltZUhtV3U2YzZDVFZ0MEREdU5OUGZmcHYzUm5PM0F0dXp3ckdCUdIBjwJBVV95cUxPdFoyS3k4S3NGMHNHeGt5QS1MVk94N2NuZHdiSGNzNXB3UkVfREtEQ0ExOEExTVpCcU92dll1TXdmODhJdFZodWJQLUJZNGEzZFdMU2l2ZU9EU1M3QUpBdjU5ZVdYTjktVGMtZ1dyOHhsbFVIVm5BQmxSLTQ0SFhrdWJvekpQQ3VQeUNhZlpXY19zaUdNa0h5Zm1QSWc3dHF4TXNHWjdwTnBLcGNsLXVlRHI1bEtzUDVhRGc3NzdxN0pfQmY5ODg3Wk9jeUZnajBva2VDN0xDZzE4OTFZMVpMcjM3SFgxWWhfOW0yR2xweHRVUzdRLVZ3TXZ4QmlMUXV4TmRxYkdlY1dFVXJUNnQ0?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Murf AI has introduced a new tool called Finch, which offers live transcription services. This tool supports 11 different Indian languages, providing users with real-time speech-to-text capabilities.",
+          "title": "'AI May Trick Us': Why Anthropic, OpenAI Researchers Reportedly Fear Releasing The Latest Models",
+          "url": "https://www.timesnownews.com/technology-science/ai-may-trick-us-why-anthropic-openai-researchers-reportedly-fear-releasing-the-latest-models-article-156562551",
+          "outlet": "Times Now",
+          "summary": "Researchers at OpenAI and Anthropic are reportedly concerned that their most advanced AI models could become uncontrollable. These safety concerns might lead the companies to delay the release of these powerful systems.",
+          "about_india": false
+        },
+        {
+          "title": "Your Digital Govt Records At High Hacking Risk: Cybersecurity Agency Finds Major Security Flaw",
+          "url": "https://www.timesnownews.com/technology-science/your-digital-govt-records-at-high-hacking-risk-cybersecurity-agency-finds-major-security-flaw-article-156565082",
+          "outlet": "Times Now",
+          "summary": "A cybersecurity agency has identified a significant security flaw in DIGIT Core version 2.9, a platform used by governments to develop digital services. This vulnerability puts digital government records at a high risk of hacking.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Stocks Surge After Jensen Huang Is Reinstated as Nvidia CEO",
-          "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+          "title": "Stock Sell-Off Set to Continue as A.I. Players Fall Again",
+          "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
           "outlet": "The New York Times",
-          "summary": "Stocks rose after Nvidia's former chief executive was reinstated. This news contributed to the market's recovery from a recent sell-off.",
+          "summary": "Shares of technology companies, including Nvidia and Anthropic, continued to decline in premarket trading. This ongoing sell-off is influenced by investor concerns about tariffs and interest rates.",
           "about_india": false
         },
         {
-          "title": "Nvidia Sparks Historic Wall Street Rally: Shares Soar 35%, US Stocks Recover Nearly Half Of Last Week’s Losses",
-          "url": "https://www.timesnownews.com/business-economy/markets/nvidia-sparks-historic-wall-street-rally-shares-soar-35-us-stocks-recover-nearly-half-of-last-weeks-losses-article-156555746",
+          "title": "Sensex Surges Over 2,000 Points, Nifty At 25,920; Top Factors Why Stock Market Is Rising Today",
+          "url": "https://www.timesnownews.com/business-economy/markets/sensex-surges-over-2000-points-nifty-at-25900-top-factors-why-stock-market-is-rising-today-article-156563307",
           "outlet": "Times Now",
-          "summary": "US stocks experienced a significant rebound, with the S&P 500 increasing, largely due to a surge in artificial intelligence stocks. Nvidia's shares saw a substantial rise, contributing to the market's recovery of a portion of its previous losses.",
-          "about_india": false
-        },
-        {
-          "title": "Anthropic CEO Dario Amodei Sells $280.41 Million Worth Of Shares After IPO",
-          "url": "https://www.timesnownews.com/business-economy/companies/anthropic-ceo-dario-amodei-sells-280-41-million-worth-of-shares-after-ipo-article-156560068",
-          "outlet": "Times Now",
-          "summary": "Anthropic CEO Dario Amodei sold a significant amount of shares following the company's initial public offering. This occurred while the company's stock experienced fluctuations after its market debut.",
-          "about_india": false
-        },
-        {
-          "title": "India's Economic Activity Hits 4-Year High In October, But Rural Demand Remains Weak",
-          "url": "https://www.timesnownews.com/business-economy/economy/indias-economic-activity-hits-4-year-high-in-october-but-rural-demand-remains-weak-article-156560400",
-          "outlet": "Times Now",
-          "summary": "India's economic activity reached a four-year high in October, showing a strong increase. However, the country faces ongoing challenges from weak demand in rural areas, increasing inflation, and tighter money supply.",
+          "summary": "The Sensex surged over 2,000 points and the Nifty reached 25,920, indicating a strong market rally. This rise is attributed to factors such as foreign institutional investor inflows, gains in banking stocks, a stronger rupee, and lower crude oil prices.",
           "about_india": true
         },
         {
-          "title": "RBI Plans Digital Banking Safety Overhaul: New ‘Stop Switch’ Could Let Customers Block All Debits Instantly",
-          "url": "https://www.timesnownews.com/business-economy/industry/rbi-plans-digital-banking-safety-overhaul-new-stop-switch-could-let-customers-block-all-debits-instantly-article-156558360",
+          "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices",
+          "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+          "outlet": "The New York Times",
+          "summary": "The Trump administration announced new tariffs on several countries, citing unfair trade practices. This action occurs as the administration faces legal challenges and increased scrutiny from the new Democratic-led Congress.",
+          "about_india": false
+        },
+        {
+          "title": "Why the Nvidia Rally Fizzled",
+          "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
+          "outlet": "The New York Times",
+          "summary": "Investors are reportedly losing confidence in the artificial intelligence sector, which has impacted Nvidia's stock performance. Despite Jensen Huang's leadership, the enthusiasm for the AI boom that Nvidia has supported appears to be diminishing.",
+          "about_india": false
+        },
+        {
+          "title": "Centre Approves Rs 11,000 Crore Scheme To Boost India's Construction Equipment Manufacturing",
+          "url": "https://www.timesnownews.com/business-economy/industry/centre-approves-rs-11000-crore-scheme-to-boost-indias-construction-equipment-manufacturing-article-156564687",
           "outlet": "Times Now",
-          "summary": "The Reserve Bank of India is planning to enhance digital banking security with new measures. These include an instant 'Stop Switch' that would allow customers to immediately block all debit transactions, along with other features like trusted-person verification and adjustable payment limits to combat fraud.",
+          "summary": "India has approved an 11,000 crore rupee scheme to enhance its construction equipment manufacturing sector. The initiative aims to decrease reliance on imports and increase exports over an eight-year period.",
           "about_india": true
         }
       ]
@@ -90,39 +90,39 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Trump Puts Presidency on the Line to Reinstate Nvidia’s Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0Nzb0llTVkwRGpLdlhfbXpGanNwZUdiOW5xNlE0TkZSVnlEZlhiU2I2d284eTJ1R1g4LTM1aWhBZkUyWDZCbHlJMXpBaG9KT0s0NFhGYTRQUmhWMkk1RFR2SXpSZHJpRTJEb3JDMFl0MXhsSGtVd3V6QTNINWRPeGJHVDFRbWIyd1g0UUk1SDNubU82d1phamJ3bUZ4SWM?oc=5",
+          "title": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelhXSUR1Q0FjdjVoT1ZvZzU5cjQ1V05UeUVGMGpDbF9fWkplY1VtSDR0VENIclZ5dzdqWkczMmROR1dvdE9MeTFIS19fTk1LMlFWRnhBTXBia1ZfUGFLUDhzbkprNjZweXdhZUV6Zl9HMTRNX0F5Q1loLVEyM2lqcG12R081R1dzTGRMVng1WE4zdlk?oc=5",
           "outlet": "CNN",
-          "summary": "The headline reports that Trump is taking a significant political risk to support the reinstatement of Nvidia's Jensen Huang.",
+          "summary": "There has been a bipartisan negative reaction to former President Trump's involvement with Nvidia.",
           "about_india": false
         },
         {
-          "title": "'NDA is now complete': BJP welcomes back 'oldest ally' Akali Dal ahead of Punjab polls",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOS1SREJVVE9uMm9sTXlwd1M5clN0SElNVHJYYjc5T2tuRV9WZE5pN19LbHRXeHo5TURITHdXTURvS3hYX0o3WFgtMldjRlVrQ2JBX1dnTV9iOUxLbUFmWk1jQzJHSDB6S19NVmRLQnd0VWVPUkxka3MyeFF4b2RQWTVYWDc5YVBIb2RTb09iWW9QbDBFSVFzc0t4dER1Mmx4aDgxbGhMODRzUWppbHBMalgzQUJBNjRiOXllZ3NQMEtlREJvOWhXcjYzLTJnUGJYY1hkV2Zxem8tT1d4Z2lTSDdvY9IB6AFBVV95cUxQQjRDYnZsSXhOazY0SEtvTlV0LWVGTWlHbFVhQmtMaDh5VnJmRHhWU0hIMFNTcmEzaFV2OHdCVFRnZmlwZVNicVVuVlNRclh3NzBFRXJ5SmFtOHdyUE12OW92UjItNTFGM3p0S0xJMU9ZV240cWxjdjktS29qRnM3WWxpQzdZU3dmYS15dU9WUHFpN0NDQ2loZWtHTHBmMUQ2c0w0aUZDbEFCR2hqSlFVS0hCd3JpamZDUHZfTjNzaTlvcWR3bklrYkh2M2k5TUg1c3BEdy1WR0I2aDRIRUI0cGhiY0h4MzlD?oc=5",
+          "title": "In address to jatha from India, Pak PM’s son calls for dialogue, reopening of Kartarpur Corridor",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV2dsaWdnbTlvMzdBekhXajU2Ny1NbFc1azVNYUJTUU1QREJRakdyZHJ2VFFabWp6ZXR3UFdlWEU2aXl6RmdVdU1NOU4zZHFiWGxjVFd6X1dKRkNQX19vNmt3TDFNd29NOVlleWJHbE1EeGxTR0FWVnZHc3V6dVJseXlJbFpvRW9JOTJMems2OTFxODQ1ZW0tQ29ERE9QOVUtY2xlcG01RXVNU1UzZFhkMlJFV0VCYm80YzRCVDVqS1d6S1JFOEdEWFlKTGVDYkROeGItd0x3c2Z3VzhYSUEyZDViSmVwOWl5b3pwaW5XazJFUzE3RlVFcXZlNFgyM1Fh0gGGAkFVX3lxTE1EekJZS0Noa2k3NEpiM2tXMUp1UENJeWhVSC1VckVENGxtdmNxaXBzOEJmS290cF9Yb2s1YktvTVFMU3Nxd0hhUV9yaWRpQThyN2lEOTBEc2lSUllTY2J5VFgwZFd0YjBPMTNBYm45RDYxdHpfcE5TcHJLRUlDQ0NPWVVkQ1RHY3BlV0ZaNnJHa1JHUXV0cEw1VmRPdEdmalUxeW1NOXBOWnRNN3JYT2lIQjVCNWVKM2JvWmpBTGJlTnZXZWZkTDNSR1Z0czNXc1g3VHE1RElzemFBaHVxQTI1alduRlRUdEZjQ0lnUGp5Y3RRQjFDNDFvMTU1VDNvY0JYSWF3Rnc?oc=5",
           "outlet": "The Times of India",
-          "summary": "The BJP has announced that its alliance with the Akali Dal is now complete, welcoming back its long-standing partner in preparation for the upcoming Punjab elections.",
+          "summary": "The son of Pakistan's Prime Minister has advocated for discussions and the reopening of the Kartarpur Corridor during a speech to a group from India.",
           "about_india": true
         },
         {
-          "title": "One every four minutes: New data suggests 720,000 Russian soldiers killed since start of Ukraine war",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVBjNlZFWUJMUVpTQVp6cWFja3JQckhuYzZFaGpxODl5U2hzRG9SSV9vQ2VJdHVuak4zSHZWYXpIeHhOMXZRb0JpWmQ0c3FhNDJKTnNkOFBKNlFWRzB3dXpBbmI0UnlVcXlRVVg0aW9GNHBSSWdXNC02RjdDaV9VNEkxLUg?oc=5",
-          "outlet": "CNN",
-          "summary": "New data indicates that approximately 720,000 Russian soldiers have died since the beginning of the conflict in Ukraine, suggesting a high rate of casualties.",
+          "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+          "outlet": "The New York Times",
+          "summary": "U.S. intelligence agencies, including the C.I.A. and the Office of the Director of National Intelligence, experienced a security breach involving some unclassified data. This incident highlights ongoing concerns regarding cybersecurity.",
           "about_india": false
         },
         {
-          "title": "Akhilesh Yadav's 'Adjustments' Message Amid SP-Congress Seat-Sharing Talks: 'Sole Objective Is Victory'",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVDMwTXZwdmNad0MzNGhjQ3ZiNVoxekNsVlJPekFDRFkxVnlGWFI2UVB2Z1ZLSFlmMVdIbFVhQWpZY1BuTEVrY1J3d3NHb3cxZU9BVGo4c3BsOFU2TkVUQ3dnRWVLSDFCSG5sb09kbmlKTHF1Q29pdnFreWk4VTBCbWpfeHh6eEI0UmlFX0NNbFprQ3ZBb2cycmFyQk1KQk5iVTQ2aEtoMzBhaWx4WUJ1TktlZW9UYk1lWHE0MVYwWTZibFJDTlpzbjlfM2owNktNMk53RmZXc0hjVGZpYTNSRzdIVE7SAeoBQVVfeXFMUDhEUVI2TjJxMGEtaGJDdk1hUnBvQmNaQldpMm9ZVGpQaWJERV9XWmxWek5WMW81aTFQN0t6LTJUejN1TlRxNnN3UFl5LUZYS19oNDFfaUZJakM5a2xzLXpkQXM3dENqYldkRFRoSEVqRDhBbFFyRnNQdDloSXFPblpsYXN3Z1VTMGF6S0VkZHBEeUJ3b1k5Tk9peS1PMThzX0VmSkVzT3RIallTMXdwZnFYeUpjRnNLaU4xTnR2U1V0QzdaUXhoOVlNOVNkaE1YZmVkdmRjUXJXclZsaFRMem9leWRCQ25qTXB3?oc=5",
-          "outlet": "Times Now",
-          "summary": "Akhilesh Yadav conveyed a message about making",
+          "title": "Rahul Gandhi assets case: SC quashes Allahabad HC orders seeking CBI, ED inquiry",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYWZJT0llclk1aGtVZ2ttWUdCU2Rhd3lYT2t2ZFFHSVBhWEpzSEhma1duQU12WWlFWmhCTEJ2d2tvbmo5enZDZWtYaHZaUGY4dGpuZXlWT2xwVU5yT1hIVk1CV2VOdElJS3ZmdHdrS0M0bTU4NktlSVpEYWcyMWdZN3FxQXQwVkNtUGQ3dE9kbUtQUWNDbDZaaFA3ZjFmUU16cV9aanpjdHowQ3Zfa0FtWmVLcklSdm5CSEhnaFpRa3ZHQ3ROeWFjUkl1SVlUWVJPYTVaLS1vOTNONW1Xb3lj0gHkAUFVX3lxTE54aV9XbUl0anVqWTdvbUVSRmwwRF9XanhDYmpGblVxTWxuN1ZOZTVsYkh6bGl4MkxYYldRRUFJNnd1UGJ0U210emYxS2RqYkxPMDU4Q01uV3FkS1U3MG1fU1N5ZTlWR3pXS1pSdHZvamxrdDNMSEZOVTZYS2wwQ2lsRTUwZmFaNzN1NkRoc1VMWHNWbHM3bFZ3OVV6YnQxcGpDcHZVdHdLaV9kaG1zS1A1cVZTUDZkcWdDejAyYXh5RTVrRHVsY2VCczJMeDlDanFQYTBVYWNTTXlrenBTdHp0aHRLNQ?oc=5",
+          "outlet": "The Times of India",
+          "summary": "The Supreme Court has overturned the Allahabad High Court's directives that called for an inquiry by the CBI and ED into Rahul Gandhi's assets.",
           "about_india": true
         },
         {
-          "title": "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeXotelZvNWhDeUhCMW1lWW9CV0FMLXNSM0w0cWRaNWM3dEEzNlhDTy1RUVI5aF9iS3EtMFlaTjhMdlRLeGxVazI5cmRxNUhtYlQ1OTlJNDM2OFFHSnI4aXZsWnBjMG5TTWpKcEFOOHpMcV9FMVAwRGExbW9iU1hja3IwenM5RDdvTDlDdA?oc=5",
-          "outlet": "CNN",
-          "summary": "Trump goes after Newsom, a longtime foil and potential 2028 candidate, over death penalty commutations",
-          "about_india": false
+          "title": "6 years after split, Akalis & BJP tie up for Punjab assembly polls",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDBmQWFIWkc0SVZIRmJleUQ1NHlKLTJoSnhwMjVRZXlFT1FsNkc4QWlockNQbzM2c2lMZ1BNY1pKcThmUWNqQlRpOU1pSFliRlpNWWxIbVU0UU9jSVNiNG1JYzNqVnBJaUQxTjhnMVN3cHQ1eVFCcFJpMmhRRU5ZWGdOV28xUnRlRzZndGtQUENESFdMRVpRU0U0dF9QUG1TOHVfSlNHZ3B5WWluaEY4QTUxeUxmMGNOWFJvWWxuQlRSTFJZeTE3RF9RRdIB0AFBVV95cUxPR1BsTWt5SDVQS1VZVy04OGx2dm9lZGFZNkRyaUhYRE9GMF9mX0xRYVVKdmJjczc2bjBTZ0h1VUxmUHo1VW1OdmR5T1BTek1XSkw1eFFocS1RNGtYUHVYRXdoejV1SmV3NG5xd3BkQ0tjNFNlcEUxdXpMODhheEFqLTJOcTRkSExGTUw2TGp4WUVwdVVlM0xVQXNTU0JSUWtCUktWeExiR0t3TUVEUVBWZnFhOXJFU0Q4X0hWRGdQZ1Q3MmttTUt5SmxJZzY5LTlH?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Six years after their separation, the Akalis and BJP have reunited to contest the Punjab assembly elections together.",
+          "about_india": true
         }
       ]
     },
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "Courts strike down international students’ stay cap, pause CPT limits",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWI4MUFaR1B0SzlrMXh6U1BqVlJOWHAwaUlwaURra1lWcUV1dW5PVnNCeDAyRGpiOE96dHlUYXNRTHFzdGpwVy1QX09kWUFKcmFlU0s5M3RlZVY5MGRmNW95WVlkLXZuRElWZ05WUUMwUFY0a3MtZ0xHQ0JackM4YnVWa19RVDQzZUt3SV9xNkpiNmlPczAwRF9zUEFjZXAzUTV2aUlDams?oc=5",
-          "outlet": "New University",
-          "summary": "A recent court decision has removed the cap on how long international students can stay in the country and has also paused limits on Curricular Practical Training (CPT). This development affects international students by potentially offering more flexibility in their academic and professional paths in the United States.",
+          "title": "H-1B premium processing costs $2,965 ahead of FY2028 lottery: What Indian F-1 OPT workers must know about rules and cap-gap",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQjlVZnRPSjZhWHhqNjhpVnlsbTg3OU5EN0pfaGhHRzBXLWdFNVE0Wk83Wk1iTHlPNVplY2tMdG50a3VwSjB6eXNRTVFGdUxIeG03dDdLeDQ4VDZJcVJ2YVZTVG02cHRJYjFFWi1TZ20zZzBFUEtlTUZiNzhYTWkzcnc2cThHMW9fUTB0djB3bldCdU1kMEZWUTRta3RTOG5zbWJRVkZsd0JvTTZFNEFRS3B2Y0dqY1lrc0FGWDlhb05adUc3cEFIamt3UnhPbnRIaG8wTXJfZ1c5NHdwbEtkUmQxMjZFaVdjdmk5UW5VcTg2VWRmOWY1OVZVa0R2aWhhMXItZVFUZ1AtUEpJbGg3NXBNN3Z1SVdVdDRVd2JKbW1sSXZ0S1NTWmxkYzdXdw?oc=5",
+          "outlet": "The Times of India",
+          "summary": "The cost for H-1B premium processing is $2,965 before the FY2028 lottery. This information is important for Indian F-1 OPT workers to understand regarding the rules and cap-gap.",
           "about_india": false
         },
         {
-          "title": "Worried about your H-1B renewal? New DHS proposal could affect 208,000 visa petitions",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjJWdVdDb3E1VXctdUpsVEFubE5PVm5LRDNteHpPbG1wOTFveVpPYXpYYV9URVBZRmFrUUUwTHdKbnFtcElha005Q3lFRF81VWdnZVVidG1WUHN2YTlTWEc0Z1FJMWxQOENCWnh5QnVGYWtaMkkzYXNGTmZadW05VmxMMksxRUVQQmdHbmt3QTdEcktqT0hTNUIyTDlLNGxESVlmbmxB?oc=5",
-          "outlet": "The American Bazaar",
-          "summary": "A new proposal from the Department of Homeland Security (DHS) could impact approximately 208,000 H-1B visa renewal petitions. Individuals with H-1B visas who are considering renewal may need to pay attention to these potential changes.",
+          "title": "IBM Ends US Visa & Green Card Sponsorship For Most Consulting Roles, Asks Staff To Relocate Or Leave",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWk2d2FJZWlfM2RnX1pXTWRWanUyOUU5U0ZXaV9odFVVbmpwQ0EwRU9pWTg2Tmw0NG96UERESml5b01rNHh3dEtPNUV2R0RQTTQxVlMxNnBkcjZBaHV0N0FXWkZUcTVvYXhwQmR5TVRNNi1RQ3oyYmw3N3pTanI5MTVIX3lweEp6UVhGZmxOemFXbF9uUnUtOXlzV0NNS1h1UHZPS2VIejNNYjZEOWlFUXZESmNXMGRyeVRPdDVpZXdENVQ4WHdPRjZjVnJJTlnSAdQBQVVfeXFMTzI2dHlXRkVpbUFxS3NJbmJSUENmNzI2UFJkV05ablBrblFQNF8xeXRubWlfd2ZQa3VjMjdfY3RRaTVuSW5wV195c245SHp6Q2ctRExYc1dfUEgzWGhaNGJuZ2l1UENDNjh6VzN0SnpGOVdTNy1uOTZiMW1SM1BuSmRza0ZwVlF4SFAtem5ubm4xVzM2YzhtZmxQUWZVMGFDdmtwQ3RsQTdVdTFUYWNZdEk3bGJSVGFlVDI5Tk9oWm55YkVfOFZtd2FuVFpvUzJCbXZYaFk?oc=5",
+          "outlet": "Free Press Journal",
+          "summary": "IBM has stopped sponsoring US visas and Green Cards for most of its consulting positions. The company is requiring affected staff to either move to a different location or leave their employment.",
           "about_india": false
         },
         {
-          "title": "Iowa employers fear $103K H-1B visa fee will worsen worker shortage",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmotTzZsd0VicVhHck5oZHhqbWdFZGlKVVNYTUd0ZmNveTJMUHBTT3hSaC1UcW5jR3pPMHJzUmMxV3pfdTRfV3dIdkt6V1gwQ2wteGk2NGw4aDJ6OHRhRE1TdFB5RDNSbzNLeTBvd3lqUUx0bFJ5ajlnMGpta0F0MmNXaG5yUDlEWmw2WFJxTUgwUHBmQS1zb1RGb2U3QS1zbktOeEMtLVRsN3hyaVIyeEJVWHpNMjd6WERmRjU4LW0?oc=5",
-          "outlet": "The Des Moines Register",
-          "summary": "Employers in Iowa are concerned that a proposed $103,000 fee for H-1B visas could worsen the existing worker shortage. This fee increase might make it more difficult for businesses to hire skilled foreign workers, potentially impacting the local economy.",
+          "title": "Massachusetts Federal Courts Block DHS Actions Affecting International Students: Fixed Admission Period Rule Vacated, CPT Restrictions Enjoined",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQOUROVXgtb2JDM3lGRXhXTzhXelJZM2NnMEx0bElMWmF6akVxZEZ3WDRzcDJLdUNFeUVkbUt5RjBjZTJ4RVgwOUZQeFNMSGhMcVI0RHQ3WE5mYlM2R1hhei15Z0N2aHFrYkd5V0xoTjZTcXNWWUVoUFpXdXdzM3JhREJ4WGJ3ZjVndmRlLXpPVDdGWUU3bFRnVmFfcjlOeG1qcmM1RGgtUk9LOEVxYjhydnZkZjhoN2NCMGtIWm9HYnQwR0NMVUM4UGJEQzR0ZEhOd25tMm5oWXVYQkR3aFhRYkItNC1MclZKaWpsLW0zRGNBa3NyWlZHaDVzV3JfMFNSV1EzQ3o3eEVSZ0tyYVM2U21ld1dwTHc0bU5tdm80N0RMUHEzYjJXTnlncw?oc=5",
+          "outlet": "McGuireWoods",
+          "summary": "Federal courts in Massachusetts have blocked two actions by the Department of Homeland Security that impact international students. The rule establishing a fixed admission period has been vacated, and restrictions on Curricular Practical Training (CPT) have been enjoined.",
           "about_india": false
         },
         {
-          "title": "US H-1B visa curbs could hurt American workers in non-STEM jobs, study finds",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRHJ0dGhDVXlFanpXZngwcXpLNHR4LUc0RVJWakRFQ3NBVUd2WkdhcWZ2bHJWbVI3TDgxTEl3VW4weXNPSTdCTGZuVk9MbHcxbEN5cFk1NVM2a3c4d2ZGU1llSmVSWGJRbU9DV2EyRzg0RGFwazhySEFwMHo1NE1NVzB0ZENQMWd0WktSVzZzZzdUbnNFS0FCTFY2WWJxOU82WEhPcUt1aXE2U0liVWgydkpRY19FemFlYklfWXRDVlhkZW1KeEpOWFVza1N4QUpiSEZVY2ZuZVVGRmpabzB6ctIB2gFBVV95cUxNQXlXNU9uOXluVlBSd2t4QVE0XzJyOEpJU3JRanZMSHNxWC12c1BnSTZfaTF0V2pyUi1vWTJMTHJYdVo5YTNhWkhpYVljcy16anF0NF82N2pSeGhkYjRUcFBjLVpyY2JfSFQ1TmtLTjZGdWpQbmgtVWdUSUZ1cENSTTVqVWVSLTd4Y3VYR2tmWnVxWnFRV0ZvNDFQdW9fX00tVGhPSlBtUlJLTzAzc1UwQnZMaV9ETXQ2VGlmTTB5MUtTbVR3Q2UzYmhuUmZjaVh1bGs2dTFiRi1UUQ?oc=5",
-          "outlet": "The Economic Times",
-          "summary": "A study suggests that restrictions on H-1B visas in the U.S. might negatively affect American workers in fields outside of science, technology, engineering, and mathematics (STEM). This indicates that visa policies can have broader implications for the domestic workforce beyond the directly targeted sectors.",
+          "title": "US Congressman Ro Khanna flags US visa delays, says skilled workers stranded abroad for months | Trending",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX1JRVERESTNUdVdtRmhuLU8tSlBsNWpCckZTcWJNZmJQYVRNOU1KMWFiTzRUaGNsSU5nVzJXLWdILW5vWHU3OFQzZXhhRzNYbFB6TVp1ZG9felFuZHRETUJLbkFLMnkxa3QxWjh1TWQwMERTSlZRNGhOQUEzbWh4OFg1eDRZa0drLVU3Ukw3UV9kVUpwelRQY3lKZm1aclQxZzM5UzUyVlY3NzNzcnVVYUFPTmZFVXR4OHAzcWZZdTVnV3pURE4yQkhTTFNHRVFZZFJybzNGei11YlBrbDljd2YwenkyemR3ZmfSAe8BQVVfeXFMUGQ2cXhVZmotc0lCRGtqaHExMWVMejRMV0o5XzJkZXJlbUE0MFMxN3ZDVVVDSGRzaWZ1U285Q0dJazIzMHItWUVmdWZlZUdheXRidHVVWGVqNGVtYnBxclhTQUZCVTlDQmFDRW1mQUkyTWFOYVZxS3E5aVBqRDN3NGt1TWxXQnhOTGhXZmpqcVljeHpxa0JuZ2hrTjVvdmJ2b1hFM3ZOQm1xb2NIU19YODNINWtZZVd3X0FoMWRsX0ozZU8xOGpZZXZYYlRfdTcyV292Z2tueTktR3o5ZnBNakpNN3c0THUzVVNvOHFmNzA?oc=5",
+          "outlet": "Hindustan Times",
+          "summary": "A US Congressman has highlighted significant delays in US visa processing, noting that many skilled workers are stuck outside the country for extended periods.",
           "about_india": false
         },
         {
-          "title": "Democratic Control of Congress Could Reshape H-1B Visa Policy and U.S.-India Trade Relations",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjBraVJqWC1QUXN3LTVWdmxzcE5tcXIzXzBGdE0wZVNGSEVfLXJYcS1KTUFmTkpETXdqdXRtUUZhR3lqT1ZJNVZvU0RDWHFjMGVDY0NPd2RmczBBVlNvY29uVktMd1dYbHZGVXlRQW1oVDNFYWZGQlYwUHhpbmhZYURfRVFBYkx5SlpmSXdPTmdOYXdERUs4NUlrQ005VkV0eWRNVkR5WlFURmdaazRzR3VxOGxDWFE2Qk9yRA?oc=5",
-          "outlet": "INDIA New England News",
-          "summary": "If Democrats gain control of Congress, it could lead to changes in H-1B visa policy and influence trade relations between the U.S. and India. This potential shift in political power might result in new approaches to immigration and international commerce.",
+          "title": "Virginia Joins 25 States Opposing Trump’s Proposed $100,000 Fee on International Students",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXR3OHNBZVdVVXJhb2ZGSzN2eXh3Q2pucElBRWFnTFpEOUJJNVlDdUE2YVQxd3VCZFROWmJrdGN2SnlETkpPMXF2b2lLUUFuME1sZjg3Mi1Gd2NicXlXLXl4TU1iZUxIbUJHTXdUUmRiaGZsMExiWHhDZ2lPWW5WODN4NkE3aTRiRjdtQzNSNFRJWm5Wc0lpMGRDS3hieHY0eThRMFFnV2xuTzB3WmJzZzRpQ04yN29HSVM0?oc=5",
+          "outlet": "The Legacy Newspaper",
+          "summary": "Virginia has become one of 26 states to oppose a proposed $100,000 fee on international students, a measure that was put forth by former President Trump.",
           "about_india": false
         }
       ]
