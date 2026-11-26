@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-25T13:33:23+00:00",
+  "generated_at": "2026-11-26T13:33:54+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "url": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
           "outlet": "The New York Times",
-          "summary": "Jensen Huang, CEO of Nvidia, apologized to his employees for violating the company's code of conduct and admitted to making mistakes. This apology came a day after his return to the company, and he also mentioned he is seeking therapy.",
+          "summary": "Nvidia has stopped selling to four countries in Southeast Asia. This action follows a new U.S. regulation that mandates licenses for companies in these nations to acquire advanced A.I. chips, indicating a tightening of restrictions related to China.",
           "about_india": false
         },
         {
-          "title": "Hackers may have used AI tool to attack CIA and other US spy agencies",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb2JCUkF3aG1vdG82Q3RETVlIWllWMW42amgzZjJNVDcyNE9kRGlGa0dNT3FGdzVEN0VJcU13cndqZ2hHZ0NGQ3hFTGVRRW93Z1BsdTdDbkNQUGluZW04MGljZnQ3U056bGJpTHE0TmVVMTBaZ3dpTndvWHJ1WlFuc09JRmktdldKUzRfVFN6M3JmQk0yVWlzYTc1MDIybWNoWENPbDZZRldMVHdlZ2IzVUFmUC1TUXo1dEVSaWR2blcxd096eUFLWHV4TkYzYkctUHgwMWZOa2FDeHJVb0xFUWhlSm40SmfSAewBQVVfeXFMTms4T3ZBV20td1lQbGFNZWJRVFVULXZqRTN0TzFJcjVtWVZFQURQR183VjhZS2c0YUxyYkNvbmhZdkVNelNydzJkbm9ieXk2LVE1LXNYcWxlT1dEN0NXZU1TaEphUWFRRmUxVGFFVG1SQ0gwVF9hUDhiSnZfTF91dEcwbjZ6eEsxLUFTM0xJWWlUMVBncmJxRjNqYWdIYmIyVWdRR2c3cEQ5NUJJbXc4WWJHSFJ3MHJCYTBEdlV4R1lWUlRpM2tXdm9IZDFhbmYzYjJHSC01VzBTcERJcHJxZzg2SEZEZzhkcDVYMEc?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Hackers might have utilized an AI tool to carry out attacks against the CIA and other US intelligence agencies.",
+          "title": "US authorizes SpaceX to deploy 1 million satellites for AI data centers in space",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ0x2cTY1eldxQW5lTHFueTItMEJDQXlWYXJSLWQzWVdKV3Y5UVNSd2dwMUNCcVNtTTZWLVBZSklFcm11X0JtczRyQzJzV0huclBsZzdKQWJTLUxlOEhxU0tlUndoTFlyWkxIVTF4bGxwM1FWbTBEWjlpTk9oZ1RIaGtmdXVUbjFG?oc=5",
+          "outlet": "CNN",
+          "summary": "The U.S. has given authorization to SpaceX to launch one million satellites. These satellites are intended to support AI data centers in space.",
           "about_india": false
         },
         {
-          "title": "Australia Passes Law To Punish Big Tech For Harmful Content With Fines, Why India Must Take Note",
-          "url": "https://www.timesnownews.com/technology-science/australia-passes-law-to-punish-big-tech-for-harmful-content-with-fines-why-india-must-take-note-article-156564370",
+          "title": "Big Trouble For Mark Zuckerberg? Meta's AI Smart Glasses Face Possible Ban In This Country Over Privacy Concerns",
+          "url": "https://www.timesnownews.com/technology-science/big-trouble-for-mark-zuckerberg-metas-ai-smart-glasses-face-possible-ban-in-this-country-over-privacy-concerns-article-156570500",
           "outlet": "Times Now",
-          "summary": "Australia has enacted a new Digital Duty of Care law that mandates large technology companies to actively address harmful content on their platforms. Non-compliance could result in significant fines, up to five percent of their global revenue.",
+          "summary": "Meta's Ray-Ban smart glasses are facing potential sales prohibition in the Netherlands. Consumer advocacy and digital privacy organizations are working to stop their distribution due to privacy concerns.",
+          "about_india": false
+        },
+        {
+          "title": "BharatGen Patram 1.5 Explained: How India's New AI Model Reads Complex Documents And Images",
+          "url": "https://www.timesnownews.com/technology-science/bharatgen-patram-1-5-explained-how-indias-new-ai-model-reads-complex-documents-and-images-article-156570333",
+          "outlet": "Times Now",
+          "summary": "BharatGen has introduced Patram 1.5, a new AI model with 7 billion parameters. This model is designed to interpret complex documents, images, and handwriting, extract information, and process files using natural language commands.",
           "about_india": true
         },
         {
-          "title": "'AI May Trick Us': Why Anthropic, OpenAI Researchers Reportedly Fear Releasing The Latest Models",
-          "url": "https://www.timesnownews.com/technology-science/ai-may-trick-us-why-anthropic-openai-researchers-reportedly-fear-releasing-the-latest-models-article-156562551",
-          "outlet": "Times Now",
-          "summary": "Researchers at OpenAI and Anthropic are reportedly concerned that their most advanced AI models could become uncontrollable. These safety concerns might lead the companies to delay the release of these powerful systems.",
-          "about_india": false
-        },
-        {
-          "title": "Your Digital Govt Records At High Hacking Risk: Cybersecurity Agency Finds Major Security Flaw",
-          "url": "https://www.timesnownews.com/technology-science/your-digital-govt-records-at-high-hacking-risk-cybersecurity-agency-finds-major-security-flaw-article-156565082",
-          "outlet": "Times Now",
-          "summary": "A cybersecurity agency has identified a significant security flaw in DIGIT Core version 2.9, a platform used by governments to develop digital services. This vulnerability puts digital government records at a high risk of hacking.",
+          "title": "IT sector employees seek national AI layoff policy as automation threatens jobs; unions and experts want",
+          "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxPc2FFTnI5Y0ljaFhSYUZQeGlleXZYenpOMmZVVWNtMnZHbDA0N1NxVnUyVlE1R3hyWWNPWWQtVkR6NC13NDZRRnZsY1VZd0NiNFNmZFpEV0xxQnlmSHdVRDlZWExzbk9HNlQ2RzRBTy1vQXBmT3RtWFRUWkdZajBnTERMSUFIaWxTQU9CZ3FvUmJuUlVEYnhBZmhFTHpBUzlYSEpraFlwYURma0pYLTVraWpNNXJWV0l6V2NacmozOTFabllZendLOVkxUnpqR1AxMFRTd0hNbkpHdzdqenNVVnhDLTdONHdjd2xzYU1qa1o0LXJabk9KQTJ0VjFVbEprYjFHMk5NeWtpUTZEV25zZEF1TjVLekNESnJtRGxQbWg4ZVVyX1dXVXRDaXh6WVhoUnE0NWh4NzdrQUIzM3NMYVBLck5NaWJkT2l2SVFtV1hlWC1VUDFvTXBpMTBycEJLdnJySmVQQnEzNzRlR1NzSW0tRkxRQnY1M1lYc1BJbm1FZXNKSFpDcU9DSzVQWHE1YXBsazNPYlZ4ZE8zc2Zab29Wb1R6RmIyRDRRelZnTVBjLU84eGtJQmlKT3dBNnPSAcQDQVVfeXFMTjRTNlpSVmRINzJ3YXBINklqbUlYbVB0LVYzdVJKS1dZS0dRc0JWdWFhaFlOSnBSb2ZpcTZBMUpyYW4wVEJTOUsxa1NyZ3pxRVdXRHBnT053TnpKNFVPMWloMVVCTjZDMnNkZk9Zc3JBbDNGR1NIVE00UWYwUDdiazUxcGVVYTNpYUZRa3VkejlPenJkaG5RUU9qOXVXLVRrTEZ6ZmlFX3BqRW8wZEpiSUdyb01DdEVOY3lsRnNLX2VkdC1JNllKbWVYR0VQR1JhQ0RUaTBoNk5QT1d4YnJJRm93QVFaMEVSdEhvYUxpQjVRYWYxbElFd3JIcllaWlZlZGI1dFNtaHpwaTBuczlBWjgyS2xmU0Jmak9jQzZPVDBhTVB3NEdmc29GekZpQUdMcEhSQk54R0F6NkJSRHZ1T1lxUGt3TjJUSHEzT0dFOU5mdjhVMzJGdk9mUjItdUR1enROZ3lPQ3FzV0MyMDB6azcxaGFxTGFONnI5OGxhRmQwa3JZZzVlX1h0ZjNUN3kzQmRVU0FuRVV6ekJCM0lyY2owZVBzck84S05jMXduT08tMG1DdkQ5LWJPeGNteDlXSUw4SkM?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Employees in the IT sector are advocating for a national policy regarding AI-related layoffs. Unions and experts are also expressing their desire for such a policy as automation poses a threat to jobs.",
           "about_india": true
         }
       ]
@@ -49,38 +49,38 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Stock Sell-Off Set to Continue as A.I. Players Fall Again",
-          "url": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+          "title": "Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.",
+          "url": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
           "outlet": "The New York Times",
-          "summary": "Shares of technology companies, including Nvidia and Anthropic, continued to decline in premarket trading. This ongoing sell-off is influenced by investor concerns about tariffs and interest rates.",
+          "summary": "The stock market's recent decline indicates that the former president's efforts to reinstate a company's chief executive have faced challenges due to his other policies. This situation highlights a conflict between his stated desires and the actual economic environment.",
           "about_india": false
         },
         {
-          "title": "Sensex Surges Over 2,000 Points, Nifty At 25,920; Top Factors Why Stock Market Is Rising Today",
-          "url": "https://www.timesnownews.com/business-economy/markets/sensex-surges-over-2000-points-nifty-at-25900-top-factors-why-stock-market-is-rising-today-article-156563307",
+          "title": "RBI Brings 60 Tonnes Of Gold Back To India, 84% Of Reserves Now Held Domestically",
+          "url": "https://www.timesnownews.com/business-economy/economy/rbi-brings-60-tonnes-of-gold-back-to-india-84-of-reserves-now-held-domestically-article-156568821",
           "outlet": "Times Now",
-          "summary": "The Sensex surged over 2,000 points and the Nifty reached 25,920, indicating a strong market rally. This rise is attributed to factors such as foreign institutional investor inflows, gains in banking stocks, a stronger rupee, and lower crude oil prices.",
+          "summary": "The Reserve Bank of India has moved 60 tonnes of gold into its domestic vaults. This action means that 84% of India's gold reserves are now held within the country.",
           "about_india": true
         },
         {
-          "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices",
-          "url": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
-          "outlet": "The New York Times",
-          "summary": "The Trump administration announced new tariffs on several countries, citing unfair trade practices. This action occurs as the administration faces legal challenges and increased scrutiny from the new Democratic-led Congress.",
-          "about_india": false
+          "title": "US targeting India's manufacturing schemes while protecting its own industry: GTRI",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/us-targeting-indias-manufacturing-schemes-while-protecting-its-own-industry-through-tariffs-gtri/articleshow/136186595.cms",
+          "outlet": "The Times of India",
+          "summary": "The United States is examining India's manufacturing programs, such as the Production Linked Incentive scheme, and considering tariffs of up to 25% on Indian goods due to concerns about excess manufacturing capacity. India asserts it does not have structural excess capacity and is in discussions for a trade agreement, while these potential tariffs are said to target multiple economies.",
+          "about_india": true
         },
         {
-          "title": "Why the Nvidia Rally Fizzled",
-          "url": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html",
-          "outlet": "The New York Times",
-          "summary": "Investors are reportedly losing confidence in the artificial intelligence sector, which has impacted Nvidia's stock performance. Despite Jensen Huang's leadership, the enthusiasm for the AI boom that Nvidia has supported appears to be diminishing.",
-          "about_india": false
-        },
-        {
-          "title": "Centre Approves Rs 11,000 Crore Scheme To Boost India's Construction Equipment Manufacturing",
-          "url": "https://www.timesnownews.com/business-economy/industry/centre-approves-rs-11000-crore-scheme-to-boost-indias-construction-equipment-manufacturing-article-156564687",
+          "title": "NSE Becomes World's 3rd Largest Stock Exchange By Market Cap, Surpasses London Stock Exchange",
+          "url": "https://www.timesnownews.com/business-economy/markets/nse-becomes-worlds-3rd-largest-stock-exchange-by-market-cap-surpasses-london-stock-exchange-article-156568832",
           "outlet": "Times Now",
-          "summary": "India has approved an 11,000 crore rupee scheme to enhance its construction equipment manufacturing sector. The initiative aims to decrease reliance on imports and increase exports over an eight-year period.",
+          "summary": "The National Stock Exchange (NSE) has become the third largest stock exchange globally based on market capitalization. It has surpassed both the London Stock Exchange and Deutsche Boerse, reaching a market capitalization of $64.1 billion.",
+          "about_india": true
+        },
+        {
+          "title": "Bulls back in charge, Sensex jumps 1.5k points, hits 84k mark",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/bulls-back-in-charge-sensex-jumps-1-5k-points-hits-84k-mark/articleshow/136175603.cms",
+          "outlet": "The Times of India",
+          "summary": "Indian stock markets saw a significant surge, with the Sensex climbing 1,500 points and reaching the 84,000 mark. This rise was driven by strong buying from both foreign and domestic institutional investors, along with declining crude oil prices and a strengthening rupee.",
           "about_india": true
         }
       ]
@@ -90,39 +90,39 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Trump’s Intervention at Nvidia Sparks Bipartisan Backlash",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelhXSUR1Q0FjdjVoT1ZvZzU5cjQ1V05UeUVGMGpDbF9fWkplY1VtSDR0VENIclZ5dzdqWkczMmROR1dvdE9MeTFIS19fTk1LMlFWRnhBTXBia1ZfUGFLUDhzbkprNjZweXdhZUV6Zl9HMTRNX0F5Q1loLVEyM2lqcG12R081R1dzTGRMVng1WE4zdlk?oc=5",
+          "title": "'Are we your servants?' Congress MP Imran Masood continues tirade against ally SP over seat-sharing",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNWGdzUmtqT1NlSGFYU2ZuZWhHOG1vbEpILWo1STcxb3dUTUtwY0k3V2ZKTjVFN2hvazJnMVJKRHdSclBNZ05xblVJaWJ4eGVxeUpHYXFOaklCMDdEbEdjcUNsM0RsemE4dC00MjlBaHpHN1kyS2xMU01hdW1SaGhaajdQci1zVWRHd2k4Y2tLNU10dVFuaGpwdE9mVXdoX0ZTVmQ5aWlMYkhKZHh2bGJ5Ym5XbDAzZGxiN1Q5ai03Yk5JUkZoZmh2ZHJUOGJ4bGpzNG40LUJ5RVgtUVZQWTlkNnY5ZVFpdHpwei1XOWktcERzVjZXbjh4eEI2T2FMSlhZbk43RFVSLV9DdDlEMEtYZ3J4MDl3b0lKWGdreGIwMWN1VmgtcEpBNXl0Nks5dlFhcFpuYUk2dnlrV0RJWXNiQndwc2d6clXSAfwBQVVfeXFMTVVBbXN0dXg0dHY3Ql9tZVMwU2h4RWJvclUzMDdNU2ZwbE40Zng4MWlyMzlTMEdIaE90QlhNZ3VoQXNINzJVUW4tZEgtOC0zQTlVVFREUHgxX2dZazUtbEFWemJIb3k1XzRKOUtZc0xLZWpaMHJkTVRoeXVyc05SbTA2dVFXSTJ2RHJzcTBDVUNSdTdVa3Q2WFBjZ1R1SGZ5X2VYZWZaYkNPWWoxeGdUYnZ3dDJjcGFoM3lWMmIwNXV2Y2szbjRKZjdKdFVFV1k4d0xpNkxQSlJCNWtTY04yOFJ1R3hWNVdORUdaOEhvTG5ZZmpQSnVENWplYVlo?oc=5",
+          "outlet": "The Times of India",
+          "summary": "A Congress MP, Imran Masood, has reportedly continued to criticize his ally, the SP, regarding disagreements over seat-sharing arrangements.",
+          "about_india": true
+        },
+        {
+          "title": "'More obstructionist than opposition': PM Modi accuses Congress of weakening democracy on Constitution Da",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeEFrWHNaQ0RaSEpJUmd5NU9Ta0FSUF9MdnJEMThqdmZpdGV5bnJTYV93X20xbHFIR1JIZ3lPYmhpelNIQVdEWUh0OTE2cU1ObHRUNDJ3bE5STUVCZExOYURJcFdvQkpNZXFJY1Y3SklwZkVnanV0c1RqTW5DZHpkVW1abHZZUndoNHhPOUttX0JzX0lkOEZFR3F2YXlaTnlPZGtXOWhBbjY5THJYbEphY296cDIxXzY2cHhOU1ZKcXprZ0RQanhRS0JwSXdvRl9ITmV5eUM3NGo4N1lCekJFWERfLXE5cUZzZFVhNzB5NVViNXFkRU1ubEd2cUFUWm840gGGAkFVX3lxTE1kOHJRSlIxdU9WTnIzcFFuM2VadXJKOXhobEJsSU55eHFqaTY3TWhUci1ubHFpc1dWTGVmVjc1UHVNWTU4TllWZE4tWU1jRWRZdWxFcm9WNXZPV09Gd1BZN2QyLWNTZUY0eVZGZTNqVEh6QmtTSV9NNmZidFFlVzV6TFB1Uk1uQjI2ZkdyUHItZWtOWUd2TUotWmctdjBkNTNLaENqT25EWVZyRi1tbmRlNmhpOHBtOWpldWdaend4SGNZbkx4UGlTblJjZ1MyM3JYMGtuallRRlZ1RWxXWHhSX193aXM5VDNrRlYxZWdwbjFzcWlCLXl4Mi1pX0xSUmdJTUQ2RXc?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Prime Minister Modi has accused the Congress party of weakening democracy, describing them as more obstructionist than an opposition, during Constitution Day.",
+          "about_india": true
+        },
+        {
+          "title": "Trump Floats Pardon for Nvidia CEO Jensen Huang",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb1NkWG9ETnVpZE9uWk5xRDlWZU02bE16aERkNm5YYVdVb2w2UWg2SWhxVmN0dk9Kd05qbTBlcTB5R3JVTjc4SmNLWFJwY2NOSXJubHFMUFJGeThwSzNnTGhkZGRBUGNzU2J6dTVyczBrUVYwQmxHa1pLNmMyQkVfMWdOVTY3Sk9fZDV3S24xNlJsUVdpYWhub05NU2tEQQ?oc=5",
           "outlet": "CNN",
-          "summary": "There has been a bipartisan negative reaction to former President Trump's involvement with Nvidia.",
+          "summary": "Donald Trump has reportedly suggested the possibility of pardoning Nvidia CEO Jensen Huang.",
           "about_india": false
         },
         {
-          "title": "In address to jatha from India, Pak PM’s son calls for dialogue, reopening of Kartarpur Corridor",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPV2dsaWdnbTlvMzdBekhXajU2Ny1NbFc1azVNYUJTUU1QREJRakdyZHJ2VFFabWp6ZXR3UFdlWEU2aXl6RmdVdU1NOU4zZHFiWGxjVFd6X1dKRkNQX19vNmt3TDFNd29NOVlleWJHbE1EeGxTR0FWVnZHc3V6dVJseXlJbFpvRW9JOTJMems2OTFxODQ1ZW0tQ29ERE9QOVUtY2xlcG01RXVNU1UzZFhkMlJFV0VCYm80YzRCVDVqS1d6S1JFOEdEWFlKTGVDYkROeGItd0x3c2Z3VzhYSUEyZDViSmVwOWl5b3pwaW5XazJFUzE3RlVFcXZlNFgyM1Fh0gGGAkFVX3lxTE1EekJZS0Noa2k3NEpiM2tXMUp1UENJeWhVSC1VckVENGxtdmNxaXBzOEJmS290cF9Yb2s1YktvTVFMU3Nxd0hhUV9yaWRpQThyN2lEOTBEc2lSUllTY2J5VFgwZFd0YjBPMTNBYm45RDYxdHpfcE5TcHJLRUlDQ0NPWVVkQ1RHY3BlV0ZaNnJHa1JHUXV0cEw1VmRPdEdmalUxeW1NOXBOWnRNN3JYT2lIQjVCNWVKM2JvWmpBTGJlTnZXZWZkTDNSR1Z0czNXc1g3VHE1RElzemFBaHVxQTI1alduRlRUdEZjQ0lnUGp5Y3RRQjFDNDFvMTU1VDNvY0JYSWF3Rnc?oc=5",
-          "outlet": "The Times of India",
-          "summary": "The son of Pakistan's Prime Minister has advocated for discussions and the reopening of the Kartarpur Corridor during a speech to a group from India.",
-          "about_india": true
-        },
-        {
-          "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
-          "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+          "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+          "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
           "outlet": "The New York Times",
-          "summary": "U.S. intelligence agencies, including the C.I.A. and the Office of the Director of National Intelligence, experienced a security breach involving some unclassified data. This incident highlights ongoing concerns regarding cybersecurity.",
+          "summary": "Despite bipartisan interest in regulating artificial intelligence, efforts in Congress face challenges. The slow legislative process and disputes over jurisdiction could hinder the development of AI policy.",
           "about_india": false
         },
         {
-          "title": "Rahul Gandhi assets case: SC quashes Allahabad HC orders seeking CBI, ED inquiry",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYWZJT0llclk1aGtVZ2ttWUdCU2Rhd3lYT2t2ZFFHSVBhWEpzSEhma1duQU12WWlFWmhCTEJ2d2tvbmo5enZDZWtYaHZaUGY4dGpuZXlWT2xwVU5yT1hIVk1CV2VOdElJS3ZmdHdrS0M0bTU4NktlSVpEYWcyMWdZN3FxQXQwVkNtUGQ3dE9kbUtQUWNDbDZaaFA3ZjFmUU16cV9aanpjdHowQ3Zfa0FtWmVLcklSdm5CSEhnaFpRa3ZHQ3ROeWFjUkl1SVlUWVJPYTVaLS1vOTNONW1Xb3lj0gHkAUFVX3lxTE54aV9XbUl0anVqWTdvbUVSRmwwRF9XanhDYmpGblVxTWxuN1ZOZTVsYkh6bGl4MkxYYldRRUFJNnd1UGJ0U210emYxS2RqYkxPMDU4Q01uV3FkS1U3MG1fU1N5ZTlWR3pXS1pSdHZvamxrdDNMSEZOVTZYS2wwQ2lsRTUwZmFaNzN1NkRoc1VMWHNWbHM3bFZ3OVV6YnQxcGpDcHZVdHdLaV9kaG1zS1A1cVZTUDZkcWdDejAyYXh5RTVrRHVsY2VCczJMeDlDanFQYTBVYWNTTXlrenBTdHp0aHRLNQ?oc=5",
+          "title": "US panel backs Dalai Lama’s succession Trust, as India gives it a Delhi base",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMTdwcGFjbG1BTmVrT1ZEaS1QVlluWi1RVS1ycTJ6dE1lZW51eXgwa2FtbWZqQmJjLW1QZlRMaEM4SW9GS0c2YVFISU1NSWN1Q2hCM1RkVnJmLUJ5cWpTSVBPNWxCcGZxOEdJdGktOEF4YlZTcG1xQlliNlZQejVxby1xYnVHOXdwWmdqOUh2NjlCV3B5Y3JmUVNLU2xWU1JpTnpjc2ZSemlybFl5Z0FfUHJTQmFaRDh6VkdTdUVPTVNGVm1rMTI5RVE4Ny1TVFpYRUVSWG04QlRHR2Y1MUtYa2duWTdxR0nSAewBQVVfeXFMUGxyelNneVA2azFHYTZnMlJEREc4cm9ZdFJvQ1R5Zm9hNk0wZjhlTFRGUlJIVlU2REhoa0pKaUFUVkhrWFY3TjU5eGlWd1ZvUmVHTHFpZkhYcC1ZOV8tQnhxcUZ0TncxSUpLSUhWSDFXU3JRNFVkcVJ0X25RVFBQQjNYcGZXT1NnZ1VVdUowaVJCWEdScnN5UXNJV2licE9xQzQta0d0RG5jZDBTYno1cXhXeENqanZWWThnN29WZGRCVzQxUWhHTThLblVOU0tqenlabzNRdDFXa3V2R0pqVUhtVmwzMF9heWRjMlU?oc=5",
           "outlet": "The Times of India",
-          "summary": "The Supreme Court has overturned the Allahabad High Court's directives that called for an inquiry by the CBI and ED into Rahul Gandhi's assets.",
-          "about_india": true
-        },
-        {
-          "title": "6 years after split, Akalis & BJP tie up for Punjab assembly polls",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcDBmQWFIWkc0SVZIRmJleUQ1NHlKLTJoSnhwMjVRZXlFT1FsNkc4QWlockNQbzM2c2lMZ1BNY1pKcThmUWNqQlRpOU1pSFliRlpNWWxIbVU0UU9jSVNiNG1JYzNqVnBJaUQxTjhnMVN3cHQ1eVFCcFJpMmhRRU5ZWGdOV28xUnRlRzZndGtQUENESFdMRVpRU0U0dF9QUG1TOHVfSlNHZ3B5WWluaEY4QTUxeUxmMGNOWFJvWWxuQlRSTFJZeTE3RF9RRdIB0AFBVV95cUxPR1BsTWt5SDVQS1VZVy04OGx2dm9lZGFZNkRyaUhYRE9GMF9mX0xRYVVKdmJjczc2bjBTZ0h1VUxmUHo1VW1OdmR5T1BTek1XSkw1eFFocS1RNGtYUHVYRXdoejV1SmV3NG5xd3BkQ0tjNFNlcEUxdXpMODhheEFqLTJOcTRkSExGTUw2TGp4WUVwdVVlM0xVQXNTU0JSUWtCUktWeExiR0t3TUVEUVBWZnFhOXJFU0Q4X0hWRGdQZ1Q3MmttTUt5SmxJZzY5LTlH?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Six years after their separation, the Akalis and BJP have reunited to contest the Punjab assembly elections together.",
-          "about_india": true
+          "summary": "A US panel has supported the Dalai Lama’s succession trust, which has now established a base in Delhi, India.",
+          "about_india": false
         }
       ]
     },
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "H-1B premium processing costs $2,965 ahead of FY2028 lottery: What Indian F-1 OPT workers must know about rules and cap-gap",
-          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPQjlVZnRPSjZhWHhqNjhpVnlsbTg3OU5EN0pfaGhHRzBXLWdFNVE0Wk83Wk1iTHlPNVplY2tMdG50a3VwSjB6eXNRTVFGdUxIeG03dDdLeDQ4VDZJcVJ2YVZTVG02cHRJYjFFWi1TZ20zZzBFUEtlTUZiNzhYTWkzcnc2cThHMW9fUTB0djB3bldCdU1kMEZWUTRta3RTOG5zbWJRVkZsd0JvTTZFNEFRS3B2Y0dqY1lrc0FGWDlhb05adUc3cEFIamt3UnhPbnRIaG8wTXJfZ1c5NHdwbEtkUmQxMjZFaVdjdmk5UW5VcTg2VWRmOWY1OVZVa0R2aWhhMXItZVFUZ1AtUEpJbGg3NXBNN3Z1SVdVdDRVd2JKbW1sSXZ0S1NTWmxkYzdXdw?oc=5",
+          "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company; December 31 deadline set",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWW5BcUd3T0NqVmliX2tXSU1rVFFOSmdOeXEwUnliRExkTUdMY29CVzZaWUlCWE5JaHM5NmVUSmlxSEVBdTY3dmh0VU5FNFpkZ0tkUi1iOV9ZN0pwUUFOSjRYUEdrYUMyT1BfZHFGTVV4dUxtdHV3LTY4VGVIOFFFckxGb0cwZDR5OEdrd3ppUHc5SXZFbG1BVVU1M0hJZGxTRlIwSm5LT0JYa1g5bGVocFFmcmNablF0WkNuX0NuMDlWRnNtbnlZZ2lYR3pWRHUybWJZZ0V5VjFKUmR1Q0szeVloNzIzdWNxT293TExxTEZrcXZjc0N5dUJ30gH_AUFVX3lxTE41NkxualFfSWxJZHZxdFFhdDI1S1BFa2FhUE1pMVE5dXpVcGpJeXRHMi1lUE5oc3pHRGExZ0RtekVscGl6ZEgzdVlVZ3pLVFgwOGxmUlhnaDNNeXJLSEtwSk5hZ0F5NXp3cmxzUzgtYTRrSzNZNkhXcUZOc0dYNFVCV1p0cnAtWGJRWUNOR2l1MjRsS2RFek9La3Uya000d1NhTW9LSGNpeW0xTFNRRlE3WTJ5bmxhMjdzQnl6a2ppSlM0eDV3d3ZhSGQ4UTRVZjIyN0x2X0dhQ21hcG15MFJlRkNrMk9tMjF1eEpTLUVyenVEbUpwM2JJWTZ6T3U2QQ?oc=5",
+          "outlet": "The Economic Times",
+          "summary": "IBM has given employees who hold H-1B visas and green cards three weeks to relocate from the US or face termination. The deadline for this decision is set for December 31.",
+          "about_india": false
+        },
+        {
+          "title": "US green card process may get tougher for Indian workers as Labor Department releases revised PERM form a",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZjgxM2loNWZBVU9haHJCTFlhU1lMeGJRbE93Z1h4SktyZUdTN0pTeDBHY0VnaHpqTWVVVHpQM0pZOEFsQU5QcTVkUWFhc3lxZEVhNTRWNHhnMEJaVjhaUW9sT0U2Y09RYVlxVHJjMS1ZcURZY01uWEtWT09RQ3JrNHd0ZzhBeVo4dWc3dTlPUUZsbzdrbDZhaGdKUUl6X1FFTUlpVGJqQkVHeGx2ZVlzMmpqR2VoM0VKMzl0ZlBMSU8xVWhwTkZXVnNOc0VYNlRoN2d1RGYwZVgtYmI2VWVEOHRGdVB1ZDZVYWJiSkxaeE5aWXlMcWwta01zV0dqTml2a3FzZTJmYmE2QXNjWngtci15TmtXM1RseHhXdXdKb0dtRElGMVNDVHFLdHp2NTZ0OEZPanNLamdJQlFKbHBzRk5CNVFLalNwX0NIVWtnd0lIRkpzcUdKRnZvdWxoSGJpalM4clVlR1rSAe4CQVVfeXFMUEV6V1BtS25jZWNNaldndF95c3d3N3RqUVFRa3B3RjhGY3diNXZwYW80bHk2eFhqX2tTUVVlZ1FPM2NpOGc5eWlpdU96QXdqLTJGVUtEdkpxdXFCdjJHR0JjZ0JlMFdJY09UYkZxSGFrdUtldWhFMUhBZGp2LVRBOGtaUmpwSlNTMnVybzBxM3luRkR4RkpsUE4zOG5SdENydzdNTDVNM2t2SF9KUWptVXlEaldSMVJGTTBwT0RFUzFPTXBEWHdfVHUwUURYYUtNSU5FdFRJZkY2SG9RVlY5R0xUbTVILVg5eHRqdzlEaTBoNWwwOUFIZzZyNzRENFI5eE0zVWJkYzF1NHRleGV6NzJUejNmbmJ2SlFrdUstbHlOWlpTWWVlNk5hTWV2c1VVanVxZkxaRlVnVlFpUXlHZ2NOSVllOGwxeFVHdl91U0hsLWRkYkRBUFZ0dHY3TEU4Wi1aTDh1T1I2dlhUSHBB?oc=5",
           "outlet": "The Times of India",
-          "summary": "The cost for H-1B premium processing is $2,965 before the FY2028 lottery. This information is important for Indian F-1 OPT workers to understand regarding the rules and cap-gap.",
+          "summary": "The US Department of Labor has released a revised PERM form, which may make the green card process more challenging for Indian workers. This change could impact how foreign workers obtain permanent residency in the United States.",
           "about_india": false
         },
         {
-          "title": "IBM Ends US Visa & Green Card Sponsorship For Most Consulting Roles, Asks Staff To Relocate Or Leave",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYWk2d2FJZWlfM2RnX1pXTWRWanUyOUU5U0ZXaV9odFVVbmpwQ0EwRU9pWTg2Tmw0NG96UERESml5b01rNHh3dEtPNUV2R0RQTTQxVlMxNnBkcjZBaHV0N0FXWkZUcTVvYXhwQmR5TVRNNi1RQ3oyYmw3N3pTanI5MTVIX3lweEp6UVhGZmxOemFXbF9uUnUtOXlzV0NNS1h1UHZPS2VIejNNYjZEOWlFUXZESmNXMGRyeVRPdDVpZXdENVQ4WHdPRjZjVnJJTlnSAdQBQVVfeXFMTzI2dHlXRkVpbUFxS3NJbmJSUENmNzI2UFJkV05ablBrblFQNF8xeXRubWlfd2ZQa3VjMjdfY3RRaTVuSW5wV195c245SHp6Q2ctRExYc1dfUEgzWGhaNGJuZ2l1UENDNjh6VzN0SnpGOVdTNy1uOTZiMW1SM1BuSmRza0ZwVlF4SFAtem5ubm4xVzM2YzhtZmxQUWZVMGFDdmtwQ3RsQTdVdTFUYWNZdEk3bGJSVGFlVDI5Tk9oWm55YkVfOFZtd2FuVFpvUzJCbXZYaFk?oc=5",
-          "outlet": "Free Press Journal",
-          "summary": "IBM has stopped sponsoring US visas and Green Cards for most of its consulting positions. The company is requiring affected staff to either move to a different location or leave their employment.",
+          "title": "H-1B visa delays leave skilled workers stranded abroad, says US Congressman",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2Q1cWp1dTItbkxXdzhaeFFCRUFrQ2t0RElPOHdzN2NVY1MwZE02ckRVcHpOSGtPLUF6RUNoaDF3azFOdnlHb1poaTlXTFhJXzBKZXkxbFAtV0dFVFdvYWs2NUhtb2JJODhHd0lVMkc1WXJsRVRndENBSUJVN05GZVVXdlhxU0E1U3NTRXhPUi1oa3ozekZQVEIySW5SWGpoSHlzcnJqZ0VIdU1XTnJpWWNzNV91ajlmZ19QR3hGdW5lTDZqeWVDMWc3aFZfTThrU1pCNHl5QdIB3AFBVV95cUxOME9rRWhZMVV3WE5qRlZRQjJKa1NqcWJSRHkxcWlRU2d2TWxKbnNhN0VyYkxEWGFQNzYwY0pPNzRmTDhSbkp6V1gwVWZxb21vdzVvODl5Yl9ZTzR3RFVyYnVQWDlkV0UzdFQxVy1uUTduOWxGVXZKcmhISlBpbUpiZFV1LUNINmNYa0NKaUpUY2w4Ukd6VkM4Vnc0SVFVbDc0ZEpkTV9aQUVwaHVkLURTQkJqV2I4NldIOF82UE1UcGdLTG4wYVV6dUgtaGZUcmRxd0I4M3pMRFozbEp2?oc=5",
+          "outlet": "Business Standard",
+          "summary": "A US Congressman has stated that delays in H-1B visa processing are causing skilled workers to be stuck outside the country. These delays are affecting individuals who are seeking to work in the United States.",
           "about_india": false
         },
         {
-          "title": "Massachusetts Federal Courts Block DHS Actions Affecting International Students: Fixed Admission Period Rule Vacated, CPT Restrictions Enjoined",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQOUROVXgtb2JDM3lGRXhXTzhXelJZM2NnMEx0bElMWmF6akVxZEZ3WDRzcDJLdUNFeUVkbUt5RjBjZTJ4RVgwOUZQeFNMSGhMcVI0RHQ3WE5mYlM2R1hhei15Z0N2aHFrYkd5V0xoTjZTcXNWWUVoUFpXdXdzM3JhREJ4WGJ3ZjVndmRlLXpPVDdGWUU3bFRnVmFfcjlOeG1qcmM1RGgtUk9LOEVxYjhydnZkZjhoN2NCMGtIWm9HYnQwR0NMVUM4UGJEQzR0ZEhOd25tMm5oWXVYQkR3aFhRYkItNC1MclZKaWpsLW0zRGNBa3NyWlZHaDVzV3JfMFNSV1EzQ3o3eEVSZ0tyYVM2U21ld1dwTHc0bU5tdm80N0RMUHEzYjJXTnlncw?oc=5",
-          "outlet": "McGuireWoods",
-          "summary": "Federal courts in Massachusetts have blocked two actions by the Department of Homeland Security that impact international students. The rule establishing a fixed admission period has been vacated, and restrictions on Curricular Practical Training (CPT) have been enjoined.",
+          "title": "Texas governor Hinojosa plans to lift H-1B visa freeze for state agencies",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRFhLdkdvV0R2S3psbDZkRTQ4b3BoaUZaNGpCcDFBODBuVUI3RjR0WUFzSXhCV0tUUG5OZ1FtNk5mYXkwNm42b01RS1cyX1lyWXp5TjN3ZjM1emxaMDdkNTdyd2R2TllkaHNlaDVvWkJWUm1sQTZySlhBajZRaXN4OUk0R2ZrLW4tdjdWR2c4WjdWLUVHN25faGhTbTNnLUdYanNXaWI0NVhLSzR4MmhmYm5hb0FNdzVPUmJ4cjIxN0tIclhMSjZXeGpzdUlsQXhmUXgzMFJOdURkUDlHT0tr0gHkAUFVX3lxTFBiLTNLdXhtU2xjc093a3lkLXhSQ1JEdmJqYnhSTnRxSkkyTDh5V0xlYmJELWpkMVZuaVd4QzdRdVd4eDVRMkFRSXlydWp1X2dLR3lkUncyb0FRcEJyc05aUlZaU1BjcTFUR3hTZ1ZOVmNYaHdKTEdZYi1oT25wN1BRaWpoSk5jREdScS1lTHI5b0dyc0dtZF85N0s2ZkJTWGE3U2xkaTQ5TTNrRGwydW45M2JqWWg1dVpmVlc2bzIwMkx3dkVDQXR5YnZkRHRxMWV1cGhXbzNYLWhsQ1lXRnNsZVRJRA?oc=5",
+          "outlet": "The Economic Times",
+          "summary": "Texas Governor Hinojosa intends to remove the current freeze on H-1B visas for state agencies. This action would allow state agencies to once again sponsor H-1B visas for foreign workers.",
           "about_india": false
         },
         {
-          "title": "US Congressman Ro Khanna flags US visa delays, says skilled workers stranded abroad for months | Trending",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX1JRVERESTNUdVdtRmhuLU8tSlBsNWpCckZTcWJNZmJQYVRNOU1KMWFiTzRUaGNsSU5nVzJXLWdILW5vWHU3OFQzZXhhRzNYbFB6TVp1ZG9felFuZHRETUJLbkFLMnkxa3QxWjh1TWQwMERTSlZRNGhOQUEzbWh4OFg1eDRZa0drLVU3Ukw3UV9kVUpwelRQY3lKZm1aclQxZzM5UzUyVlY3NzNzcnVVYUFPTmZFVXR4OHAzcWZZdTVnV3pURE4yQkhTTFNHRVFZZFJybzNGei11YlBrbDljd2YwenkyemR3ZmfSAe8BQVVfeXFMUGQ2cXhVZmotc0lCRGtqaHExMWVMejRMV0o5XzJkZXJlbUE0MFMxN3ZDVVVDSGRzaWZ1U285Q0dJazIzMHItWUVmdWZlZUdheXRidHVVWGVqNGVtYnBxclhTQUZCVTlDQmFDRW1mQUkyTWFOYVZxS3E5aVBqRDN3NGt1TWxXQnhOTGhXZmpqcVljeHpxa0JuZ2hrTjVvdmJ2b1hFM3ZOQm1xb2NIU19YODNINWtZZVd3X0FoMWRsX0ozZU8xOGpZZXZYYlRfdTcyV292Z2tueTktR3o5ZnBNakpNN3c0THUzVVNvOHFmNzA?oc=5",
-          "outlet": "Hindustan Times",
-          "summary": "A US Congressman has highlighted significant delays in US visa processing, noting that many skilled workers are stuck outside the country for extended periods.",
-          "about_india": false
-        },
-        {
-          "title": "Virginia Joins 25 States Opposing Trump’s Proposed $100,000 Fee on International Students",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXR3OHNBZVdVVXJhb2ZGSzN2eXh3Q2pucElBRWFnTFpEOUJJNVlDdUE2YVQxd3VCZFROWmJrdGN2SnlETkpPMXF2b2lLUUFuME1sZjg3Mi1Gd2NicXlXLXl4TU1iZUxIbUJHTXdUUmRiaGZsMExiWHhDZ2lPWW5WODN4NkE3aTRiRjdtQzNSNFRJWm5Wc0lpMGRDS3hieHY0eThRMFFnV2xuTzB3WmJzZzRpQ04yN29HSVM0?oc=5",
-          "outlet": "The Legacy Newspaper",
-          "summary": "Virginia has become one of 26 states to oppose a proposed $100,000 fee on international students, a measure that was put forth by former President Trump.",
+          "title": "US student visa rule struck down: Relief for Indians, but what next?",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM0dQbHNGYzE3MjN6RG9kMUdCS0F0UWd6VXpPSkhhV2c2RnBkMVNEWEFmR3ZaSWtmQTU1SVF1OXNUdE1qcGIxX0g2aGoxLTY0WTFUVy1POUFfRnJLTmQ3d184SjNUZE1raVV2c19RRV9iUmZrU0VCRzFValdXVlZxb3dBYl9waFZCSXlhaVYxbk1fOXdlUDluZUVyVzVTWnQwUmtoUkR2bTdiVWw0eWpLVE1XeWt5OE9sV3BFcWJxZE5odWJKckxsNmtYS1hVM0pw0gHQAUFVX3lxTE8zR1Bsc0ZjMTcyM3pEb2QxR0JLQXRRZ3pVek9KSGFXZzZGcGQxU0RYQWZHdlpJa2ZBNTVJUXU5c1R0TWpwYjFfSDZoajEtNjRZMVRXLU85QV9GcktOZDd3XzhKM1RkTWtpVXZzX1FFX2JSZmtTRUJHMVVqV1dWVnFvd0FiX3BoVkJJeWFpVjFuTV85d2VQOW5lRXJXNVNadDBSa2hSRHZtN2JVbDR5aktUTVd5a3k4T2xXcEVxYnFkTmh1YkpyTGw2a1hLWFUzSnA?oc=5",
+          "outlet": "Business Standard",
+          "summary": "A US student visa rule has been overturned, providing some relief for Indian students. The future implications of this decision are yet to be fully understood.",
           "about_india": false
         }
       ]
