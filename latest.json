@@ -1,45 +1,45 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "timezone": "America/New_York",
-  "generated_at": "2026-11-27T13:33:40+00:00",
+  "generated_at": "2026-11-28T13:33:11+00:00",
   "sections": [
     {
       "key": "tech",
       "title": "Tech",
       "stories": [
         {
-          "title": "After CIA And FBI, Hackers Now Breach US Air Force's Key Cloud Platform; Sensitive Military Data At Risk",
-          "url": "https://www.timesnownews.com/technology-science/after-cia-and-fbi-hackers-now-breach-us-air-forces-key-cloud-platform-sensitive-military-data-at-risk-article-156576129",
-          "outlet": "Times Now",
-          "summary": "Hackers have breached the US Air Force's Cloud One platform, a crucial cloud service used for military applications. This incident is part of a growing trend of cyberattacks targeting US government agencies, putting sensitive military data at risk.",
-          "about_india": false
-        },
-        {
-          "title": "Florida man used AI to clone a popular streamer's voice and trick crypto investors into $260,000 scam, US",
-          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNdFhZYzlLZElvRHVSc05FUU1BbGNUbTJSS01qTEZYeGpYOGN4REFyN1ZmeTZ4YUNjNXpldDVtcTZrVUxSSHlFUW14d2pSTjBBRUNtQlpJdUN2ZVVmTXVmYU1hRDQ1SnZBVHBYUG52MVdwNU9ueEZuanZyYkJKVTZjcGU5eEk1dDRKRjYwWjMyODZ2REUzcFAzQ1c4aGNsZWVHX1FDZUhkQk9ScjVhU2VJbEhpdTZkRG4tbGRNUlhnWWw5QzN4YnFpWDdhMVVESmRNb0xJUWpqaFVlbER1b0VUZWdRMnR1aW9MNlBXYjZ3c0lCZmxYNm1CR1hodGc4NlNYQzdpWjczckVMUFRCa29qN3pRcU5kdnlEekROdHV5eWxSOEpNSVlzV2RkSDREVkR2MmRERzg2WkpKN3BLSG9iTk1IQmRuR2JRUzd1NW0zWXo2R2lRRXg1M3V6dG42QWFKVXowY0Fn0gHrAkFVX3lxTE5oZjRsX004cm56WGVfM0F1MlNJOHFoYmpjZ1Rxb1NwQXBtbmR0Qy1tZU1ORlIwZ2J3Z2ZOS1ctWlY1V1FUbTJxYkJadnNrOWxCa2N1NlJzNXB1eC1ONHlhLWlPRVFPcGdiUkFwZ1ZYUXoteWYxNWhGM2tHZGkteV9lbmVfUEZlc1hzTGI2U3J4SnJtZEs5eGw2UE9zaEZVelNzVzFZWFZZY2I3MVNZaEN4OHE3NUticTFsQXhoSjZ3TEdEMmxobzAzTGZMX2xESjRLb0M2ZlVuSERYSmd1ZERfNFlTZUFCT1BZSGRYU3dFQ0NSWEVHazF6cUppVHFQeV9pNmcwaGVOLVY5QjZnWmpCNG5HVmhrZE9nSlo0cktwSHFjSlNDNXBkWFozRkgyb0R2cmJUcmJWczZRdUhqNXlUdG9iM1REMjNYUXU4bUZLUDdWb3MzdFhobXVBX0k1UzVBUkRicGV6dlBKVQ?oc=5",
+          "title": "OpenAI sues Apple, claims iPhone maker rehired ex-worker to steal its secret AI device plans",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYXJSaHQxTmpBVlJKdFNMYmxBWDAwdEl6MnJGQldJYWwyVmo2YUdHTlRoUTJMeUlrWTQtUjNISjFTWGV2c2dGTU56eE5wOUpnbjdtd2tTQWdCcVN0cW5wdWt5R256akdLaGRZdHVlV1ZpNmhrbXBfQ3BqMnU0NUFmQXRMdzAtN1dHYWlIbERudmJYaVc4RER2aUNNTFliNkQ4dGZBN3B0LU92Y29iZnFsZDh5OXIzSHpfMUh1MkducW9ORmdKYUlsVWlBZVFKRDBCWS05a1VUVzFGRi1iOURiN05xbkY3cHVSenV1d2hOakQxRVJIclBFVWxPMzc0dVhHaDNDctIBigJBVV95cUxQZGd0b2hZNWZxRm16QlQ4ZGI5bWthNXBWSlItOTR1b3ZnVW9EcENtNlRWMnpFMlZibzU3Q2hsc3VNZ2JUUjE2dWJndy11VDVfWnhCMmxFdkxXV01JdnBnV3gtU2pwYkt1NWY5d093RXh5LXRYWWYtQjg2a3FuWXdNZzYxeDRabFpnMVlZSDNyWFFhLXJOMFQ4QXVjVUxmWklvM1ZxQW1aaHU3M1VBNk9JcjB6bGNyV1VKMUdPRGRpVmlYZmN5ZU9sSnRQRmt4MTcyWGF5bWlUczBaVnk5SjlreV9nc0dNTXVqUzRfNWQxbUNPdkw0TDR3eGFpR3RER1JMTjhOdjM3TkhRZw?oc=5",
           "outlet": "The Times of India",
-          "summary": "A man in Florida reportedly used artificial intelligence to imitate a popular streamer's voice. He then used this cloned voice to deceive cryptocurrency investors, leading to a scam totaling $260,000.",
+          "summary": "OpenAI has filed a lawsuit against Apple, alleging that Apple rehired a former OpenAI employee with the intention of acquiring confidential plans for an AI device. This legal action suggests a dispute over intellectual property and competitive practices in the AI technology sector.",
           "about_india": false
         },
         {
-          "title": "After FIFA And CIA, Hackers Target Europe's Biggest Tech Company SAP In Cyberattack",
-          "url": "https://www.timesnownews.com/technology-science/after-fifa-and-cia-hackers-target-europes-biggest-tech-company-sap-in-cyberattack-article-156573610",
-          "outlet": "Times Now",
-          "summary": "SAP, a major European tech company, has confirmed a security incident known as Project Granite. Reports suggest that hackers may have gained access to the company's source code by using stolen employee tokens and AI agents.",
+          "title": "Palantir signs $300 million deal with Poland to bring AI to military operations",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWlRFemhVTURpUU5yT1c5ZzBBNjA0blQtSjAtUkpCV3BMOUNqWHIybWFUa3FzU0ZsNGZwZHBsODhSX3FHOGVId2ZsTXA0bTNOdkxKT1FmYnV6UzZuc05JRkMzUUxyTVBoVnBubldTMzBxZlJyRm1fSW43LVJMa0tJMW9lTDk1S1hhdktOMHF4b3ROS1kzUmJTcWtkaVV3cWYzckFidjdXLXN2aDBfYnVBSmZueTlzcWNna2YxR0V3OXdqcHh1ZTFyNlBpbmpPbzg4SEtXQmstTE0zeUVIZ1plclF4MVhBWGtiMjQxT0lWMW1DZkXSAfgBQVVfeXFMTVp3UWQ1WUJwaUh5V0RjRG1BQ01ZMDNadzNELXlQN3FqMU8yZko0UWYwNmwxODlPNXRESW42TjZ4dUR0dUNxWXRXeEY3UlR3T3Vqekd3X1ZPVmxIMV9NZkZvVGNSX1F2dC1DUDhhYzdYT01RejREZ0VmUUMwNW1WOWIxa2p2RUxhNlJGby1KVWtrZzlWVUxoM0lCSl84UTlnaTFUMFliQ0xQZUNteFdnMzdVanozaGIzVmFlUHh2c050WENaeUJYd1lqT0pKTnpuZjVxVUFaaGNCY1lLcmJTMHBCU2ZMX3FuaEIzSklqUDRodXYtN210WFE?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Palantir has secured a $300 million agreement with Poland to integrate artificial intelligence into the country's military operations. This deal signifies a significant step in enhancing military capabilities through advanced technology and highlights the growing role of AI in national defense.",
           "about_india": false
         },
         {
-          "title": "Govt Warns WhatsApp Users: How Your Personal Data Could Be At Risk And Here's What To Do",
-          "url": "https://www.timesnownews.com/technology-science/govt-warns-whatsapp-users-how-your-personal-data-could-be-at-risk-and-heres-what-to-do-article-156572988",
+          "title": "Less than a week after Jensen Huang joining back as CEO, Nvidia sends message to manufacturing partners; strict instruction says: Stop shipping server chips to these four countries",
+          "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQV1F1N0lSWVhMV1NxUG1mdUZfQklhc2oxbEhSM0FZRWdfUTZOMy1rYmRuVFZ1SjQ1bzZWVTRPdDVLcjl2Zk04ejYzYWxBZ3dPc0xUc1ZGNWRFdkhBVU1ZMFlDdG9mRjR6RzBzeWxqNE5KdXdnMkktSHJpU3d6NVJHeUoxR0dCM3JHQWdkSU4zdTFSS09Oei1QRTZiTDNfYjQzN0IxWGYtTnI4ZERzVG5ScHE0ZS10cGg2cWdzbnRnTWotQWJCd1lLd0hHelE4WU9FcEN3YlpHTWVTVGJ1eVI5bEdSUkg4em5xWkZSeXBfTWhzaUp3aWZMR0NqZEZtbTQ1V2t1Si1WS3RsbV9CSXN2SjMxdjc3ZDNpRWpjVjNxVUVsWjdkUm5vYlkwZUhDNzhqYjVMTlBrN29mNDIzUjV6S2dnVm1TZ05hSm5XdFNMc0VybjJKR3FGanJkaFFobHBmVGJaQ3lBdTNGOTBLaWotWTZQcW1Dcms?oc=5",
+          "outlet": "The Times of India",
+          "summary": "Less than a week after Jensen Huang's return as CEO, Nvidia has instructed its manufacturing partners to cease shipping server chips to four specific countries. This directive indicates a significant shift in Nvidia's distribution strategy or compliance policies under its renewed leadership.",
+          "about_india": false
+        },
+        {
+          "title": "Instagram Is Coming To Your Television, You Can Now Watch Reels With Family And Friends",
+          "url": "https://www.timesnownews.com/technology-science/instagram-is-coming-to-your-television-you-can-now-watch-reels-with-family-and-friends-article-156576183",
           "outlet": "Times Now",
-          "summary": "CERT-In has issued a high-severity warning to users of WhatsApp and WhatsApp Business on various platforms, including Android, iOS, Windows, and Mac. The warning indicates potential security flaws that could put personal data at risk.",
+          "summary": "Instagram is now available on televisions in India, allowing users to view Reels, Stories, and content from creators on larger screens. This expansion provides a new way for people to experience Instagram content with others in a living room setting.",
           "about_india": true
         },
         {
-          "title": "Boat Airdopes Prime 701 ANC Review: Big Features at a Budget Price",
-          "url": "https://www.timesnownews.com/technology-science/gadgets/boat-airdopes-prime-701-anc-review-big-features-at-a-budget-price-article-156563221",
+          "title": "Motorola Signature 27 India Launch Date Confirmed: Check Expected Price, Specifications",
+          "url": "https://www.timesnownews.com/technology-science/motorola-signature-27-india-launch-date-confirmed-check-expected-price-specifications-article-156576787",
           "outlet": "Times Now",
-          "summary": "The Boat Airdopes Prime 701 ANC are reviewed as offering significant features at an affordable price. These earbuds include 46dB hybrid active noise cancellation, spatial audio, AI-powered calling, and up to 40 hours of battery life, making them a good choice for daily use under Rs 2,000.",
+          "summary": "The Motorola Signature 27 is set to launch in India on December 9, 2026. This upcoming device is expected to feature a Snapdragon processor, a 200MP periscope camera, and a 7,000mAh battery, indicating a focus on high-end specifications.",
           "about_india": true
         }
       ]
@@ -49,39 +49,39 @@
       "title": "Business",
       "stories": [
         {
-          "title": "Setback for Tata Trusts: Tata Sons board meeting to be held as scheduled, says HC",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/no-interim-relief-for-tata-trusts-tata-sons-board-meeting-to-be-held-as-scheduled-says-hc/articleshow/136223470.cms",
-          "outlet": "The Times of India",
-          "summary": "The Bombay High Court has ruled that the Tata Sons board meeting will proceed as scheduled on November 30, denying interim relief to Tata Trusts. Tata Trusts is challenging the reappointment of N Chandrasekaran as chairperson, arguing that approval from their nominee directors is necessary. This decision highlights an ongoing power struggle within Tata Sons.",
-          "about_india": true
-        },
-        {
-          "title": "Stocks Set to Rally at End of a Week of Wild Swings",
-          "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
-          "outlet": "The New York Times",
-          "summary": "After a week of significant market fluctuations, stocks are expected to rally. This follows a holiday-shortened trading period that saw considerable volatility for investors.",
+          "title": "Federal regulators shut $6 billion Indiana lender in biggest bank failure in over two years",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRWd1ck1RS1Z5ZlpxampfYmdSRlk3VnJTYklVQlBSUzVCaUVycFF3WXBpd1J1M2wtbDVQcWFyNXZwTl9hSHdrUFE3RWltdEoyQ0M4dUxjb1NFT2lGRkRvak40U3FoYUFCUk5IYmlJY0tfNHdieFpYVnNwUHhLcGFGekdsNUtUVkJHMXdsYXBmaWt2U3ZYc1JoVXlHaGlORE9mdkdvelNfOHcyVldJb3VEdU1HeGtJTmJtSXZkOEE0aXA0Snd6a1FsVHgtakFHc2w3dEREbzFqOWVOYkdBTlhuYWdRbnBxeWt0LTc0?oc=5",
+          "outlet": "CNN",
+          "summary": "Federal regulators have closed a $6 billion lender in Indiana, marking the largest bank failure in over two years. This event indicates a significant development in the financial sector.",
           "about_india": false
         },
         {
-          "title": "Stock market today: Sensex falls over 600 points, Nifty slips below 25,750 after 2-day rally",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-27-november-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/136208203.cms",
-          "outlet": "The Times of India",
-          "summary": "The Sensex dropped over 600 points and the Nifty fell below 25,750 today, following a two-day rally in the stock market.",
-          "about_india": true
-        },
-        {
-          "title": "SAP Layoffs: Company Weighs Cutting At Least 10,000 Jobs In AI Restructuring",
-          "url": "https://www.timesnownews.com/business-economy/companies/sap-layoffs-company-weighs-cutting-at-least-10000-jobs-in-ai-restructuring-article-156573938",
+          "title": "Adani Group Seeks Government Nod To Invest In India's Airline Sector",
+          "url": "https://www.timesnownews.com/business-economy/companies/adani-group-seeks-government-nod-to-invest-in-indias-airline-sector-article-156578865",
           "outlet": "Times Now",
-          "summary": "SAP is considering a plan to eliminate at least 10,000 jobs as part of a restructuring driven by artificial intelligence. This indicates a potential major change in the software company's workforce.",
+          "summary": "The Adani Group is seeking government approval to invest in India's airline sector. This move is driven by an increase in air travel demand and the need for more flights.",
+          "about_india": true
+        },
+        {
+          "title": "OpenAI Accuses Apple Of Pressuring Suppliers And Restricting Employee Mobility",
+          "url": "https://www.timesnownews.com/business-economy/companies/openai-accuses-apple-of-pressuring-suppliers-and-restricting-employee-mobility-article-156579241",
+          "outlet": "Times Now",
+          "summary": "OpenAI has accused Apple of pressuring its suppliers, limiting employee movement, and misusing trade secrets. These accusations are part of an escalating legal dispute between the two companies regarding hardware ambitions.",
           "about_india": false
         },
         {
-          "title": "RBI lowers minimum daily CRR maintenance requirement from 99% to 90%",
-          "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-lowers-minimum-daily-crr-maintenance-requirement-from-99-to-90/articleshow/136222881.cms",
+          "title": "Festive & wedding season demand may push India's retail inflation higher, warns govt",
+          "url": "https://timesofindia.indiatimes.com/business/india-business/festive-and-wedding-season-demand-may-push-indias-retail-inflation-higher-warns-finance-ministry/articleshow/136243149.cms",
           "outlet": "The Times of India",
-          "summary": "The Reserve Bank of India has reduced the minimum daily Cash Reserve Ratio maintenance requirement from 99% to 90%.",
+          "summary": "India's retail inflation is expected to rise in the coming months due to increased demand during the festive and wedding seasons. The government is concerned about the prices of food and non-food items, as well as potential impacts from geopolitical tensions and oil price fluctuations. Despite these risks, the economy is supported by strong domestic demand and improvements in manufacturing.",
           "about_india": true
+        },
+        {
+          "title": "A.I. Companies Race for Space in New York, a City That Doesn’t Have Much of It",
+          "url": "https://www.nytimes.com/2026/11/28/business/ai-offices-nyc-perplexity.html",
+          "outlet": "The New York Times",
+          "summary": "The artificial intelligence industry is driving a significant increase in demand for office space in Manhattan, potentially making it the strongest year for the market since 2000. As available space becomes scarce, AI companies are finding innovative ways to secure real estate.",
+          "about_india": false
         }
       ]
     },
@@ -90,39 +90,39 @@
       "title": "Politics",
       "stories": [
         {
-          "title": "Delimitation Showdown: Modi Cabinet's 50% Seat Plan, DMK's Conditions & Cong Huddle |Breaking Ground",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSlhWVHpOVGp3R0pmVHo5MU56amR4U1BucnVmYXFfTEhzaTN3WGJrbE1fOU5KbUloWmxlLTg4ZnIyN3NjeUk0ZjNVaTc1UVFfVTUwQk1URnV5ZzcxUE5scVpXenRmb21GV1dZUF9TdkV3RXRYbXlsT3gxbzVJZ1p5VGN1aXMxc2Rab0RNbXpsX2hidFkta0RkT2Z5MUUzcWVIaHdYa3RiZ0xTTmJ3b3NFclFUanBRRkIzUFRUX3VSU3ZHam1GSWFEWGVnX2Y1SmJFLWVIZ0RwTDlTTE44VzNGUHc1bEVldDNQ?oc=5",
+          "title": "Delimitation Explained: How Constituencies Are Redrawn, Who Decides And What The New Bill Says",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlc1V2FwUnZtN0ozNUxjYVd5MTFJQkJxU0tZM0tqRFF1SGhSR29MMVBvdFQtRTJXVlhTbjZaZ2hnZDVrTVJMcDJtRXlEVTdOYjJ5VUY5Wmp1NEh2Um9oX2JzWUhnX2Q0U3ZrdkdKT3d2NnJMUXc2Q0xOV0tvRGZxWTJJd1NzRXZmaS1NU1owSTZsZVlTbVdlNzc2YkF3V0phS2V0M3JUUmJUODBkdFNheUU1bjdiSGZnS0tENExwRGJ0Qm9VRXotY3JrUGhwNUh3WFJUNW9sWkkwenU0SGfSAeMBQVVfeXFMTmlnelJqeTNkeGNFeXI4Ulh6Ri1lVHNSNHNRcGNkTEswTHhfR09KUXZma29QeWlEdlpCckVHYkY0Q3FwNW9wdG9ObUFQQmtNY1c5X1AxT3NGcDFTYU9Yb0V4QXk3bHJpM3dJNjFneWxtbFlSVzhvYnQ1QS00WThYanUtRlk5ZmdTY3hSRTA4c2pjUkladHh4aVJJSUtHS3pxeGk5SnVpdEtVSDFuZlFya3FNMWVaYjlSTVJCMzAtelMyOVN0bVBzTHUxUDlEeHQ2TlVQMDlQOHVHVm5FTEx4MFFlSFE?oc=5",
           "outlet": "Times Now",
-          "summary": "The Modi Cabinet is considering a plan for seat allocation, which has led to discussions within the DMK and Congress parties. This development highlights ongoing political negotiations regarding representation.",
+          "summary": "The headline reports on the process of delimitation, which involves redrawing electoral constituencies. It also explains who is responsible for these decisions and what a new bill proposes regarding this process.",
           "about_india": true
         },
         {
-          "title": "SC's Landmark Deepam Order: Light Deepathoon Tomorrow; Temple Board Suspended, CRPF In-Charge Of Security",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVHljNVJwNDNKcDRtWFlqRnExc04wOVpNUTY5ajdBN1RHM2dFbjNGSm8xUTJldHRjNk9xS2RsTXJFWXo2MGpHd3JMNmhNcUpod2VTSnhHdTQtencydk5nNk9rczlXbGdqTlFWbW9WeWRJVG5NdmdKbkZtb1dmY08xcmZhbDRkSER5WnFlTmZLUjEwRmFnVVJFdXdKRlJ5aEY3VE85Wi0tRVFjblgtTGRJazZGQmJ3em5xOHdOZWdRcmJVLWZUZjZkZHVoUzNrQXdfWDV3dW9Jb2g5dGJ0aTExLXJ1WE9iM082MkNn0gHwAUFVX3lxTE5OX1Y1WVY1enBzSUY1R3kyckl0WmdtS3FpeDlycjFXRFpkZTM2dl9aV1FDUi1COWtISEZjTjdJdDVuNnBSRFNROVR6cjVaNGtPcG5MckNMdlJmOXNyc1NaeVg2NlE4UG5OVEpGdzJRNkdWbDl6dTdoVEtCaTJ0Ni1MckNlT0dkRVh1ZXBEbkU4cnlQQzhmSEVQWTJjV2NRbml4Nk1MZEtOM1NWdGpKdWF0MXR0a2tJWEtYbFF0bV9qZVBGa2dpajlSclFfUkJraGhBaXBBWnZaWGl6V1U2akNzX3AzVUtvODYyMU1Ecndncg?oc=5",
-          "outlet": "Times Now",
-          "summary": "The Supreme Court has issued a significant order regarding the Deepam event, instructing that it proceed tomorrow. As a result, the temple board has been suspended, and the CRPF will now be responsible for security.",
-          "about_india": true
-        },
-        {
-          "title": "Spain to vote for a new Prime Minister in Sunday snap election",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZFU3dThXVFZMeXJ3YjBmaWJRN0NuOFZjWVRLMVQzcjAwNHNjdjRBTXBZaWc5YWxab3c0Y0J6VDVnUzl1RHAza3FUSC1OTndsajd6cHprc0daNlRxRmY2QWZfTGthYnIxdDBmb2NLaGlnaFZXQm5XenpuLWlxZERiQ3FWOHVhVkwzZmVmbjlVOU5Dc0FDWGM3WlJLS0tDWnI0N0h5dGRxTVlxWE44Q2xjTzNILUkyU1BsS3RCZFhhdC1sQWxLTmV1NjhLcENuZHh5WXNGd3Z1TFdlS2lCUzllRGhlT3FZdjVH?oc=5",
-          "outlet": "CNN",
-          "summary": "Spain will hold a snap election on Sunday to choose its next Prime Minister.",
+          "title": "Millions of Children Are Losing Food Stamps",
+          "url": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html",
+          "outlet": "The New York Times",
+          "summary": "Millions of children are losing food stamp benefits due to recent policy changes. Republicans stated these cuts were intended to combat fraud and encourage adults to enter the workforce, but the result has been a significant reduction in aid for children.",
           "about_india": false
         },
         {
-          "title": "Supreme Court to tackle AR-15 bans in blockbuster Second Amendment case",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlJaa1Q2M2p2YXZ2dVVhbXlxVU4ySVJpcTZwSzBmRlh4LS04VTRkU041TzNweDFGQ05QUGEyWll3cUROQlRPcEQ3dTFXQzFUX2dxNURUMjFUd2pHamxfZTZOYUhVanBRcGFTVm9rNEIzSTNWVkNPNVBMQ0libHd3WVRKd3p3bkE?oc=5",
+          "title": "MSF ‘outraged’ as two workers killed in Israeli strike on Gaza",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPTW10OWRySDlzNlJkLTFFSS14cnJuM0tNZmlRU1FmQXRxazJEMzR2dUVoeVcwalhMVlVVeUg3MHlUZnNWZklNUmpFS1lTLWR0WE5rWnBpUE1kMlRQZG03M3dNeGNLekdZNEEzWUJ1c0NqRXJfbjZ1LQ?oc=5",
           "outlet": "CNN",
-          "summary": "The Supreme Court is set to hear a major case concerning bans on AR-15 style rifles, which will address Second Amendment rights.",
+          "summary": "Doctors Without Borders expressed strong disapproval after two of its workers were killed in an Israeli strike in Gaza.",
           "about_india": false
         },
         {
-          "title": "US may ban China-made cars as lawmakers reach deal with auto industry: What it could mean for Tesla, Ford",
-          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQbGY1ZUhGN2UxZjVBVVF3cExQM1VqdDZjenl6WXZCYnlmSGcwZ1VDblAxbUlyRWJqRTZWRlJPd1RQSVNfX0k1b2h2aVRCd25uWDBmTnRQQ0Q5azUwZFFsSDhFZEZHSmdIREdzM1VpZTBPMjBHc1pabjVmbl9KX1lVcERwSWg4d0VHNDBqSnlfUnVDaW12UWp4dC1MNHdlVlB0NGZLMDJMek9mLWFtRWdfeHk1VnRJdWxWZjZBUmdwMWVHTV9jWlM4aE9tR2c4bUpNanhlVU9hZnR5TGY3VmdBMTVRSkZkMmZoLVI5WkZKR3BQTzZSVWkwVzRndjJIS0N2Q1NTQU9MdTJ3TE0wWGZXdldSWjBBNEx1Zm9rR1BELTMwaVnSAagCQVVfeXFMT0tBb3ZPUEh4N1RPVmwzai1mc0lvbDdsOURwcFVfUHVCbnlKZWFrcmQ3XzRCTUU5cUVJNVlXSDhOUU55ZFY3aGdmeTJwRFF0anRQZHVlWkFJVzQtRlRKdmZSM2ltSUhyM1BNSFZHVnpGZHhPNnIxME1samZxNVRmVEdIYkV4UlNnQ2RaNkxObnpMS3o5eGpTLWtHMUdCX1BrUnljTXBWcGFEUWVIY1M4dGV3MnY3VkRDYUlPeGtya0tfeUZ2TkZJN2tuZkZtb2NOYjlvYktkeEduZVpaMmtQN0pOc2lqekdEeXpxRFI1dWZpOXVmVmtVYXJubXMwWWtsNV9VWlYtWXJVbGFHZUh5VmhzT2hNeXExMzFMai1ucjdkUlZkbDViZVA?oc=5",
+          "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
+          "url": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+          "outlet": "The New York Times",
+          "summary": "Some China critics in Washington are surprised by Trump's positive remarks about Xi and Huang. These critics have become more vocal, particularly concerning the competition for dominance in artificial intelligence.",
+          "about_india": false
+        },
+        {
+          "title": "Supreme Court raps TVK government, orders lamp lit at Tamil Nadu site today",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbHdWdV9Ja1BCTndfdEhnc1I4NE9UM3h5SXBpVS14UGlSc1p3NktUd2NXekhIbEY0V0RBbHNlQkZuakhqRW5zSnl0bWNlT1h2bjFxR2oxMUg0YWw0WkVZaG5WT3h0MjZZLW1ZLWpQZ2wxQU40cmZJbU9tbjA5Q0xVcExpZjJ4R1dvVU1QUDBnYjFOZUw5VkxHLXptY1NvRS1FVFhmVUhJZGR0eThVNmxoQ1kwby1hUG9DVHhLbkt0dDZfMWwxUEc1N083YjUwcW14S3RETDFDSzUyd9IB3wFBVV95cUxPTXVEQ08xZ2tKTzhBV0UyTnBqMm5tQ1c5ckZVcVFyQndCWDQ0SkNsb3V4MkdrVElkcTFCd3hnejZoT0Y2RkxPM1IzNEFPY21hTlB5Mnd3NEN3eERMSGxXUTM2U2ZReGhKVkNnMmxLRnY2SXJ2OGVyNlhobk41VVNQZ1JSbm1qSE8wZlZuUTFhOUJEazA3S29fQkdwbmQ2OVV1YWItWm9vOFRqRmU0QndDQ2JyYVA4ZkpJVHExN0NsaW84R19Ecnc1WUxLM2FmTGx4YkNpLWVpb2tnRElLb2Jj?oc=5",
           "outlet": "The Times of India",
-          "summary": "The United States is considering a potential ban on cars manufactured in China, following an agreement between lawmakers and the auto industry. This move could have implications for various car manufacturers.",
-          "about_india": false
+          "summary": "The Supreme Court has criticized the TVK government and issued an order for a lamp to be lit at a site in Tamil Nadu today.",
+          "about_india": true
         }
       ]
     },
@@ -131,38 +131,38 @@
       "title": "Education & Visas (F-1, OPT, H-1B)",
       "stories": [
         {
-          "title": "IBM to cease US visa, green card sponsorship for most consulting roles",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVi1jTXE3RGRxbUVVRlNaT25ydkppZm1CTlZrNFlCeGd5QkZmQm9WOU5wNDhhay1rUGJ6TTAwSzFNYzdMcGk1ejJfRmNHNXUySThfNExXYnlIYUVMVjZvSWtZd3gzSktzWXE5UDhIUjZ4bzJuRF9zQmdRSkxSVEdqY1JiVV93UXJiLVJhcjdZQ3Vpci1YR2NkRTZfSFY1blpwVDYtdW9wemxkOUtQOWFSUng3YVhRYVJKNW9GcHZwWlpISTM1NVdwYkVFNNIBzgFBVV95cUxNRlVyblRwVVN3cTFyZ1RPNjdKbUJlc1RJOWE2blhBbi1ZQmxGQ1BMcFktYjBaVktZc3lXa2NOUHhtUFpEcVQ1Q1g2aERubDdpMWdkVm5McE1ha3d5OTk4djJDUHk0M2hyWnc5YXBsSURLbXNwQTkxUldkbzk5MkdaVkh2dEdwT0NDMUxRQktiZlhEaGlMRXprd24wU0ZOSnlhTVJqZmppTG4tRm04elpIRWU4QUt2ZHJlcVR6VTlDM0hGcjRQQzhHT1E5QjVfdw?oc=5",
-          "outlet": "Rediff.com",
-          "summary": "IBM will no longer sponsor US work visas or green cards for most of its consulting positions. This change means that individuals in these roles will need to secure their own immigration status to work for the company in the US.",
+          "title": "IBM halts H-1B, green card support; asks Indian staff to move to India or resign",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHc0SDN6aV9UOWRKaTQ4eU1IN3hHcUpZRko5QjA2d0RDZXNmRmJWWG1jbDM2ZVByblY4UmpLSlRNOExHOXZ4dUxyV1hyQTY3eUdObXRSU0hoSkp4VEk5bVFCSlZYSGszWGp6a0NXT0stMFNBMVRWTnJxdWdNZ002b3ZCRW9qT2liU0M5Q0pteGo2NDRlS3hEY3pnbHlqOXhHclp6TnI1Uk8?oc=5",
+          "outlet": "FlipItMoney",
+          "summary": "IBM has stopped sponsoring H-1B visas and green cards for its employees. Indian staff have been given the option to either relocate to India or leave the company.",
           "about_india": false
         },
         {
-          "title": "Infosys sees eightfold rise in US H-1B approvals as Texas prepares to change visa policy: Report",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSzFGZk1ReGR0YTNRV2J0ajIxdmlTT0wxVXNVTXZWNGtJdUlxSUZpTnhrcUJ0eEotNUljUWFHc0VRRWhndjZ3S3NKWnlqamkxd00zQ2JvNnZsT3JZNkZWUjFtYWxCc1pZTGFab0ZfVml0NC13Rm4xZ25od0xEckZmTF9jUXlWeUs0Wnh6d1FJVHp0dHJXdmtvOHUydjlJLWlwSDlZOEh2czluY0J5dDhnMmx6bFpnQUYxT2NzTG1ocGhna2NsNG1NcG1qcW9fOVpqekhTRFRreXNCYWwyUXRFaUdLSFg4QkRjYWtWRkNOS1Ytc09qcTVlM0Nn0gH_AUFVX3lxTE43Z2xiRDVrdXN2WDdoQTFZOFhyMkZwbGs3UlB2dzBGUUNzeVVPMWpfWEtHSHB4R3J6Znp5TmNUZFJjN1pjazQwcHRCZDRFOURRZjhYLVNqaEUwLTY2clpHaFpvcjVxTUFyOG9HMXdiT0F0SmNuc2U5YkZTTnJaNVhSQXRBLTI3MXF1bHk4ZEpuaWlqSDdjTzlfOV9hczM2UWFZTkVIeFY5WVZNM2R6YmZ6TVhzTGVWLUF3YUlaVHRkdGJ1ZXh0U1pEdXBkdXVKN0xmR05RNzU0RFJIbVVaYUdURTF0eTlkaWNiNWVmOXFoUDJ0UTNsWWZHcTZsSlVJRQ?oc=5",
-          "outlet": "The Times of India",
-          "summary": "Infosys has reportedly seen a significant increase in its H-1B visa approvals in the US. This rise comes as the state of Texas is preparing to implement changes to its visa policies.",
+          "title": "Barnard College resumes CPT approvals for international students after US court blocks stricter work authorisation rules",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaFBDVjNYRUVPTERTQ1VmcGZ5WkpoMDFLTXFxZE9faTdDWjlZdDZXTjEyNVJYU0poN3pWem9VaTMzLWFmTHhXRGxQcnhVUWVuX2Y4RGR3aTM3ZWZjUGxOYlVvUmJyUU5Ub21fVkdObTB4NWVJdWJwbXRSTGJvV2hEeDJNSDZFRUJPeW9hTjg5UWpzTDVOVXNFMHZaNHhjV3llLWlMbk9fOUtuVnFxVm03a25mYkdDWmsxejBCMm1BU0xFUmVKUDYzQVF2eUp4VzhPaEVUVXJ5Znp0Y0trOGVDMC1uUW9Qc2NVdGJNWTZSeVdUU3JFRml3UFdaWTRDN21ZRWduYWc2VE5PYVZJWkE?oc=5",
+          "outlet": "Moneycontrol.com",
+          "summary": "Barnard College has restarted approving CPT applications for its international students. This decision follows a US court's action to block stricter regulations regarding work authorization.",
           "about_india": false
         },
         {
-          "title": "Columbia-affiliated Barnard College resumes CPT approvals for international students | Hindustan Times",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMzBPSnp4WEQ3dC1hazF1VmszOHJnRFpXUG9zUzEzalZ2Uk1QNjRIX2g5NnlUZ0twY3lYNC1uRFB4OGR5YnZTUVZwdEVGVC1qc1Q1aU5INFc5c3NUclRlM0dwMEljMF94OHhzbVdEcHZNWDhnZmhRZjBOZkR0bERvRFRoRVZTOHpKajIteENXVmVBdGhDVzd0ZDkwTGRWSlhBM1JON0NiSUh4Q1lWbmNzZklNMi1rdU5uVkltTmRoT3Z3dXM1aVRjVm5pTHIzWG03azZJS2hLbE9FSHd6Tk03eGgyZjRrMC1lMFHSAe8BQVVfeXFMT2t4UGNya24xRjhfYkRQRTdudmY2Q051bmdJWE9IZXhMSlRoMmxGTkdBVXU2QmFXTExYN21QSk1ZTk5BT2czQlpJRHhoeXJaTHYyN1poZjg1QV9kOTEwNGQ2eWFZTUk1YkEtR0tfanFMT2k0dHFodEVadUlsa01rN1JHTDd3TU9ZSUhxN2RHQjZNa1hJcVUyM0RsZVI0Q3lTZEsxRHhGdEdiS1lybkIyOFdPQUNWU2NlZkpZQnBNMHJIVFJYYnlrV0ZuUWxaM0Uyc0I0eG9MRWt2WkNMYmpBU09TdzZNZDFGVElXWHhJTDg?oc=5",
-          "outlet": "Hindustan Times",
-          "summary": "Barnard College, which is affiliated with Columbia University, has restarted its approvals for Curricular Practical Training (CPT) for international students. This allows international students to gain work experience related to their studies.",
+          "title": "Infosys sees eightfold jump in US H-1B approvals to 2,088 in FY26 as Texas plans to lift hiring curbs: Rep",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQRmFqMF9HR0tWU3huRjJZZnNxTWw3OUJrU21tekZYVzk4VXBEcEtOSHlWRG5xZlQzU05ZSmFHX0w2ekVEdGRaN2Uwci1FejhTUVE4a253SVJvRE1wdTM2dFhwSGRmSWYwMjJkbUVNa1BwUjhnMGg4dEJDaWs2aF9jeXhFc25rM2FOSHk2SmJrWXNFS0l1V2VxQ0tFOHVoV3k2ZDB6OHo3TzdQTVdqVWVJTXRrU2lIT0Z2ZjNVaXcxZ2xKbF9TNXQ0MWlTYlBzWHBCZ2hOSmFwMnVTWGNzZTJrV2tEcV96MXZETjRxTEZqVGxYSHA0S2dxd1RtZm1XTlXSAYQCQVVfeXFMTzdHSm5LM0ZSd3lFSGNMb2swZ05HN24wVUFPS29zTF9RQlpxbzdnT1FhWDk1blFoMVFFdnktblhXZnBUclpoQ3hXeklDWEZnM184RzRLV1FwOEVVckliaktqQkV6U0ZGY001a3ZfNm9tbFFmTVFfLWx6QnRLSDhYQkN1VHhidm55OXh0b2pGN0phSndoTlF2dWVEcXhLOFJMQWhnVFA5eFpSM3BXX2RTVEhSSEpQVG52cEVYS1RtcDJibjVPeHNvZ2xvVFY4SC1ISm9LeVpIb0tFYmRNMHRHb3FaREZkbV9iQXF0dmxpU1JaNUZETmxacEoxY3A2UmZSOXRPVGc?oc=5",
+          "outlet": "The Economic Times",
+          "summary": "Infosys is projected to see a significant increase in its H-1B visa approvals, reaching 2,088 in fiscal year 2026. This surge is anticipated as Texas plans to remove restrictions on hiring.",
           "about_india": false
         },
         {
           "title": "Thousands of international students in Connecticut could face new work hurdles under Trump proposal",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjd0ZEhDSVhMclpFb0N3SmlETnZHeTlQSFFRenpOYk5qS3gzYzJsQzRnZEhuSUIyZXFCX3RPUTlOYXdCWEYybmFRQk5TZHZ5NGNNNTNkT3JBWEluQWJLUmE5UUQtYVdhaWx1c1ZobkJhcVdPSThaNktCd0dLRzdzdm92cTFKODIzcGRPM1ZDU2NuVWZSNnhNWA?oc=5",
-          "outlet": "CT Insider",
-          "summary": "A new proposal could create difficulties for thousands of international students in Connecticut seeking work opportunities. If implemented, this change could impact their ability to work while studying in the US.",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSmtISFJpaGtzQ2ZhNzVPWkIzM1BoWEl0TkdLU2doaWFWRTZ1UEZoVm56UXFEdExtOTlBSjBtRXNuTTVENVh5YmR0bUhKcHdIbnhSNjNyOVNGdmcyOVlSSnVYOUJHdXRfM3loS25rQkc5QUZfQmdibk9OOXNPUG5qeWUwd0RJUGhiaC15ZklqcmVudV9ua0V2ODlVQURaSXdnUVJ1dG9lSUE0MHdjc1I3bE1xWnVid3hfaHo2RHhVUlhWVy1UOS1PUVJnSTRDSzhES2lhdElhNHd1N2hLWi1zVTFZNkoxVzBWUGp1d0U3YnRkWDFB?oc=5",
+          "outlet": "NewsBreak: Local News & Alerts",
+          "summary": "A new proposal from the Trump administration could create difficulties for thousands of international students in Connecticut seeking work opportunities. The potential changes might introduce new obstacles to their employment.",
           "about_india": false
         },
         {
-          "title": "US Labor Department Proposes Stricter Green Card Rules",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiVzhaSmQ2NjZwQjdfOGluUWFQOU43NDdRdkJYRklxajFpX244WXNxY0V1a080VHdEOVdJS25Xdy0zUGVwaWd4N3UwNElBSXFRYkhhM3dpcmRTN3R4WmRqclg4TQ?oc=5",
-          "outlet": "Peradaban.id",
-          "summary": "The US Labor Department has put forward a proposal to make the rules for obtaining green cards more stringent. This could affect the process for individuals seeking permanent residency in the United States.",
+          "title": "Mississippi Senator-elect Scott Colom calls for H-1B visa reforms, says Americans should get priority for tech jobs | Hindustan Times",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdlFEVGhtVHRzRFNGX3oxZ2Q4SzZPZFlzREZpUXd2OHJQTzhOX0c0Y2NZMVk4dld5dE1pak9OWTZDdUtKc3pUNlVRNUlrel80cHF6bXRuZk55eWJrUWdNYXRXYjV1QW1TVEZJQkllcTdNcktUZmZwa1NGUzNUb2ViclVSTU1ad2dBekxRclQyM1VmQ0xiZGJrbGE2SGxFVzlpdHZ1Uk8xQmh5QU9VaGt2LWc4QWphVFJoYWZrSVIzUmUxY3pkWkc2N0pDTUx5UXNsLTk3TERVdS1SVndDRHRvTGU5WlBseHo5YURaeGp5eWpiNXNySHhJWHJELXpqbWpRWTZ3azdiaWVZV05iUDVqYklYSdIBmAJBVV95cUxONVk1NUxyOWtLX1VwV0lKUmVocXl1dWdackZUSF9YNzF6alNSUTRlbk1xZHFsNFQtWnlaT296aWVSUGJoX2hzY2JFcXlxQnRoanBWaEg3a0NwVnRsTThzS1otdHNlSUxQV3FDaUVmNkRXRzRUTlpFRXVKR19MeDlJN3N4Sk96SGJBT2ZnMDlWZ09vVmkxaTlLNFpHaUx3MG9QSmpmeDVsSEotQXZXQi04bEZqSUcxeGlQcEhYdjQzaVNlRmp2TWwtTU5mUm9NRVJXVU03M0RnZlNBWjhRMm9ZVkgwZ0xfajFvVTVGVzduYVNGUDVtakRpZGRITWttYnRNendibDJPZ2NQU3IzOVV6MEd1NG1zcWpU?oc=5",
+          "outlet": "Hindustan Times",
+          "summary": "Mississippi Senator-elect Scott Colom is advocating for changes to the H-1B visa program. He believes that American citizens should be given preference for technology sector jobs.",
           "about_india": false
         }
       ]
